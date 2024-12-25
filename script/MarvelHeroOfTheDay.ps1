@@ -146,8 +146,9 @@ function Get-FirstCharacterComic {
         $firstComic = Get-FirstCharacterComic -characterId $randomCharacter.id
     } #>
 
-    $comics = Get-MarvelApiData -endpoint "characters/$characterId/comics" -queryParams @{ orderBy = "onsaleDate%2CfocDate"; limit = 1 }
-    #$comics = Get-MarvelApiData -endpoint "characters/$characterId/comics" 
+    $comics = Get-MarvelApiData -endpoint "characters/$characterId/comics" -queryParams @{ orderBy = 'onsaleDate'; limit = 1 }
+
+    #Sort the comics by onsaleDate
     return $comics.data.results[0]
 }
 
