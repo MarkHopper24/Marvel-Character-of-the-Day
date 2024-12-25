@@ -125,11 +125,11 @@ function Get-Characters {
 #Function to save all characters to a JSON file
 function Save-Characters {
     #$characters = Get-Characters | Where-Object { $_.description -ne "" }
-    $characters | ConvertTo-Json -Depth 10 | Set-Content -Path "characters.json" -Force
+    $characters | ConvertTo-Json -Depth 10 | Set-Content -Path ".\characters.json" -Force
 }
 
 Function Import-Characters {
-    $characters = Get-Content -Path "characters.json" | ConvertFrom-Json
+    $characters = Get-Content -Path ".\characters.json" | ConvertFrom-Json
     return $characters
 }
 
@@ -240,7 +240,7 @@ Function Save-CharacterData {
     Invoke-Item "character.jpg"
 
     #Save the character object to a JSON file
-    $characterObject | ConvertTo-Json -Depth 10 | Set-Content -Path "MarvelHeroOfTheDay.json" -Force
+    $characterObject | ConvertTo-Json -Depth 10 | Set-Content -Path ".\MarvelHeroOfTheDay.json" -Force
 
     return $characterObject
 }
