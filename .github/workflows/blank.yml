@@ -1,0 +1,25 @@
+name: Fetch Marvel Hero Of The Day
+env:
+  marvel_public_api_key: ${{ secrets.MARVELAPIPUBLICKEY}}
+  marvel_private_api_key: ${{ secrets.MARVELAPIPRIVATEKEY }}
+on: 
+  schedule:
+  - cron: '0 5 * * *'
+  workflow_dispatch:
+jobs:     
+  run-script:
+    runs-on: windows-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Run PowerShell script
+      run: .\script\MarvelHeroOfTheDay.ps1 -marvelApiPublicKey "$env:marvel_public_api_key" -marvelApiPrivateKey "$env:marvel_private_api_key" 
+      shell: pwsh
+
+    - name: Upload a Build Artifact
+      uses: actions/upload-artifact@v4.5.0
+      with:
+        name: MHOTD.json
+        path: .\character.json
+        overwrite: true
