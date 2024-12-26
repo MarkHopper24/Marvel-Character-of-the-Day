@@ -2,6 +2,7 @@ name: Fetch Marvel Hero Of The Day
 env:
   marvel_public_api_key: ${{ secrets.MARVELAPIPUBLICKEY}}
   marvel_private_api_key: ${{ secrets.MARVELAPIPRIVATEKEY }}
+  github_token: ${{ secrets.GITHUB_TOKEN }}
 on: 
   schedule:
   - cron: '0 5 * * *'
@@ -17,23 +18,32 @@ jobs:
       run: .\script\MarvelHeroOfTheDay.ps1 -marvelApiPublicKey "$env:marvel_public_api_key" -marvelApiPrivateKey "$env:marvel_private_api_key" 
       shell: pwsh
 
-    - name: Upload a Build Artifact
-      uses: actions/upload-artifact@v4.5.0
-      with:
-        name: MHOTD. JSON upload
-        path: D:\a\Marvel_Hero_Of_The_Day\Marvel_Hero_Of_The_Day\MarvelHeroOfTheDay.json
-        overwrite: true
+    - name: Commit and push JSON file
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add MarvelHeroOfTheDay.json
+        git commit -m 'Add MarvelHeroOfTheDay.json'
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Upload a Build Artifact
-      uses: actions/upload-artifact@v4.5.0
-      with:
-        name: MHOTD character img upload
-        path: D:\a\Marvel_Hero_Of_The_Day\Marvel_Hero_Of_The_Day\character.jpg
-        overwrite: true
+    - name: Commit and push character image
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add character.jpg
+        git commit -m 'Add character.jpg'
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Upload a Build Artifact
-      uses: actions/upload-artifact@v4.5.0
-      with:
-        name: MHOTD QR upload
-        path: D:\a\Marvel_Hero_Of_The_Day\Marvel_Hero_Of_The_Day\comics.png
-        overwrite: true
+    - name: Commit and push QR code image
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add comics.png
+        git commit -m 'Add comics.png'
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
