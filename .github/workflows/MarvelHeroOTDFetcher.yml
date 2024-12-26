@@ -20,6 +20,20 @@ jobs:
     - name: Upload a Build Artifact
       uses: actions/upload-artifact@v4.5.0
       with:
-        name: MHOTD.json
-        path: .\script\character.json
+        name: MHOTD. JSON upload
+        path: D:\a\Marvel_Hero_Of_The_Day\Marvel_Hero_Of_The_Day\MarvelHeroOfTheDay.json
+        overwrite: true
+
+    - name: Upload a Build Artifact
+      uses: actions/upload-artifact@v4.5.0
+      with:
+        name: MHOTD. JSON upload
+        path: D:\a\Marvel_Hero_Of_The_Day\Marvel_Hero_Of_The_Day\character.jpg
+        overwrite: true
+
+    - name: Upload a Build Artifact
+      uses: actions/upload-artifact@v4.5.0
+      with:
+        name: MHOTD. JSON upload
+        path: D:\a\Marvel_Hero_Of_The_Day\Marvel_Hero_Of_The_Day\comics.png
         overwrite: true
