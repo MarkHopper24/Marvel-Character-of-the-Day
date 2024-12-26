@@ -218,9 +218,6 @@ Function Save-CharacterData {
     }
 
     $characterObject | ConvertTo-Json -Depth 10 | Set-Content -Path ".\MarvelHeroOfTheDay.json" -Force
-
-    (Get-Item -Path ".\MarvelHeroOfTheDay.json").FullName
-
     return $characterObject
 }
 
