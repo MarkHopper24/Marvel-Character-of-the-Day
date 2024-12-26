@@ -1,6 +1,6 @@
 name: Fetch Marvel Hero Of The Day
 env:
-  marvel_public_api_key: ${{ secrets.MARVELAPIPUBLICKEY }}
+  marvel_public_api_key: ${{ secrets.MARVELAPIPUBLICKEY}}
   marvel_private_api_key: ${{ secrets.MARVELAPIPRIVATEKEY }}
 on: 
   schedule:
@@ -17,27 +17,23 @@ jobs:
       run: .\script\MarvelHeroOfTheDay.ps1 -marvelApiPublicKey "$env:marvel_public_api_key" -marvelApiPrivateKey "$env:marvel_private_api_key" 
       shell: pwsh
 
-    - name: Create MHOTD folder
-      run: New-Item -ItemType Directory -Path MHOTD
-      shell: pwsh
+    - name: Upload a Build Artifact
+      uses: actions/upload-artifact@v4.5.0
+      with:
+        name: MHOTD. JSON upload
+        path: D:\a\Marvel_Hero_Of_The_Day\Marvel_Hero_Of_The_Day\MarvelHeroOfTheDay.json
+        overwrite: true
 
-    - name: Move JSON file to MHOTD folder
-      run: Move-Item -Path D:\a\Marvel_Hero_Of_The_Day\Marvel_Hero_Of_The_Day\MarvelHeroOfTheDay.json -Destination MHOTD\
-      shell: pwsh
+    - name: Upload a Build Artifact
+      uses: actions/upload-artifact@v4.5.0
+      with:
+        name: MHOTD character img upload
+        path: D:\a\Marvel_Hero_Of_The_Day\Marvel_Hero_Of_The_Day\character.jpg
+        overwrite: true
 
-    - name: Move character image to MHOTD folder
-      run: Move-Item -Path D:\a\Marvel_Hero_Of_The_Day\Marvel_Hero_Of_The_Day\character.jpg -Destination MHOTD\
-      shell: pwsh
-
-    - name: Move QR image to MHOTD folder
-      run: Move-Item -Path D:\a\Marvel_Hero_Of_The_Day\Marvel_Hero_Of_The_Day\comics.png -Destination MHOTD\
-      shell: pwsh
-
-    - name: Commit and push changes
-      run: |
-        git config --global user.name 'github-actions[bot]'
-        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add MHOTD/
-        git commit -m 'Add MHOTD files'
-        git push
-      shell: pwsh
+    - name: Upload a Build Artifact
+      uses: actions/upload-artifact@v4.5.0
+      with:
+        name: MHOTD QR upload
+        path: D:\a\Marvel_Hero_Of_The_Day\Marvel_Hero_Of_The_Day\comics.png
+        overwrite: true
