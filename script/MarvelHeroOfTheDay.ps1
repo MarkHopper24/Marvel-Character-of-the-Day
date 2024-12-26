@@ -1,26 +1,27 @@
 param(
-    [Parameter(Mandatory = $True)]
+    [Parameter(Mandatory = $true)]
     [string]$marvelApiPublicKey,
-    [Parameter(Mandatory = $True)]
+    [Parameter(Mandatory = $true)]
     [string]$marvelApiPrivateKey
 ) 
-
+$publicKey = $marvelApiPublicKey
+$privateKey = $marvelApiPrivateKey
 $BaseURL = "https://gateway.marvel.com:443/"
 $APIVersion = "v1/public/"
 
 function Get-MarvelApiParameters {
     param (
-        [string]$marvelApiPublicKey,
-        [string]$marvelApiPrivateKey
+        [string]$publicKey,
+        [string]$privateKey
     )
 
     $ts = [DateTime]::UtcNow.ToString("yyyyMMddHHmmssfff") + (Get-Random -Minimum 0 -Maximum 20).ToString()
-    $hashInput = $ts + $marvelApiPrivateKey + $marvelApiPublicKey
+    $hashInput = $ts + $privateKey + $publicKey
     $hash = [System.BitConverter]::ToString((New-Object -TypeName System.Security.Cryptography.MD5CryptoServiceProvider).ComputeHash([System.Text.Encoding]::UTF8.GetBytes($hashInput))).Replace("-", "").ToLower()
 
     $params = @{
         ts     = $ts
-        apikey = $marvelApiPublicKey
+        apikey = $publicKey
         hash   = $hash
     }
 
@@ -33,7 +34,7 @@ function Get-MarvelApiData {
         [hashtable]$queryParams = @{}
     )
     
-    $params = Get-MarvelApiParameters -marvelApiPublicKey $marvelApiPublicKey -marvelApiPrivateKey $marvelApiPrivateKey
+    $params = Get-MarvelApiParameters -publicKey $publicKey -privateKey $privateKey
     $authString = "ts=" + $params.ts + "&apikey=" + $params.apikey + "&hash=" + $params.hash
 
     $queryString = ($queryParams.GetEnumerator() | ForEach-Object { "$($_.Key)=$($_.Value)" }) -join "&"
@@ -50,35 +51,34 @@ function Get-RandomMarvelCharacter {
     return $randomCharacter
 }
 
+#function to get all Ids of characters
 function Get-Characters {
     $limit = 100
     try {
         $total = (Get-MarvelApiData -endpoint "characters" -queryParams @{limit = 1; }).data.total
         $pages = [math]::Ceiling($total / $limit)
         $offsets = 0..($pages - 1) | ForEach-Object { $_ * $limit }
-        #Set the length of the array to the total number of characters
         $characters = New-Object 'object[,]' 1, $total
 
         $offsets | ForEach-Object -Parallel {
 
-            ##Public and private keys
-            $marvelApiPublicKey = $marvelApiPublicKey
-            $marvelApiPrivateKey = "$marvelApiPrivateKey"
+            $publicKey = $using:publicKey
+            $privateKey = $using:privateKey
             $BaseURL = "https://gateway.marvel.com:443/"
             $APIVersion = "v1/public/"
             function Get-MarvelApiParameters {
                 param (
-                    [string]$marvelApiPublicKey,
-                    [string]$marvelApiPrivateKey
+                    [string]$publicKey,
+                    [string]$privateKey
                 )
             
                 $ts = [DateTime]::UtcNow.ToString("yyyyMMddHHmmssfff") + (Get-Random -Minimum 0 -Maximum 20).ToString()
-                $hashInput = $ts + $marvelApiPrivateKey + $marvelApiPublicKey
+                $hashInput = $ts + $privateKey + $publicKey
                 $hash = [System.BitConverter]::ToString((New-Object -TypeName System.Security.Cryptography.MD5CryptoServiceProvider).ComputeHash([System.Text.Encoding]::UTF8.GetBytes($hashInput))).Replace("-", "").ToLower()
             
                 $params = @{
                     ts     = $ts
-                    apikey = $marvelApiPublicKey
+                    apikey = $publicKey
                     hash   = $hash
                 }
             
@@ -87,10 +87,12 @@ function Get-Characters {
             function Get-MarvelApiData {
                 param (
                     [string]$endpoint,
-                    [hashtable]$queryParams = @{}
+                    [hashtable]$queryParams = @{},
+                    [string]$publicKey,
+                    [string]$privateKey
                 )
                 
-                $params = Get-MarvelApiParameters -marvelApiPublicKey $marvelApiPublicKey -marvelApiPrivateKey $marvelApiPrivateKey
+                $params = Get-MarvelApiParameters -publicKey $publicKey -privateKey $privateKey
                 $authString = "ts=" + $params.ts + "&apikey=" + $params.apikey + "&hash=" + $params.hash
             
                 $queryString = ($queryParams.GetEnumerator() | ForEach-Object { "$($_.Key)=$($_.Value)" }) -join "&"
@@ -104,9 +106,7 @@ function Get-Characters {
                 endpoint    = "characters"
                 queryParams = @{ offset = $_; limit = $using:limit }
             }
-            Get-MarvelApiData -endpoint $params.endpoint -queryParams $params.queryParams
-            #starting at the index of the offset, add each character to the array
-            
+            Get-MarvelApiData -endpoint $params.endpoint -queryParams $params.queryParams -publicKey $publicKey -privateKey $privateKey            
         } -ThrottleLimit 10 | ForEach-Object {
             $index = $_.data.offset
             $_.data.results | ForEach-Object {
@@ -114,18 +114,17 @@ function Get-Characters {
             }
         }
 
+        $characters = $characters | Where-Object { $_.description -ne "" }
         return $characters 
-
     }
     catch {
         throw $_.Exception
     }
 }
 
-#Function to save all characters to a JSON file
 function Save-Characters {
-    #$characters = Get-Characters | Where-Object { $_.description -ne "" }
-    $characters | ConvertTo-Json -Depth 10 | Set-Content -Path ".\characters.json" -Force
+    $characters = Get-Characters
+    $characters | ConvertTo-Json -Depth 10 | Set-Content -Path ".\characters.json"
 }
 
 Function Import-Characters {
@@ -133,26 +132,15 @@ Function Import-Characters {
     return $characters
 }
 
-#Function to get the first comic of a character
 function Get-FirstCharacterComic {
     param (
         [string]$characterId
     )
-
-    #Get the comics of the character sorted by date
-    <# #If no comics are found, get another random character
-    while ($null -eq $firstComic -or $firstComic.count -eq 0) {
-        $randomCharacter = $characters | Get-Random
-        $firstComic = Get-FirstCharacterComic -characterId $randomCharacter.id
-    } #>
-
     $comics = Get-MarvelApiData -endpoint "characters/$characterId/comics" -queryParams @{ orderBy = 'onsaleDate'; limit = 1 }
-
-    #Sort the comics by onsaleDate
     return $comics.data.results[0]
 }
 
-Function Test-URL {
+function Test-URL {
     param (
         [string]$url
     )
@@ -178,13 +166,7 @@ Function Save-CharacterData {
     $characterDescription = $character.description
     $characterImageURL = $character.thumbnail.path + "." + $character.thumbnail.extension
 
-    if ($characterImageURL -contains "image_not_available") {
-        $characterImageURL = $null
-    }
-    else {
-        #Download the image
-        Invoke-WebRequest -Uri $characterImageURL -OutFile "character.jpg"    
-    }
+    Invoke-WebRequest -Uri $characterImageURL -OutFile "character.jpg"    
 
     $firstComicTitle = $firstComic.title
     $firstComicDescription = $firstComic.description
@@ -196,56 +178,50 @@ Function Save-CharacterData {
     catch {
         $releaseDate = $null
     }
-    #Show only the date not the time
     $wikiURL = $character.urls | Where-Object { $_.type -eq "wiki" } | Select-Object -ExpandProperty url
     $comicsUrl = $character.urls | Where-Object { $_.type -eq "comiclink" } | Select-Object -ExpandProperty url
     $characterUrl = $character.urls | Where-Object { $_.type -eq "detail" } | Select-Object -ExpandProperty url
 
-    #Test the URLs to see if they are valid and respond with a 200 status code. If not, set the URL to $null
-    if ($null -ne $wikiURL) {
+    if ($null -ne $wikiURL -and $wikiURL -ne "") {
         $wikiURL = Test-URL -url $wikiURL
-        if ($null -ne $wikiURL) {
+        if ($null -ne $wikiURL -and $wikiURL -ne "") {
             $wikiUrlQrCode = Save-QRCode -url $wikiURL -fileName "wiki"
         }
     }
-    if ($null -ne $comicsUrl) {
+    if ($null -ne $comicsUrl -and $comicsUrl -ne "") {
         $comicsUrl = Test-URL -url $comicsUrl
-        if ($null -ne $comicsUrl) {
+        if ($null -ne $comicsUrl -and $comicsUrl -ne "") {
             $comicsUrlQrCode = Save-QRCode -url $comicsUrl -fileName "comics"
         }
     }
-    if ($null -ne $characterUrl) {
+    if ($null -ne $characterUrl -and $characterUrl -ne "") {
         $characterUrl = Test-URL -url $characterUrl
-        if ($null -ne $characterUrl) {
+        if ($null -ne $characterUrl -and $characterUrl -ne "") {
             Save-QRCode -url $characterUrl
             $characterUrlQrCode = Save-QRCode -url $characterUrl -fileName "character"
         }
     }
 
-    #store the properties in a character object
     $characterObject = [PSCustomObject]@{
-        Name               = $characterName
-        Description        = $characterDescription
-        ImageURL           = $characterImageURL
-        FirstComicTitle    = $firstComicTitle
-        FirstAppearance    = $releaseDate
-        WikiURL            = $wikiURL
-        ComicsURL          = $comicsUrl
-        CharacterURL       = $characterUrl
-        WikiURLQRCode      = $wikiUrlQrCode
-        ComicsURLQRCode    = $comicsUrlQrCode
-        CharacterURLQRCode = $characterUrlQrCode
+        Name                  = $characterName
+        Description           = $characterDescription
+        ImageURL              = $characterImageURL
+        FirstComicTitle       = $firstComicTitle
+        FirstComicDescription = $firstComicDescription
+        FirstAppearance       = $releaseDate
+        WikiURL               = $wikiURL
+        ComicsURL             = $comicsUrl
+        CharacterURL          = $characterUrl
+        WikiURLQRCode         = $wikiUrlQrCode
+        ComicsURLQRCode       = $comicsUrlQrCode
+        CharacterURLQRCode    = $characterUrlQrCode
     }
 
-    Invoke-Item "character.jpg"
-
-    #Save the character object to a JSON file
     $characterObject | ConvertTo-Json -Depth 10 | Set-Content -Path ".\MarvelHeroOfTheDay.json" -Force
 
     return $characterObject
 }
 
-#function to save a URL as a QR code
 function Save-QRCode {
     param (
         [string]$url,
