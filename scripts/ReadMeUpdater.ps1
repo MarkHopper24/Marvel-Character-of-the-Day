@@ -39,7 +39,4 @@ $pattern = "(?s)(?<=<\/p>\r?\n\r?\n).*?(?=<h2>What is this repository\?)"
 $newContent = $readmeContent -replace $pattern, "$characterSection`n`n"
 
 # Save the updated content back to README.md
-#$newContent | Set-Content -Path "README.md" -NoNewline
-
-# Display the updated content
-Write-Output $newContent
+$newContent | Set-Content -Path "README.md" -NoNewline
