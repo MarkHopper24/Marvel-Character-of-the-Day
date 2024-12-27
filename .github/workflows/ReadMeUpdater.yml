@@ -1,8 +1,9 @@
 name: Update Readme
 on:
-  push:
-      paths:
-          - 'MarvelCharacterOfTheDay.json'
+  workflow_run:
+    workflows: ["MarvelCharacterOTDFetcher"]
+    types:
+      - completed
 jobs:
     update-readme:
         runs-on: windows-latest
