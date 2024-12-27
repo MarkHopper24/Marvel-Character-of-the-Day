@@ -15,15 +15,15 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Run PowerShell script
-      run: .\script\MarvelCharacterOfTheDay.ps1 -marvelApiPublicKey "$env:marvel_public_api_key" -marvelApiPrivateKey "$env:marvel_private_api_key" 
+      run: .\scripts\MarvelCharacterOfTheDay.ps1 -marvelApiPublicKey "$env:marvel_public_api_key" -marvelApiPrivateKey "$env:marvel_private_api_key" 
       shell: pwsh
 
     - name: Commit and push JSON file
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add MarvelHeroOfTheDay.json
-        git commit -m 'Add MarvelHeroOfTheDay.json'
+        git add MarvelCharacterOfTheDay.json
+        git commit -m 'Add MarvelCharacterOfTheDay.json'
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

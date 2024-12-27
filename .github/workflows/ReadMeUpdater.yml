@@ -1,0 +1,25 @@
+name: Update Readme
+on:
+  push:
+      paths:
+          - 'MarvelCharacterOfTheDay.json'
+jobs:
+    update-readme:
+        runs-on: windows-latest
+        steps:
+        - name: Checkout repository
+          uses: actions/checkout@v2
+
+        - name: Run ReadmeUpdater script
+          run: .\scripts\ReadmeUpdater.ps1
+          shell: pwsh
+
+        - name: Commit and push README.md
+          run: |
+            git config --global user.name 'github-actions[bot]'
+            git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+            git add README.md
+            git commit -m 'Update README.md'
+            git push
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

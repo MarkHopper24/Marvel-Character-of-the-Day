@@ -220,8 +220,9 @@ function Get-Characters {
             }
         }
 
-        # Filter out characters with no description
-        $characters = $characters | Where-Object { $_.description -ne "" }
+        # Filter out characters with no description and no first appearance and with image_not_available in the thumbnail path
+        $characters = $characters | Where-Object { $_.description -ne "" -and $_.comics.available -gt 0 -and $_.thumbnail.path -notlike "*image_not_available*" }
+
         return $characters 
     }
     catch {
@@ -388,7 +389,7 @@ Function Save-CharacterData {
         }
     }
 
-    $date = Get-Date -Format "dddd MMMM dd, yyyy"
+    $date = Get-Date -Format "yyyy"
     $attribution = "Data provided by Marvel. © 2024 Marvel"
 
     $characterObject = [PSCustomObject]@{
@@ -409,7 +410,7 @@ Function Save-CharacterData {
     }
 
     # Save character data to a JSON file
-    $characterObject | ConvertTo-Json -Depth 10 | Set-Content -Path ".\MarvelHeroOfTheDay.json" -Force
+    $characterObject | ConvertTo-Json -Depth 10 | Set-Content -Path ".\MarvelCharacterOfTheDay.json" -Force
 
     return $characterObject
 }
