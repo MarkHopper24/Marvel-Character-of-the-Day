@@ -22,7 +22,7 @@ Marvel Character of the Day is a PowerShell-based application hosted in GitHub t
 
 - <b>Automated Scripts:</b> Uses PowerShell scripts and GitHub Workflow Actions to automate the process of retrieving and displaying character data.
   
-- <b>Friendly JSON Endpoint:</b> Offers an easily retrievable endpoint containing a JSON file with the Daily Character information. You can find this here: https://raw.githubusercontent.com/MarkHopper24/Marvel-Character-of-the-Day/refs/heads/main/MarvelHeroOfTheDay.json
+- <b>Friendly JSON Endpoint:</b> Offers an easily retrievable endpoint containing a JSON file with the Daily Character information. You can find this here: https://raw.githubusercontent.com/MarkHopper24/Marvel-Character-of-the-Day/refs/heads/main/MarvelCharacterOfTheDay.json
   
 - <b>TRMNL Integration:</b> Offers markdown templates for usage with [TRMNL](https://usetrmnl.com). To use this data, create a custom plugin with the polling strategy pointing to the JSON endpoint above. Copy the contents of the trmnlLayout.html file to your markdown, and you're done. TRML recipe coming soon.
 
