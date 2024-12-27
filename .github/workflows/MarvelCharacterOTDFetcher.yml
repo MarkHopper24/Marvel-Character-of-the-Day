@@ -47,3 +47,8 @@ jobs:
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Update README
+      uses: actions/updatereadme@v1
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
