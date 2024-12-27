@@ -7,8 +7,8 @@ This script reads the MarvelCharacterOfTheDay.json file to get the character inf
 
 .NOTES
 File Name      : ReadMeUpdater.ps1
-Author         : Marvel Character of the Day
-Prerequisite   : MarvelCharacterOfTheDay.json file should be present in the parent directory.
+Author         : Mark Hopper
+Prerequisite   : The MarvelCharacterOfTheDay.json and README.md files should be present in the parent directory.
 
 .EXAMPLE
 .\ReadMeUpdater.ps1

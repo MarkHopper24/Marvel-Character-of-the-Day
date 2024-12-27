@@ -46,11 +46,13 @@
         Orchestrates the process of saving characters, importing them, selecting a random character, retrieving their first comic, and saving the character data.
 
 .EXAMPLE
-    .\Marvel.PS1 -marvelApiPublicKey "your_public_key" -marvelApiPrivateKey "your_private_key"
-    This command runs the script with the specified Marvel API public and private keys.
+     .\Marvel.PS1 -marvelApiPublicKey "your_public_key" -marvelApiPrivateKey "your_private_key"
+     This command runs the script with the specified Marvel API public and private keys.
 
 .NOTES
-    Ensure you have the necessary permissions and network access to reach the Marvel API and the QR code generation service.
+     File Name      : MarvelCharacterOfTheDay.ps1
+     Author         : Mark Hopper
+     Prerequisite   : The MarvelCharacterOfTheDay.json and README.md files should be present in the parent directory.
 #>
 param(
     [Parameter(Mandatory = $true)]
