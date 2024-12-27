@@ -1,9 +1,6 @@
 name: Update Readme
 on:
-  workflow_run:
-    workflows: ["MarvelCharacterOTDFetcher"]
-    types:
-      - completed
+  workflow_dispatch:
 jobs:
     update-readme:
         runs-on: windows-latest
