@@ -3,16 +3,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Miracleman
+## Tinkerer
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/5/90/545a820a2dc50.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/b/60/4c002e3aaf52e.jpg" width="600" height="auto"/>
 </p>
 
-Michael Moran has a superhuman alter ego. By saying the trigger word "Kimota!" Michael turns into Miracleman! But is the good of being Miracleman enough to outweigh the cost?
+The Tinkerer is an ordinary man who has an extraordinary talent for anything mechanical.
 
-**First Appearance:** Miracleman (2022)
+**First Appearance:** Spider-Man: Chapter One (1998) #3
 
-[Comic Gallery](http://marvel.com/comics/characters/1013727/miracleman?utm_campaign=apiRef&utm_source=422c32a7c4c3f9adfe3f4aef0db1a1e8)
+[Comic Gallery](http://marvel.com/comics/characters/1011345/tinkerer?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. 
