@@ -15,10 +15,10 @@ Prerequisite   : MarvelCharacterOfTheDay.json file should be present in the pare
 #>
 
 # Read the JSON file
-$marvelCharacter = Get-Content -Path ..\MarvelCharacterOfTheDay.json | ConvertFrom-Json
+$marvelCharacter = Get-Content -Path .\MarvelCharacterOfTheDay.json | ConvertFrom-Json
 
 # Read the existing README content
-$readmeContent = Get-Content -Path ..\README.md -Raw
+$readmeContent = Get-Content -Path .\README.md -Raw
 
 # Create the new character section
 $characterSection = @"
