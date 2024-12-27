@@ -1,4 +1,4 @@
-name: Fetch Marvel Hero Of The Day
+name: Fetch Marvel Character Of The Day
 env:
   marvel_public_api_key: ${{ secrets.MARVELAPIPUBLICKEY}}
   marvel_private_api_key: ${{ secrets.MARVELAPIPRIVATEKEY }}
@@ -15,7 +15,7 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Run PowerShell script
-      run: .\script\MarvelHeroOfTheDay.ps1 -marvelApiPublicKey "$env:marvel_public_api_key" -marvelApiPrivateKey "$env:marvel_private_api_key" 
+      run: .\script\MarvelCharacterOfTheDay.ps1 -marvelApiPublicKey "$env:marvel_public_api_key" -marvelApiPrivateKey "$env:marvel_private_api_key" 
       shell: pwsh
 
     - name: Commit and push JSON file
@@ -42,8 +42,8 @@ jobs:
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add comics.png
-        git commit -m 'Add comics.png'
+        git add comicsQR.jpg
+        git commit -m 'Add comicsQR.jpg'
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

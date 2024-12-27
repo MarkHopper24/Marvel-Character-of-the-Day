@@ -1,14 +1,16 @@
 {
-  "Name": "Venom (Mac Gargan)",
-  "Description": "One of Spider-Man's oldest enemies, Mac Gargan has recently abandoned his Scorpion suit and identity and bonded with the alien symbiote that had previously been hosted by Peter Parker and Eddie Brock, becoming the new Venom.",
-  "ImageURL": "http://i.annihil.us/u/prod/marvel/i/mg/5/50/531773a2ac20a.jpg",
-  "FirstComicTitle": "Civil War (2006) #1",
-  "FirstComicDescription": "A conflict has been brewing in the Marvel Universe, threatening to pit friend against friend, brother against brother--and all it will take is a single misstep to cost thousands their lives and ignite the fuse! As the war claims its first victims, no one is safe as teams, friendships, and families begin to fall apart. Civil War, a Marvel Comics event, stars Spider-Man, the New Avengers, the Fantastic Four, the X-Men and the entirety of the Marvel pantheon! Civil War -- the cross-over that rewrites the rules - begins here!",
-  "FirstAppearance": "5/3/2006",
+  "Name": "A.I.M.",
+  "Description": "AIM is a terrorist organization bent on destroying the world.",
+  "ImageURL": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/52602f21f29ec.jpg",
+  "FirstComicTitle": "Marvel Masterworks: The Invincible Iron Man Vol. 1 (Hardcover)",
+  "FirstComicDescription": null,
+  "FirstAppearance": null,
   "WikiURL": null,
-  "ComicsURL": "http://marvel.com/comics/characters/1010788/venom_mac_gargan?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a",
+  "ComicsURL": "http://marvel.com/comics/characters/1009144/aim.?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a",
   "CharacterURL": null,
   "WikiURLQRCode": null,
-  "ComicsURLQRCode": "comics.png",
-  "CharacterURLQRCode": null
+  "ComicsURLQRCode": "comics.jpg",
+  "CharacterURLQRCode": null,
+  "Date": "Thursday December 26, 2024",
+  "Attribution": "Data provided by Marvel. © 2024 Marvel"
 }
