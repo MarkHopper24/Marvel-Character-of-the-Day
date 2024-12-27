@@ -14,8 +14,9 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Run PowerShell script readmeupdater
-      run: .\scripts\ReadMeUpdater.ps1
+    - name: Run PowerShell script
+      run: .\scripts\MarvelCharacterOfTheDay.ps1 -marvelApiPublicKey "$env:marvel_public_api_key" -marvelApiPrivateKey "$env:marvel_private_api_key" 
+      shell: pwsh
 
     - name: Commit and push JSON file
       run: |
@@ -47,9 +48,8 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Run PowerShell script
-      run: .\scripts\MarvelCharacterOfTheDay.ps1 -marvelApiPublicKey "$env:marvel_public_api_key" -marvelApiPrivateKey "$env:marvel_private_api_key" 
-      shell: pwsh
+    - name: Run PowerShell script readmeupdater
+      run: .\scripts\ReadMeUpdater.ps1
 
     - name: Commit and push readme
       run: |
