@@ -19,7 +19,7 @@ Despite being the only one of the Runaways without any superhuman abilities or t
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. 
 
 <h3>Features</h3>
-- <b>Daily Marvel Character Information:</b> Fetches and displays information about a random Marvel character every day from Marvel's official API.
+- <b>Daily Marvel Character Information:</b> Fetches and displays information about a random Marvel character every day from Marvel's official API. (Updates daily @5AM UTC)
 
 - <b>Automated Scripts:</b> Uses PowerShell scripts and GitHub Workflow Actions to automate the process of retrieving and displaying character data.
   
