@@ -3,16 +3,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## William Stryker
+## Chase Stein
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/b/90/4c003abcc72e7.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4ce5a2e831d0c.jpg" width="600" height="auto"/>
 </p>
 
-William Stryker became convinced that Satan had a plot to corrupt humankind by taking over their souls while still in the womb, resulting in their mutations.
+Chase Stein is the son of mad scientists Victor and Janet Stein and is the tech genius of the Runaways.
 
-**First Appearance:** X-Force (2008) #1
+**First Appearance:** Runaways (2005) #1
 
-[Comic Gallery](http://marvel.com/comics/characters/1009633/william_stryker?utm_campaign=apiRef&utm_source=422c32a7c4c3f9adfe3f4aef0db1a1e8)
+[Comic Gallery](http://marvel.com/comics/characters/1010754/chase_stein?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. 
