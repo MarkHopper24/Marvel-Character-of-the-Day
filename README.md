@@ -34,6 +34,6 @@ Marvel Character of the Day is a PowerShell-based application hosted in GitHub t
 </p>
 
 <h3>Attribution</h3>
-Data provided by Marvel. © 2024 Marvel
+Data provided by Marvel. © 2025 Marvel
 
 This project and repository has no affilliation with Marvel.
