@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Shadowcat (Ultimate)
+## Ben Urich
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/9/00/4c0033d9d26de.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/5/90/4c00373d10e5e.jpg" width="600" height="auto"/>
 </p>
 
-After fourteen-year-old Kitty Pryde's mutant powers emerged, causing terrifying incidents where she uncontrollably phased out of the family apartment in to moving traffic andsewers, her mother Theresa contacted Professor Xavier.
+Ben Urich is a reporter for the Daily Bugle who has many ties to the city's superhero community.
 
-**First Appearance:** Ultimate X-Men (2001) #28
+**First Appearance:** Daredevil (1964) #160
 
-[Comic Gallery](http://marvel.com/comics/characters/1010974/shadowcat_ultimate?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1010782/ben_urich?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
