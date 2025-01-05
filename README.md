@@ -13,7 +13,7 @@ Vowing to serve his country any way he could, young Steve Rogers took the super 
 
 **First Appearance:** X-Men: The Complete Onslaught Epic Vol. 4 (2009)
 
-[Comic Gallery](http://marvel.com/comics/characters/1009220/captain_america?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1009220/captain_america?utm_campaign=apiRef&utm_source=422c32a7c4c3f9adfe3f4aef0db1a1e8)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
