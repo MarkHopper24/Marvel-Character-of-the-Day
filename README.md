@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Thena
+## Zzzax
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4c002f2a83a8c.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4ced5ab9078c9.jpg" width="600" height="auto"/>
 </p>
 
-Thena, a second generation Eternal, is the eldest daughter of Zuras, leader of the Eternals of Earth, and Cybele, and although she has lived for more than 4,000 years, she is still considered a young woman by Eternal standards.
+A chain reaction in an atomic reactor, a result of a terrorist attack, accidentally created a force that absorbed the electrolytes of the nearby humans' brains, granting the explosion of energy a rudimentary sentience.  
 
-**First Appearance:** Eternals (1976) #5
+**First Appearance:** Power Man (1974) #47
 
-[Comic Gallery](http://marvel.com/comics/characters/1011181/thena?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1009742/zzzax?utm_campaign=apiRef&utm_source=9e5363ffaaa75f2e334a08d305974269)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
