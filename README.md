@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Zzzax
+## Daredevil
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4ced5ab9078c9.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/d/50/50febb79985ee.jpg" width="600" height="auto"/>
 </p>
 
-A chain reaction in an atomic reactor, a result of a terrorist attack, accidentally created a force that absorbed the electrolytes of the nearby humans' brains, granting the explosion of energy a rudimentary sentience.  
+Abandoned by his mother, Matt Murdock was raised by his father, boxer "Battling Jack" Murdock, in Hell's Kitchen. Realizing that rules were needed to prevent people from behaving badly, young Matt decided to study law; however, when he saved a man from an oncoming truck, it spilled a radioactive cargo that rendered Matt blind while enhancing his remaining senses. Under the harsh tutelage of blind martial arts master Stick, Matt mastered his heightened senses and became a formidable fighter.
 
-**First Appearance:** Power Man (1974) #47
+**First Appearance:** Marvel Masterworks: The Mighty Thor Vol. 3 (Hardcover)
 
-[Comic Gallery](http://marvel.com/comics/characters/1009742/zzzax?utm_campaign=apiRef&utm_source=9e5363ffaaa75f2e334a08d305974269)
+[Comic Gallery](http://marvel.com/comics/characters/1009262/daredevil?utm_campaign=apiRef&utm_source=fded6ad8e5190ef491d93a6f4b38b7d7)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
