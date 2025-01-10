@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Daredevil
+## Sunspot
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/d/50/50febb79985ee.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/b/50/4c003ab716add.jpg" width="600" height="auto"/>
 </p>
 
-Abandoned by his mother, Matt Murdock was raised by his father, boxer "Battling Jack" Murdock, in Hell's Kitchen. Realizing that rules were needed to prevent people from behaving badly, young Matt decided to study law; however, when he saved a man from an oncoming truck, it spilled a radioactive cargo that rendered Matt blind while enhancing his remaining senses. Under the harsh tutelage of blind martial arts master Stick, Matt mastered his heightened senses and became a formidable fighter.
+Growing up in a wealthy Brazilian family, Roberto da Costa was forging a career as a skilled soccer player until his mutant nature manifested during a match.
 
-**First Appearance:** Marvel Masterworks: The Mighty Thor Vol. 3 (Hardcover)
+**First Appearance:** Uncanny X-Men (1963) #167
 
-[Comic Gallery](http://marvel.com/comics/characters/1009262/daredevil?utm_campaign=apiRef&utm_source=fded6ad8e5190ef491d93a6f4b38b7d7)
+[Comic Gallery](http://marvel.com/comics/characters/1009638/sunspot?utm_campaign=apiRef&utm_source=422c32a7c4c3f9adfe3f4aef0db1a1e8)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
