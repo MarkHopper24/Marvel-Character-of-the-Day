@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Sunspot
+## Wither
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/b/50/4c003ab716add.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4c003235e6f1d.jpg" width="600" height="auto"/>
 </p>
 
-Growing up in a wealthy Brazilian family, Roberto da Costa was forging a career as a skilled soccer player until his mutant nature manifested during a match.
+When his genetic mutation manifested, Kevin Ford accidentally killed his father with his lethal and uncontrollable touch, after which he was recruited as a student at the Xavier Institute.
 
-**First Appearance:** Uncanny X-Men (1963) #167
+**First Appearance:** New X-Men (2004) #3
 
-[Comic Gallery](http://marvel.com/comics/characters/1009638/sunspot?utm_campaign=apiRef&utm_source=422c32a7c4c3f9adfe3f4aef0db1a1e8)
+[Comic Gallery](http://marvel.com/comics/characters/1011043/wither?utm_campaign=apiRef&utm_source=51df18d487ab1879385578f9ce764f8c)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
