@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Wither
+## Toad
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4c003235e6f1d.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/e/f0/53ad8faa127fa.jpg" width="600" height="auto"/>
 </p>
 
-When his genetic mutation manifested, Kevin Ford accidentally killed his father with his lethal and uncontrollable touch, after which he was recruited as a student at the Xavier Institute.
+British-born Mortimer Toynbee, abandoned by his parents so early in childhood that he cannot remember them, was placed in an orphanage where the other children, who regarded him as a freak due to his ugliness, his unusual physique and his leaping ability, continually tormented him.
 
-**First Appearance:** New X-Men (2004) #3
+**First Appearance:** Uncanny X-Men (1963) #11
 
-[Comic Gallery](http://marvel.com/comics/characters/1011043/wither?utm_campaign=apiRef&utm_source=51df18d487ab1879385578f9ce764f8c)
+[Comic Gallery](http://marvel.com/comics/characters/1009673/toad?utm_campaign=apiRef&utm_source=ab4585f3614fc7c9881f029d5d18df3e)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
