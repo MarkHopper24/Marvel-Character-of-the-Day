@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Uatu The Watcher
+## Spider-Woman (Mattie Franklin)
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/9/03/5274135912e8d.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/2/30/531771c2ab020.jpg" width="600" height="auto"/>
 </p>
 
-Uatu grew so fond of the lifeforms he observed that he occasionally violated his vow of non-interference when Earth's existence was threatened.
+Mattie Franklin was granted her powers when, after overhearing a phone call between her father and Norman Osborn about the Gathering of the Five, she took her father's place during the Gathering and was endowed with the awesome powers that Norman Osborn had wanted for himself.
 
-**First Appearance:** Fantastic Four (1961) #13
+**First Appearance:** Amazing Spider-Man (1999) #2
 
-[Comic Gallery](http://marvel.com/comics/characters/1009683/uatu_the_watcher?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1010794/spider-woman_mattie_franklin?utm_campaign=apiRef&utm_source=19a956980cc96c14eea8002cdb35e1ff)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
