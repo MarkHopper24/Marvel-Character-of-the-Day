@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Skin
+## Thanos
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/8/20/4c003c0ce4a43.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/6/40/5274137e3e2cd.jpg" width="600" height="auto"/>
 </p>
 
-Angelo Espinosa, a founding member of Generation X, code-named "Skin" due to his mutant ability to extend and control his extra skin in any number of ways.
+The Mad Titan Thanos, a melancholy, brooding individual, consumed with the concept of death, sought out personal power and increased strength, endowing himself with cybernetic implants until he became more powerful than any of his brethren.
 
-**First Appearance:** X-Men (1991) #36
+**First Appearance:** Captain Marvel (1968) #28
 
-[Comic Gallery](http://marvel.com/comics/characters/1009598/skin?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1009652/thanos?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
