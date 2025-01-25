@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Sunspot
+## Thing
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/b/50/4c003ab716add.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/9/00/527bb4d36b5c2.jpg" width="600" height="auto"/>
 </p>
 
-Growing up in a wealthy Brazilian family, Roberto da Costa was forging a career as a skilled soccer player until his mutant nature manifested during a match.
+The radiation that mutated Reed Richards, Sue Storm and Johnny Storm into superhuman beings had also mutated Ben Grimm, transforming him into a grotesque, rock-hided strongman dubbed the Thing.
 
-**First Appearance:** Uncanny X-Men (1963) #167
+**First Appearance:** Fantastic Four 1 2 3 4 (2001)
 
-[Comic Gallery](http://marvel.com/comics/characters/1009638/sunspot?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1009662/thing?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
