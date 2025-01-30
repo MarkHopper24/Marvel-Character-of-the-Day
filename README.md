@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Colleen Wing
+## Zzzax
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/8/e0/52740e24bddb4.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4ced5ab9078c9.jpg" width="600" height="auto"/>
 </p>
 
-Colleen Wing was raised in Japan by her grandfather Kanji Ozawa, who taught her the ways of a samurai, in which she became highly skilled, after which she teamed up with Misty Knight at the behest of Tony Stark as a new Heroes for Hire tasked with capturing superhumans who have not registered.
+A chain reaction in an atomic reactor, a result of a terrorist attack, accidentally created a force that absorbed the electrolytes of the nearby humans' brains, granting the explosion of energy a rudimentary sentience.  
 
-**First Appearance:** Marvel Premiere (1972) #19
+**First Appearance:** Power Man (1974) #47
 
-[Comic Gallery](http://marvel.com/comics/characters/1010676/colleen_wing?utm_campaign=apiRef&utm_source=422c32a7c4c3f9adfe3f4aef0db1a1e8)
+[Comic Gallery](http://marvel.com/comics/characters/1009742/zzzax?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
