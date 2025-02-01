@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Swordsman
+## Stepford Cuckoos
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/a/40/535ff38904fff.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/5/90/4c003acc72680.jpg" width="600" height="auto"/>
 </p>
 
-Andreas reappeared as the Swordsman in the latest incarnation of the Thunderbolts, though his true identity was kept secret for some time.
+The Stepford Cuckoos were five identical mutant sisters who enrolled at the Xavier Institute and soon proved to be the crème de la crème of Emma Frost's telepathy class.
 
-**First Appearance:** Avengers (1963) #19
+**First Appearance:** New X-Men (2001) #123
 
-[Comic Gallery](http://marvel.com/comics/characters/1009641/swordsman?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1009625/stepford_cuckoos?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
