@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Union Jack (Montgomery Falsworth)
+## Baron Mordo (Karl Mordo)
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/2/10/4c0032a211f54.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/f/90/4ce5a86dba8a8.jpg" width="600" height="auto"/>
 </p>
 
-During World War I, Lord Montgomery Falsworth was recruited by the British army to become one of the first public superhero champions: Union Jack.
+Born in 1921, Karl Mordo was the son of Nikolai Mordo.  He vowed that, as the second Baron Mordo, he would achieve his father’s hopes and more.
 
-**First Appearance:** Invaders (1975) #8
+**First Appearance:** Strange Tales (1951) #132
 
-[Comic Gallery](http://marvel.com/comics/characters/1010984/union_jack_montgomery_falsworth?utm_campaign=apiRef&utm_source=422c32a7c4c3f9adfe3f4aef0db1a1e8)
+[Comic Gallery](http://marvel.com/comics/characters/1011778/baron_mordo_karl_mordo?utm_campaign=apiRef&utm_source=422c32a7c4c3f9adfe3f4aef0db1a1e8)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
