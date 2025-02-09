@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Silver Fox
+## Union Jack (Joseph Chapman)
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/2/d0/4c003c19078c3.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/3/40/4c0038d27694a.jpg" width="600" height="auto"/>
 </p>
 
-Silver Fox was a young member of the Blackfoot Indian tribe who, in the early 1910s, fell in love with a young mutant named Logan and shared a cabin with him in a remote community in the Canadian Rockies.
+Joey Chapman, the new Union Jack continued to fight evil, both alone and as a member of the Knights of Pendragon and the new Invaders.
 
-**First Appearance:** Wolverine (1988) #48
+**First Appearance:** Namor the Sub-Mariner (1990) #11
 
-[Comic Gallery](http://marvel.com/comics/characters/1009589/silver_fox?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1010696/union_jack_joseph_chapman?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
