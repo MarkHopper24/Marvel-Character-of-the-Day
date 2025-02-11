@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Solo (James Bourne)
+## Hulk
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4c7c641408c12.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/5/a0/538615ca33ab0.jpg" width="600" height="auto"/>
 </p>
 
-James Bourne was drafted to a top-secret special forces operation where he endured ten months of hard and brutal training to earn his place in the new counter-terrorist group Omega Strike.
+Caught in a gamma bomb explosion while trying to save the life of a teenager, Dr. Bruce Banner was transformed into the incredibly powerful creature called the Hulk. An all too often misunderstood hero, the angrier the Hulk gets, the stronger the Hulk gets.
 
-**First Appearance:** The Amazing Spider-Man (1963) #323
+**First Appearance:** Marvel Masterworks: Ant-Man/Giant-Man Vol. 1 (Hardcover)
 
-[Comic Gallery](http://marvel.com/comics/characters/1010855/solo_james_bourne?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1009351/hulk?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
