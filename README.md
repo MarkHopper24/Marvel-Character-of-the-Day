@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Hulk
+## Squirrel Girl
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/5/a0/538615ca33ab0.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/8/60/4c0035beb0c55.jpg" width="600" height="auto"/>
 </p>
 
-Caught in a gamma bomb explosion while trying to save the life of a teenager, Dr. Bruce Banner was transformed into the incredibly powerful creature called the Hulk. An all too often misunderstood hero, the angrier the Hulk gets, the stronger the Hulk gets.
+Escaping the taunts of her fellow school students regarding her physical mutation, Los-Angeles born Doreen Green fled into the nearby woods where she quickly discovered her affinity for squirrels.
 
-**First Appearance:** Marvel Masterworks: Ant-Man/Giant-Man Vol. 1 (Hardcover)
+**First Appearance:** G.L.a. (2005) #1
 
-[Comic Gallery](http://marvel.com/comics/characters/1009351/hulk?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1010860/squirrel_girl?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
