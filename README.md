@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Sub-Mariner
+## Banshee (Theresa Rourke)
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/3/b0/5245ef8c83126.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4ce5a1a50e56b.jpg" width="600" height="auto"/>
 </p>
 
-Prince Namor is the half-human/half-Atlantean ruler of Atlantis.
+The daughter of former X-Men member Sean Cassidy, a.k.a. Banshee, and Maeve Rourke, Theresa Rourke was raised by her first cousin once removed, mutant terrorist Thomas Cassidy, a.k.a. Black Tom.
 
-**First Appearance:** Marvel Masterworks: Ant-Man/Giant-Man Vol. 1 (Hardcover)
+**First Appearance:** Uncanny X-Men (1963) #148
 
-[Comic Gallery](http://marvel.com/comics/characters/1010791/sub-mariner?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1009596/banshee_theresa_rourke?utm_campaign=apiRef&utm_source=422c32a7c4c3f9adfe3f4aef0db1a1e8)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
