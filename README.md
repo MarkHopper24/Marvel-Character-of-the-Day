@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Wither
+## Super-Adaptoid
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4c003235e6f1d.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4c00325af279c.jpg" width="600" height="auto"/>
 </p>
 
-When his genetic mutation manifested, Kevin Ford accidentally killed his father with his lethal and uncontrollable touch, after which he was recruited as a student at the Xavier Institute.
+The Super-Adaptoid was created by the organization known as A.I.M. using a piece of the Cosmic Cube.
 
-**First Appearance:** New X-Men (2004) #3
+**First Appearance:** Uncanny X-Men (1963) #29
 
-[Comic Gallery](http://marvel.com/comics/characters/1011043/wither?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1011022/super-adaptoid?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
