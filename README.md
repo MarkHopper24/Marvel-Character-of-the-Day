@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Venom (Mac Gargan)
+## Nova (Sam Alexander)
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/5/50/531773a2ac20a.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/e/20/5269615681f91.jpg" width="600" height="auto"/>
 </p>
 
-One of Spider-Man's oldest enemies, Mac Gargan has recently abandoned his Scorpion suit and identity and bonded with the alien symbiote that had previously been hosted by Peter Parker and Eddie Brock, becoming the new Venom.
+Sam Alexander inherited the role of Nova from his father, who went missing mysteriously. The new Human Rocket struggles to become a hero while searching for his dad.
 
-**First Appearance:** Civil War (2006) #1
+**First Appearance:** Nova (2013) #2
 
-[Comic Gallery](http://marvel.com/comics/characters/1010788/venom_mac_gargan?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1017078/nova_sam_alexander?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
