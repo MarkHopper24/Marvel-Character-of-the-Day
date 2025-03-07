@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Vulcan (Gabriel Summers)
+## Whiplash (Anton Vanko)
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/3/80/528d3629c2a91.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4ce5a8089c2c8.jpg" width="600" height="auto"/>
 </p>
 
-Vulcan is the third Summers brother and an Omega-level mutant who was thought long-dead by Professor X.
+Anton Vanko built his own Iron Man armor using a discarded Mark 16 chest plate, intent on exacting his revenge against Tony Stark for what Vanko believed was Stark's involvement in the death of his father.
 
-**First Appearance:** Black Goliath (1976) #3
+**First Appearance:** Iron Man Vs. Whiplash (2009) #1
 
-[Comic Gallery](http://marvel.com/comics/characters/1011011/vulcan_gabriel_summers?utm_campaign=apiRef&utm_source=422c32a7c4c3f9adfe3f4aef0db1a1e8)
+[Comic Gallery](http://marvel.com/comics/characters/1011588/whiplash_anton_vanko?utm_campaign=apiRef&utm_source=d6f4175e87cccf14598349fbd870cff5)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
