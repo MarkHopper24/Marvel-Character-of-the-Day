@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Whiplash (Anton Vanko)
+## Sentry (Robert Reynolds)
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4ce5a8089c2c8.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/f/03/52695b1392c78.jpg" width="600" height="auto"/>
 </p>
 
-Anton Vanko built his own Iron Man armor using a discarded Mark 16 chest plate, intent on exacting his revenge against Tony Stark for what Vanko believed was Stark's involvement in the death of his father.
+Empowered by the enigmatic Professor's secret formula, high school student Robert Reynolds became a superhuman.
 
-**First Appearance:** Iron Man Vs. Whiplash (2009) #1
+**First Appearance:** The Sentry (2000)
 
-[Comic Gallery](http://marvel.com/comics/characters/1011588/whiplash_anton_vanko?utm_campaign=apiRef&utm_source=d6f4175e87cccf14598349fbd870cff5)
+[Comic Gallery](http://marvel.com/comics/characters/1009571/sentry_robert_reynolds?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
