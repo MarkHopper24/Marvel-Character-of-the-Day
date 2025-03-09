@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Sentry (Robert Reynolds)
+## Pete Wisdom
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/f/03/52695b1392c78.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/f/b0/4c003740c9027.png" width="600" height="auto"/>
 </p>
 
-Empowered by the enigmatic Professor's secret formula, high school student Robert Reynolds became a superhuman.
+Pete Wisdom is a former agent of the British intelligence agency Black Air, which was charged with the observation of, and interaction with, extranormal activity, and he was the agency's liaison with the British superhero group Excalibur, whom he eventually aided in exposing Black Air's subversive criminal activities.
 
-**First Appearance:** The Sentry (2000)
+**First Appearance:** Pryde and Wisdom (1996) #1
 
-[Comic Gallery](http://marvel.com/comics/characters/1009571/sentry_robert_reynolds?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1010779/pete_wisdom?utm_campaign=apiRef&utm_source=a1383b050d946dd9bd5649904c866749)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
