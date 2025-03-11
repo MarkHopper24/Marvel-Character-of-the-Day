@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Spider-Girl (May Parker)
+## Sebastian Shaw
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/1/70/4c003adccbe4f.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4c003c1e9a90e.jpg" width="600" height="auto"/>
 </p>
 
-May "Mayday" Parker is the daughter of Spider-Man and Mary Jane Watson-Parker. Born with all her fatherï¿½s powers-and the same silly sense of humor-sheï¿½s grown up to become one of Earthï¿½s most trusted heroes and a fitting tribute to her proud papa.
+Sebastian Shaw was invited to join the elite Hellfire Club and quickly worked his way into a position within the Inner Circle.
 
-**First Appearance:** What If? (1989) #105
+**First Appearance:** Uncanny X-Men (1963) #182
 
-[Comic Gallery](http://marvel.com/comics/characters/1009609/spider-girl_may_parker?utm_campaign=apiRef&utm_source=422c32a7c4c3f9adfe3f4aef0db1a1e8)
+[Comic Gallery](http://marvel.com/comics/characters/1009581/sebastian_shaw?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
