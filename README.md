@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Sebastian Shaw
+## Strong Guy
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4c003c1e9a90e.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/2/10/4c00322a3173c.jpg" width="600" height="auto"/>
 </p>
 
-Sebastian Shaw was invited to join the elite Hellfire Club and quickly worked his way into a position within the Inner Circle.
+According to his own admission, Guido was a nerdy-looking kid in his early life, bullied by other children, but after he discovered his mutant ability at a young age, when he was struck by a school bus, no one bullied him again.
 
-**First Appearance:** Uncanny X-Men (1963) #182
+**First Appearance:** X-Factor (1986) #71
 
-[Comic Gallery](http://marvel.com/comics/characters/1009581/sebastian_shaw?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1011051/strong_guy?utm_campaign=apiRef&utm_source=422c32a7c4c3f9adfe3f4aef0db1a1e8)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
