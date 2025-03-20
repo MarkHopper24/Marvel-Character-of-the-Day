@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Thor Girl
+## Sersi
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/9/e0/526957cdcf6d1.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/6/40/528d36c261af4.jpg" width="600" height="auto"/>
 </p>
 
-Tarene, aware of her true nature as the Designate, a being foretold to elevate all life to greatness, sought adventure and, using Thor as a template, transformed herself into an Asgardian goddess and journeyed to Earth.
+Sersi is a member of the Eternals, a species diverted from humanity by experiments conducted by the Celestials one million years ago.
 
-**First Appearance:** Thor (1998) #22
+**First Appearance:** Eternals (1976) #5
 
-[Comic Gallery](http://marvel.com/comics/characters/1010820/thor_girl?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1010345/sersi?utm_campaign=apiRef&utm_source=422c32a7c4c3f9adfe3f4aef0db1a1e8)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
