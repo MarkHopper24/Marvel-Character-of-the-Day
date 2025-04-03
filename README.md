@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Bob, Agent of Hydra
+## Arnim Zola
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/e/a0/4ce5a4c2cd41b.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4c00393a4cb7c.jpg" width="600" height="auto"/>
 </p>
 
-A cowardly young man, Bob was persuaded into joining the criminal organization HYDRA and has had numerous encounters with Deadpool and other Marvel heroes.
+The frail, dwarfish Arnim Zola was born in 1930s Switzerland where he became the world's leading biochemist and genetic engineer.
 
-**First Appearance:** Deadpool (2008) #36
+**First Appearance:** Captain America (1968) #208
 
-[Comic Gallery](http://marvel.com/comics/characters/1011119/bob_agent_of_hydra?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1009740/arnim_zola?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
