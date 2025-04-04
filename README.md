@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Arnim Zola
+## Werewolf By Night
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4c00393a4cb7c.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/3/a0/4c00375df1879.jpg" width="600" height="auto"/>
 </p>
 
-The frail, dwarfish Arnim Zola was born in 1930s Switzerland where he became the world's leading biochemist and genetic engineer.
+Jack Russell inherited the curse of lycanthropy from his father, Gregor.
 
-**First Appearance:** Captain America (1968) #208
+**First Appearance:** Marvel Spotlight (1971) #2
 
-[Comic Gallery](http://marvel.com/comics/characters/1009740/arnim_zola?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1010765/werewolf_by_night?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
