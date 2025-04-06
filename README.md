@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Shriek
+## Storm (Ultimate)
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/8/03/528d36b054844.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/6/10/5317733a7ab7a.jpg" width="600" height="auto"/>
 </p>
 
-Shriek became a groupie for a rock band and a drug dealer on the side until the vigilantes Cloak and Dagger happened by during one of her deals.
+Ororo Munroe was raised in Morocco, learning English from American films, and after her family was murdered she fled to America, stealing cars in Harlem before relocating to Texas.
 
-**First Appearance:** Peter Parker, the Spectacular Spider-Man (1976) #201
+**First Appearance:** Ultimate X-Men (2001) #1
 
-[Comic Gallery](http://marvel.com/comics/characters/1009587/shriek?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1010978/storm_ultimate?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
