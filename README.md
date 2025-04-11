@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## William Stryker
+## Toro (Thomas Raymond)
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/b/90/4c003abcc72e7.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/6/10/4e7a2165364ca.jpg" width="600" height="auto"/>
 </p>
 
-William Stryker became convinced that Satan had a plot to corrupt humankind by taking over their souls while still in the womb, resulting in their mutations.
+As the Torch approached Toro, his presence caused Toro to burst into flame like the Torch himself, but while remaining unharmed, causing the Torch to realize that Toro had the same powers that he himself did.
 
-**First Appearance:** X-Force (2008) #1
+**First Appearance:** Marvel Mystery Comics (1939) #19
 
-[Comic Gallery](http://marvel.com/comics/characters/1009633/william_stryker?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1011309/toro_thomas_raymond?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
