@@ -4,20 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## White Tiger (USM)
+## Toxin
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/d/c0/52321764379a9.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/6/30/4c003a94e668a.jpg" width="600" height="auto"/>
 </p>
 
-White Tiger takes everything very seriously. A constant overachiever, she wants to be better and wants the group to be better. With less flashy powers, she feels like she has to work the hardest. 
- 
-A skilled acrobatic fighter with feline senses and claws. Ava wears a small Tiger amulet on her belt that gives her supernatural powers.
+NYPD Officer Patrick Mulligan was implanted with a symbiote offspring during a chance encounter with Carnage.
 
-In the field, sheâ€™s constantly frustrated with Spider-Man and his irreverent attitude. But the longer the two fight side by side, the more they will understand one another.
+**First Appearance:** Toxin (2005) #1
 
-**First Appearance:** Ultimate Spider-Man Infinite Digital Comic (2015) #18
-
-[Comic Gallery](http://marvel.com/comics/characters/1016838/white_tiger_usm?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1009676/toxin?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
