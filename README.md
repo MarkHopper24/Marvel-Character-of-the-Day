@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Toxin
+## Shadu the Shady
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/6/30/4c003a94e668a.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/5/50/4c002e2a04c75.jpg" width="600" height="auto"/>
 </p>
 
-NYPD Officer Patrick Mulligan was implanted with a symbiote offspring during a chance encounter with Carnage.
+Shadu the Shady claimed to travel to many unseen magical lands and witnessed miracles he would duplicate at a club called the 53rd Card.
 
-**First Appearance:** Toxin (2005) #1
+**First Appearance:** The Immortal Iron Fist (2006) #10
 
-[Comic Gallery](http://marvel.com/comics/characters/1009676/toxin?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1011406/shadu_the_shady?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
