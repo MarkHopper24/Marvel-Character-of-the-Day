@@ -4,16 +4,18 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Shadu the Shady
+## Ultimate Spider-Man (USM)
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/5/50/4c002e2a04c75.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/2/50/5232171a451bb.jpg" width="600" height="auto"/>
 </p>
 
-Shadu the Shady claimed to travel to many unseen magical lands and witnessed miracles he would duplicate at a club called the 53rd Card.
+For the past year, Peter Parker has been saving New York City from villains as the masked hero, Spider-Man. Facing thugs and evil geniuses alike, he learns how to balance heroics with homework and friends. Despite being a Super Hero, Peter is very much an average 16-year-old.  With the added responsibilities of being Spider-Man, juggling all the aspects of his life will continually challenge him.                                                                 
 
-**First Appearance:** The Immortal Iron Fist (2006) #10
+When S.H.I.E.L.D. Director, Nick Fury, offers Peter the chance to raise his game and become THE ULTIMATE SPIDER-MAN, Midtown High becomes a secret operations base for Spider-Man and other young heroes under the watchful eye of Fury and the schoolâ€™s new principal, Agent Coulson. 
 
-[Comic Gallery](http://marvel.com/comics/characters/1011406/shadu_the_shady?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+**First Appearance:** Ultimate Spider-Man Super Special (2002) #1
+
+[Comic Gallery](http://marvel.com/comics/characters/1016825/ultimate_spider-man_usm?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
