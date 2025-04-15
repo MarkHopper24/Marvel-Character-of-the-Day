@@ -4,18 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Ultimate Spider-Man (USM)
+## Vulture (Adrian Toomes)
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/2/50/5232171a451bb.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/3/50/4c003a7929d28.jpg" width="600" height="auto"/>
 </p>
 
-For the past year, Peter Parker has been saving New York City from villains as the masked hero, Spider-Man. Facing thugs and evil geniuses alike, he learns how to balance heroics with homework and friends. Despite being a Super Hero, Peter is very much an average 16-year-old.  With the added responsibilities of being Spider-Man, juggling all the aspects of his life will continually challenge him.                                                                 
+Adrian Toomes is a former electronics engineer who employs a special harness of his own design that allows him to fly and endows him with enhanced strength.
 
-When S.H.I.E.L.D. Director, Nick Fury, offers Peter the chance to raise his game and become THE ULTIMATE SPIDER-MAN, Midtown High becomes a secret operations base for Spider-Man and other young heroes under the watchful eye of Fury and the schoolâ€™s new principal, Agent Coulson. 
+**First Appearance:** The Amazing Spider-Man (1963) #2
 
-**First Appearance:** Ultimate Spider-Man Super Special (2002) #1
-
-[Comic Gallery](http://marvel.com/comics/characters/1016825/ultimate_spider-man_usm?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1009699/vulture_adrian_toomes?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
