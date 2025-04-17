@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Ben Urich
+## Solo (James Bourne)
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/5/90/4c00373d10e5e.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4c7c641408c12.jpg" width="600" height="auto"/>
 </p>
 
-Ben Urich is a reporter for the Daily Bugle who has many ties to the city's superhero community.
+James Bourne was drafted to a top-secret special forces operation where he endured ten months of hard and brutal training to earn his place in the new counter-terrorist group Omega Strike.
 
-**First Appearance:** Daredevil (1964) #160
+**First Appearance:** The Amazing Spider-Man (1963) #323
 
-[Comic Gallery](http://marvel.com/comics/characters/1010782/ben_urich?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1010855/solo_james_bourne?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
