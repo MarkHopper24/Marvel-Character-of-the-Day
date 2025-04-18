@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Solo (James Bourne)
+## Zeus
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4c7c641408c12.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/f/60/4ce5a7fcaa386.png" width="600" height="auto"/>
 </p>
 
-James Bourne was drafted to a top-secret special forces operation where he endured ten months of hard and brutal training to earn his place in the new counter-terrorist group Omega Strike.
+Zeus ruled a peaceful Olympus for centuries while he and his siblings populated the realm through interbreeding with humans, extradimensionals, Titans, and whatever else caught their fancy.
 
-**First Appearance:** The Amazing Spider-Man (1963) #323
+**First Appearance:** Journey Into Mystery Annual (1965) #1
 
-[Comic Gallery](http://marvel.com/comics/characters/1010855/solo_james_bourne?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1011515/zeus?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
