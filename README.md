@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Zeus
+## Silver Sable
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/f/60/4ce5a7fcaa386.png" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/9/60/535ff3a373ec3.jpg" width="600" height="auto"/>
 </p>
 
-Zeus ruled a peaceful Olympus for centuries while he and his siblings populated the realm through interbreeding with humans, extradimensionals, Titans, and whatever else caught their fancy.
+Silver Sable trained her entire life, becoming a master of a wide variety of weapons and training in all forms of hand-to-hand combat in preparation for the day she would inherit leadership of the Wild Pack.
 
-**First Appearance:** Journey Into Mystery Annual (1965) #1
+**First Appearance:** The Amazing Spider-Man (1963) #265
 
-[Comic Gallery](http://marvel.com/comics/characters/1011515/zeus?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1009590/silver_sable?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
