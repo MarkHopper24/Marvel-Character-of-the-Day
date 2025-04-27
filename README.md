@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Franklin Richards
+## Triton
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/f/00/535fedbaaf234.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/6/90/528d367108dfb.jpg" width="600" height="auto"/>
 </p>
 
-The son of Reed Richards and Susan Storm of the Fantastic Four, Franklin may one day be the most powerful person on Earth. Right now, he's the son of a genius who finds adventure and fun around every corner.
+Triton is a member of the Inhumans.
 
-**First Appearance:** Fantastic Four (1961) #245
+**First Appearance:** Fantastic Four Annual (1963) #5
 
-[Comic Gallery](http://marvel.com/comics/characters/1009539/franklin_richards?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1010335/triton?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
