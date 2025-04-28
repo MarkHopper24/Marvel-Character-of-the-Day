@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Triton
+## Chase Stein
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/6/90/528d367108dfb.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4ce5a2e831d0c.jpg" width="600" height="auto"/>
 </p>
 
-Triton is a member of the Inhumans.
+Chase Stein is the son of mad scientists Victor and Janet Stein and is the tech genius of the Runaways.
 
-**First Appearance:** Fantastic Four Annual (1963) #5
+**First Appearance:** Runaways (2005) #1
 
-[Comic Gallery](http://marvel.com/comics/characters/1010335/triton?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1010754/chase_stein?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
