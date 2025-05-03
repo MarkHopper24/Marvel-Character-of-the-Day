@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Snowbird
+## Tiger Shark
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/e/a0/4c003ae37eccd.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/9/10/4c003a9db2f77.jpg" width="600" height="auto"/>
 </p>
 
-Narya's origins trace back to ancient times when the Eskimo Gods of the North battled the mystical Great Beasts for the fate of the world.
+A champion Olympic swimmer, Todd Arliss earned nearly half million dollars in advances for public exhibitions, but his dreams came crashing down around him when he injured his back and legs while rescuing a man who had fallen overboard from a private craft, sending Arliss into the arms of Dr. Lemuel Dorcas, who used his "morphotron," which could imprint the genetic pattern of an animal onto a human, turning Arliss into a superhuman, amphibious creature.
 
-**First Appearance:** Uncanny X-Men (1981) #121
+**First Appearance:** Incredible Hulk (1962) #160
 
-[Comic Gallery](http://marvel.com/comics/characters/1009606/snowbird?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1009669/tiger_shark?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
