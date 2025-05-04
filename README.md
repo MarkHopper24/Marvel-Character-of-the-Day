@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Tiger Shark
+## Venom (Ultimate)
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/9/10/4c003a9db2f77.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/e/10/531773a976816.jpg" width="600" height="auto"/>
 </p>
 
-A champion Olympic swimmer, Todd Arliss earned nearly half million dollars in advances for public exhibitions, but his dreams came crashing down around him when he injured his back and legs while rescuing a man who had fallen overboard from a private craft, sending Arliss into the arms of Dr. Lemuel Dorcas, who used his "morphotron," which could imprint the genetic pattern of an animal onto a human, turning Arliss into a superhuman, amphibious creature.
+While Eddie Brock’s academic career seemed to take off, his personal life was in shambles due to his quick temper and inability to connect with women on any level, and Eddie became isolated, but when his old friend Peter Parker contacted him, he felt a rush of enthusiasm: here, at last, was someone with whom he could truly bond.
 
-**First Appearance:** Incredible Hulk (1962) #160
+**First Appearance:** Ultimate Spider-Man Vol. 1: Power & Responsibility (Trade Paperback)
 
-[Comic Gallery](http://marvel.com/comics/characters/1009669/tiger_shark?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1011128/venom_ultimate?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
