@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## X-Men
+## Scrambler
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/8/03/510c08f345938.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4c002f076451c.jpg" width="600" height="auto"/>
 </p>
 
-Feared and hated by humans because they're different, the X-Men are heroic mutants, individuals born with special powers who've sworn to use their gifts to protect mutants as well as humans.
+Korean national Kim Il Sung was the youngest member of the Marauders, the superhuman assassins responsible for massacring the underground mutant community known as the Morlocks.
 
-**First Appearance:** X-Men: The Complete Onslaught Epic Vol. 4 (2009)
+**First Appearance:** Uncanny X-Men (1981) #240
 
-[Comic Gallery](http://marvel.com/comics/characters/1009726/x-men?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1011230/scrambler?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
