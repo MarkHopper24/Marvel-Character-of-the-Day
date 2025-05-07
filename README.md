@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Scrambler
+## Spider-Man (Peter Parker)
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4c002f076451c.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/3/50/526548a343e4b.jpg" width="600" height="auto"/>
 </p>
 
-Korean national Kim Il Sung was the youngest member of the Marauders, the superhuman assassins responsible for massacring the underground mutant community known as the Morlocks.
+Bitten by a radioactive spider, high school student Peter Parker gained the speed, strength and powers of a spider. Adopting the name Spider-Man, Peter hoped to start a career using his new abilities. Taught that with great power comes great responsibility, Spidey has vowed to use his powers to help people.
 
-**First Appearance:** Uncanny X-Men (1981) #240
+**First Appearance:** Amazing Fantasy (1962) #15
 
-[Comic Gallery](http://marvel.com/comics/characters/1011230/scrambler?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1009610/spider-man_peter_parker?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
