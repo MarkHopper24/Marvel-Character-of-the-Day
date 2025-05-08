@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Spider-Man (Peter Parker)
+## Thunderbird (John Proudstar)
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/3/50/526548a343e4b.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/a/f0/4c003aa43b1ec.jpg" width="600" height="auto"/>
 </p>
 
-Bitten by a radioactive spider, high school student Peter Parker gained the speed, strength and powers of a spider. Adopting the name Spider-Man, Peter hoped to start a career using his new abilities. Taught that with great power comes great responsibility, Spidey has vowed to use his powers to help people.
+An exceptionally strong and vigorous athlete in his youth, John Proudstar&rsquo;s mutant abilities first manifested when he wrestled a charging bison to save a young girl.
 
-**First Appearance:** Amazing Fantasy (1962) #15
+**First Appearance:** Uncanny X-Men (1981) #94
 
-[Comic Gallery](http://marvel.com/comics/characters/1009610/spider-man_peter_parker?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1009666/thunderbird_john_proudstar?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
