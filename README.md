@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Thunderbird (John Proudstar)
+## Sway
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/a/f0/4c003aa43b1ec.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/b/40/4c003266ccbab.jpg" width="600" height="auto"/>
 </p>
 
-An exceptionally strong and vigorous athlete in his youth, John Proudstar&rsquo;s mutant abilities first manifested when he wrestled a charging bison to save a young girl.
+Suzanne Chan saw her parents gunned down in front of her, though she remained unscathed due to her manifesting mutant ability to stop time.
 
-**First Appearance:** Uncanny X-Men (1981) #94
+**First Appearance:** X-Men (2019) #10
 
-[Comic Gallery](http://marvel.com/comics/characters/1009666/thunderbird_john_proudstar?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1011017/sway?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
