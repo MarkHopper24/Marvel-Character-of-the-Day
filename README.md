@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Supreme Intelligence
+## Fantastic Four
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/b/40/52b0d1eb0ca73.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/9/60/50febc4f55525.jpg" width="600" height="auto"/>
 </p>
 
-The Supreme Intelligence is an organic, computer construct, created by the Kree to act as their supreme leader.
+After being exposed to cosmic rays, Reed Richards, Susan Storm, Ben Grimm and Johnny Storm found they had amazing new powers. Reed Richards found he has the ability to stretch his body in any way he wanted, while Susan Storm can turn herself, objects and other people invisible. Ben Grimm transformed into a rocky, super-strong behemoth and Johnny Storm has the ability to set himself on fire. Dubbed the Fantastic Four, Mr. Fantastic, Invisible Woman, Thing and the Human Torch are Marvel's First Family.
 
-**First Appearance:** Captain Marvel (1968) #41
+**First Appearance:** Fantastic Four 1 2 3 4 (2001)
 
-[Comic Gallery](http://marvel.com/comics/characters/1011160/supreme_intelligence?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1009299/fantastic_four?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
