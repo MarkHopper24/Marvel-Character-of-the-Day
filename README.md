@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Sersi
+## She-Hulk (HAS)
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/6/40/528d36c261af4.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/8/d0/523214b8ea2cf.jpg" width="600" height="auto"/>
 </p>
 
-Sersi is a member of the Eternals, a species diverted from humanity by experiments conducted by the Celestials one million years ago.
+She-Hulk is the Hulk's action-loving cousin. She's unbelievably strong, pilots the group's heavily armed Jump Jet, and uses a pair of Gamma Gauntlets that give her fists an added energy wallop. As the most competitive member of the team, She-Hulk never backs down from a fight, arm-wrestling match, or burping contest!  
 
-**First Appearance:** Eternals (1976) #5
+**First Appearance:** FREE COMIC BOOK DAY 2013 1 (2013) #1
 
-[Comic Gallery](http://marvel.com/comics/characters/1010345/sersi?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1017111/she-hulk_has?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
