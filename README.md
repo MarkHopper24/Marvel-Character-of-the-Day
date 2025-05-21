@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Vindicator
+## Sersi
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/3/b0/4c003a7f39967.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/6/40/528d36c261af4.jpg" width="600" height="auto"/>
 </p>
 
-Heather McNeil-Hudson married James Hudson, founder of Canadian super-team, Alpha Flight, and donned a version of his Vindicator armor after his death.
+Sersi is a member of the Eternals, a species diverted from humanity by experiments conducted by the Celestials one million years ago.
 
-**First Appearance:** Uncanny X-Men (1981) #120
+**First Appearance:** Eternals (1976) #5
 
-[Comic Gallery](http://marvel.com/comics/characters/1009695/vindicator?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1010345/sersi?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
