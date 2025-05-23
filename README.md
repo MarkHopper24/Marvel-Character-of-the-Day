@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Red Hulk (HAS)
+## Miracleman
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/2/a0/523214eac3705.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/5/90/545a820a2dc50.jpg" width="600" height="auto"/>
 </p>
 
-US Army General Thunderbolt Ross used to a be a huge pain in Hulk's you know what! But as the saying goes, if you can't beat 'em, join 'em! He decided to supersize himself and join the team as Red! Just as cranky as before, Red still gives Hulk a hard time, but deep down he loves being a part of the Agents of S.M.A.S.H. - that, and his Gatling Laser Cannon. 
+Michael Moran has a superhuman alter ego. By saying the trigger word "Kimota!" Michael turns into Miracleman! But is the good of being Miracleman enough to outweigh the cost?
 
-**First Appearance:** FREE COMIC BOOK DAY 2013 1 (2013) #1
+**First Appearance:** Miracleman (2022)
 
-[Comic Gallery](http://marvel.com/comics/characters/1017099/red_hulk_has?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1013727/miracleman?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
