@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## She-Hulk (Jennifer Walters)
+## Union Jack (Joseph Chapman)
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/7/20/527bb5d64599e.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/3/40/4c0038d27694a.jpg" width="600" height="auto"/>
 </p>
 
-Seriously wounded, young lawyer Jennifer Walters was given a blood transfusion by her cousin Bruce Banner. Usually in better control of her powers and temper than the Hulk, She-Hulk has been a high profile New York lawyer as well as an upstanding member of both the Avengers and Fantastic Four.
+Joey Chapman, the new Union Jack continued to fight evil, both alone and as a member of the Knights of Pendragon and the new Invaders.
 
-**First Appearance:** The Savage She-Hulk (1980) #1
+**First Appearance:** Namor the Sub-Mariner (1990) #11
 
-[Comic Gallery](http://marvel.com/comics/characters/1009583/she-hulk_jennifer_walters?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1010696/union_jack_joseph_chapman?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
