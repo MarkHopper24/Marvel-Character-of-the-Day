@@ -4,16 +4,20 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Miracleman
+## Iron Fist (USM)
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/5/90/545a820a2dc50.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/6/20/52321751dffa6.jpg" width="600" height="auto"/>
 </p>
 
-Michael Moran has a superhuman alter ego. By saying the trigger word "Kimota!" Michael turns into Miracleman! But is the good of being Miracleman enough to outweigh the cost?
+Danny is always focused yet relaxed - more Zen-focused than chill surfer dude. But when Danny turns into Iron First, he becomes very rigid with perfect posture. A very Yin/Yang character. 
 
-**First Appearance:** Miracleman (2022)
+Danny is THE Danny Rand â€“ the 17-year-old head of the giant Rand Corporation.  His wealth rivals Osbornâ€™s â€“ but youâ€™d never know it from his laid- back attitude. However, as Iron Fist, he takes his powers very seriously. 
 
-[Comic Gallery](http://marvel.com/comics/characters/1013727/miracleman?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+While Danny and Luke are best friends, Danny has a special respect for Spider-Man, acting as a non-judgmental moral commentator on all of Spider-Manâ€™s actions. 
+
+**First Appearance:** Ultimate Spider-Man Infinite Digital Comic (2015) #18
+
+[Comic Gallery](http://marvel.com/comics/characters/1016839/iron_fist_usm?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
