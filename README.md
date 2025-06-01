@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Stingray (Walter Newell)
+## Ulik
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4c003ac5e5195.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/3/c0/4d3f3b2078758.jpg" width="600" height="auto"/>
 </p>
 
-Creating the Stingray costume, Newell succeeded in capturing the Sub-Mariner, although Namor soon escaped and Newell, while initially defeating him a second time, allowed his friend to go.
+Ulik was a Rock Troll from the realm known as Nornheim, located underground within the dimension of Asgard.
 
-**First Appearance:** Defenders (1972) #63
+**First Appearance:** Thor (1966) #173
 
-[Comic Gallery](http://marvel.com/comics/characters/1009628/stingray_walter_newell?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1010358/ulik?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
