@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Ken Ellis
+## Sif
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/5/80/4c002e50c1a87.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/c/50/527bb6fc4ec43.jpg" width="600" height="auto"/>
 </p>
 
-Former Daily Bugle and current DB! reporter Ken Ellis first made a splash during the public debut of Ben Reilly as the Scarlet Spider, providing the new costumed hero with his name following a pitched battle with Venom.
+Sif was born a second generation goddess of Asgard and eventually became Thor's lover.
 
-**First Appearance:** Venom: Separation Anxiety (1994) #3
+**First Appearance:** Thor (1966) #136
 
-[Comic Gallery](http://marvel.com/comics/characters/1011319/ken_ellis?utm_campaign=apiRef&utm_source=422c32a7c4c3f9adfe3f4aef0db1a1e8)
+[Comic Gallery]()
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
