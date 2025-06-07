@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Sif
+## Skreet
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/c/50/527bb6fc4ec43.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/8/20/4c002f4a15c1c.jpg" width="600" height="auto"/>
 </p>
 
-Sif was born a second generation goddess of Asgard and eventually became Thor's lover.
+The Proemial God Aegis revealed that Skreet was a Chaos Mite, a race of very small and powerful beings, which were deemed unstable by the Cosmic Consonance.
 
-**First Appearance:** Thor (1966) #136
+**First Appearance:** Thanos (2003) #10
 
-[Comic Gallery]()
+[Comic Gallery](http://marvel.com/comics/characters/1011157/skreet?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
