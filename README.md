@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Wolverine (Ultimate)
+## Venom (Flash Thompson)
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/9/03/531773b76840c.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/7/80/5269668c7d5df.jpg" width="600" height="auto"/>
 </p>
 
-Decades after participating in military airdrops with Captain America during WWII, James Howlett was abducted and experimented upon by a covert government unit, who bonded unbreakable adamantium to his skeleton, implanted three claws in each arm, dubbed him Weapon X and supposedly programmed him to kill any human he came into contact with.
+Flash Thompson was the high school bully of Peter Parker while also being one of Spider-Man's biggest fans. After losing his legs during military service, he became the new Venom, working as an operative of the United States government.
 
-**First Appearance:** Ultimate X-Men (2001) #1
+**First Appearance:** Venom: On Trial (1997) #1
 
-[Comic Gallery]()
+[Comic Gallery](http://marvel.com/comics/characters/1009663/venom_flash_thompson?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
