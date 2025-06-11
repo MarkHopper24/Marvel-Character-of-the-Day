@@ -4,16 +4,20 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Venom (Flash Thompson)
+## White Tiger (USM)
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/7/80/5269668c7d5df.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/d/c0/52321764379a9.jpg" width="600" height="auto"/>
 </p>
 
-Flash Thompson was the high school bully of Peter Parker while also being one of Spider-Man's biggest fans. After losing his legs during military service, he became the new Venom, working as an operative of the United States government.
+White Tiger takes everything very seriously. A constant overachiever, she wants to be better and wants the group to be better. With less flashy powers, she feels like she has to work the hardest. 
+ 
+A skilled acrobatic fighter with feline senses and claws. Ava wears a small Tiger amulet on her belt that gives her supernatural powers.
 
-**First Appearance:** Venom: On Trial (1997) #1
+In the field, sheâ€™s constantly frustrated with Spider-Man and his irreverent attitude. But the longer the two fight side by side, the more they will understand one another.
 
-[Comic Gallery](http://marvel.com/comics/characters/1009663/venom_flash_thompson?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+**First Appearance:** Ultimate Spider-Man Infinite Digital Comic (2015) #18
+
+[Comic Gallery]()
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
