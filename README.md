@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Stranger
+## Thor (Ultimate)
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/8/80/4c0030fd08ad6.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/3/80/5317738e6dc12.jpg" width="600" height="auto"/>
 </p>
 
-By his own account, the Stranger is a composite being possessing the combined strength and intellect of the billions of humanoid beings who once lived on the planet Gigantus, an ancient world in the Andromeda Galaxy whose size approached the limit at which a planet can exist before fissioning into a sun.
+He claims he is the legendary Norse thunder deity Thor, sent to Earth by his father Odin, but official records say he is Thorlief Golmen, who stole his scientist brother Gunnar Golmen's super-soldier technology after suffering a nervous breakdown.
 
-**First Appearance:** Marvel Masterworks: Ant-Man/Giant-Man Vol. 1 (Hardcover)
+**First Appearance:** Ultimates (2002) #7
 
-[Comic Gallery]()
+[Comic Gallery](http://marvel.com/comics/characters/1011025/thor_ultimate?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
