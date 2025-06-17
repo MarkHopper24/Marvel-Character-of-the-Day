@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Thor (Ultimate)
+## Hank Pym
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/3/80/5317738e6dc12.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/2/b0/5205305343bfd.jpg" width="600" height="auto"/>
 </p>
 
-He claims he is the legendary Norse thunder deity Thor, sent to Earth by his father Odin, but official records say he is Thorlief Golmen, who stole his scientist brother Gunnar Golmen's super-soldier technology after suffering a nervous breakdown.
+ 
 
-**First Appearance:** Ultimates (2002) #7
+**First Appearance:** Marvel Masterworks: Ant-Man/Giant-Man Vol. 1 (Hardcover)
 
-[Comic Gallery](http://marvel.com/comics/characters/1011025/thor_ultimate?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery]()
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
