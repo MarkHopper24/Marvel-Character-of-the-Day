@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Wolverine
+## Storm (Ultimate)
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/2/60/537bcaef0f6cf.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/6/10/5317733a7ab7a.jpg" width="600" height="auto"/>
 </p>
 
-Born with super-human senses and the power to heal from almost any wound, Wolverine was captured by a secret Canadian organization and given an unbreakable skeleton and claws. Treated like an animal, it took years for him to control himself. Now, he's a premiere member of both the X-Men and the Avengers.
+Ororo Munroe was raised in Morocco, learning English from American films, and after her family was murdered she fled to America, stealing cars in Harlem before relocating to Texas.
 
-**First Appearance:** X-Men: The Complete Onslaught Epic Vol. 4 (2009)
+**First Appearance:** Ultimate X-Men (2001) #1
 
-[Comic Gallery]()
+[Comic Gallery](http://marvel.com/comics/characters/1010978/storm_ultimate?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
