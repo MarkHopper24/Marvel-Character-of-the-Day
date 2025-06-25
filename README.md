@@ -4,14 +4,14 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Mary Jane Watson
+## Whirlwind
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/2/03/528d33d000749.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/3/a0/4c7c643e59215.jpg" width="600" height="auto"/>
 </p>
 
-Mary Jane Watson was the guiding light in Peter Parker's life, and their love had overcome countless obstacles.
+David Cannon was always a bully, so his mutant abilities naturally led him to a life of crime and petty thievery, until his constant defeat at the hands of the Hank Pym and the Wasp led him to create the Whirlwind identity.
 
-**First Appearance:** The Amazing Spider-Man (1963) #61
+**First Appearance:** Avengers (1963) #54
 
 [Comic Gallery]()
 
