@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Ken Ellis
+## Wild Child
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/5/80/4c002e50c1a87.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/8/00/4c003a6b5d11a.jpg" width="600" height="auto"/>
 </p>
 
-Former Daily Bugle and current DB! reporter Ken Ellis first made a splash during the public debut of Ben Reilly as the Scarlet Spider, providing the new costumed hero with his name following a pitched battle with Venom.
+Kyle Gibney's mutant powers emerged at an early age and left him with a freakish appearance, horrifying his parents, who kicked him out of the house, where he was eventually found and experimented upon by the Secret Empire and, later, Department H, who dubbed Gibney Wild Child and placed him with Gamma Flight, the entry-level team whose recruits can eventually graduate to Alpha Flight.
 
-**First Appearance:** Venom: Separation Anxiety (1994) #3
+**First Appearance:** Alpha Flight (1983) #13
 
-[Comic Gallery](http://marvel.com/comics/characters/1011319/ken_ellis?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery]()
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
