@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## War Machine (Parnell Jacobs)
+## Belasco
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/c/f0/535febf826de5.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/a/20/4ce5a878b487c.jpg" width="600" height="auto"/>
 </p>
 
-Parnell Jacobs was a member of the U.S. Army who fought in Sin-Congese civil war in Asia alongside Jim Rhodes and who later encountered the discarded armor of Rhodes' superhero alter-ego, War Machine, which Jacobs studied used for the basis of many arms designs.
+Only the blackest of hearts would dare delve into the dark magic of the Elder Gods, but 13th Century sorcerer Belasco was of just such a heart.
 
-**First Appearance:** Punisher War Journal (2006) #17
+**First Appearance:** Universe X (2000) #3
 
-[Comic Gallery](http://marvel.com/comics/characters/1010991/war_machine_parnell_jacobs?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1011793/belasco?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
