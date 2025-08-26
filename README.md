@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Shockwave
+## Baron Mordo (Karl Mordo)
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4c0035c193fc3.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/f/90/4ce5a86dba8a8.jpg" width="600" height="auto"/>
 </p>
 
-Lancaster Sneed was a secret agent working for the United Kingdom’s MI:6, but no one esteemed him as highly as himself, and despite his pride, he was wounded in an explosion on his first field assignment and forced to undergo a radical surgery that grafted metal plates and cybernetic systems to his body.
+Born in 1921, Karl Mordo was the son of Nikolai Mordo.  He vowed that, as the second Baron Mordo, he would achieve his father’s hopes and more.
 
-**First Appearance:** Master of Kung Fu (1974) #42
+**First Appearance:** Strange Tales (1951) #132
 
-[Comic Gallery](http://marvel.com/comics/characters/1010858/shockwave?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1011778/baron_mordo_karl_mordo?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
