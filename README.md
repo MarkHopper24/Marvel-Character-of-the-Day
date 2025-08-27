@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Slapstick
+## Banshee (Theresa Rourke)
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c00310b887bc.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4ce5a1a50e56b.jpg" width="600" height="auto"/>
 </p>
 
-Steven Harmon's powers have been described as "all of the abilities of a Saturday morning cartoon character."
+The daughter of former X-Men member Sean Cassidy, a.k.a. Banshee, and Maeve Rourke, Theresa Rourke was raised by her first cousin once removed, mutant terrorist Thomas Cassidy, a.k.a. Black Tom.
 
-**First Appearance:** Avengers: The Initiative (2007) #4
+**First Appearance:** Uncanny X-Men (1981) #148
 
-[Comic Gallery](http://marvel.com/comics/characters/1011057/slapstick?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1009596/banshee_theresa_rourke?utm_campaign=apiRef&utm_source=f7c2b428818e125d07df811e2f604734)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
