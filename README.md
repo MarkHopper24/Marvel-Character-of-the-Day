@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Boom Boom
+## Mary Jane Watson (House of M)
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/6/00/4ce5a25d34245.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c003291616a1.jpg" width="600" height="auto"/>
 </p>
 
-When Tabitha Smith's mutant nature manifested at age 13, she ran away from her abusive home and eventually hooked up with the New Mutants and, subsequently, X-Force.
+Mary Jane Watson always wanted to be an actress, but all the roles seemed to go to mutants, until her former high school friend, and world famous performer, Peter Parker asked her to play his love interest in his newest movie, upon the release of which made her America's sweetheart and one of the only human movies stars able to launch her own solo projects.
 
-**First Appearance:** Monsters on the Prowl (1971) #16
+**First Appearance:** Amazing Spider-Man (1999) #515
 
-[Comic Gallery](http://marvel.com/comics/characters/1010366/boom_boom?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1010993/mary_jane_watson_house_of_m?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
