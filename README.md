@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Wolfsbane (Age of Apocalypse)
+## Tenebrous
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/3/20/528d3602d37e0.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4c002f3b92276.jpg" width="600" height="auto"/>
 </p>
 
-An only child, Rahne Sinclair's mutant powers emerged during the culling of Scotland by the Apocalypse's Horseman Mikhail when her parents attempted to hide her, but failed, and Rahne was discovered by Mikhail's hounds and brought before him alongside her parents whom Mikhail made Rahne beg for their lives, making her pledge allegiance to Apocalypse.
+Tenebrous has existed in this universe since its infancy, and was imprisoned in the planet Kyln after a battle with Galactus.
 
-**First Appearance:** X-Man (1995) #12
+**First Appearance:** Annihilation: Silver Surfer (2006) #3
 
-[Comic Gallery](http://marvel.com/comics/characters/1010995/wolfsbane_age_of_apocalypse?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1011162/tenebrous?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
