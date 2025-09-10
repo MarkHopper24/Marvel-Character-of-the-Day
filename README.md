@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Typhoid Mary
+## Thunderbird (Neal Shaara)
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/1/f0/4c00390aa2403.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4c003aa0d9cf9.jpg" width="600" height="auto"/>
 </p>
 
-Typhoid Mary, an enemy and former lover of Daredevil with psionic powers, including telekinesis, is also truly gravely mentally ill and not entirely responsible for her actions.
+Coming from an affluent family and the son of a Calcuttan police chief, Indian national Neal Shaara has not been a follower of Charles Xavier's philosophies for long, but appears to be one of their most dedicated supporters, nonetheless.
 
-**First Appearance:** Daredevil (1964) #254
+**First Appearance:** Uncanny X-Men (1981) #193
 
-[Comic Gallery](http://marvel.com/comics/characters/1010369/typhoid_mary?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1009667/thunderbird_neal_shaara?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
