@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Captain America (Sam Wilson)
+## Shatterstar
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/c/80/545a84a75ddaf.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/8/70/4c003c21cd9e1.jpg" width="600" height="auto"/>
 </p>
 
-<p class="Body">Sam Wilson, a Harlem native, previously operated under the name Falcon, fighting alongside the Avengers. When his longtime friend Steve Rogers stepped down as Captain America, Wilson was hand-picked to fill the role. Now the former Falcon soars through the skies wearing red, white and blue.</p>
+Shatterstar is Gaveedra Seven, the product of bio-engineering on an otherdimensional world, who was at one point merged with an Earth mutant named Benjamin Russell, the nature of whose genetic mutation remains unknown.
 
-**First Appearance:** Captain America Sentinel of Liberty (1998) #9
+**First Appearance:** Captain Marvel (1968) #53
 
-[Comic Gallery](http://marvel.com/comics/characters/1017575/captain_america_sam_wilson?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1009580/shatterstar?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
