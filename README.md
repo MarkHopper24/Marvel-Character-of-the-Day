@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Werewolf By Night
+## Speed Demon
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/3/a0/4c00375df1879.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/5/90/4c0032463bef2.jpg" width="600" height="auto"/>
 </p>
 
-Jack Russell inherited the curse of lycanthropy from his father, Gregor.
+James Saunders, a disgruntled chemist tired of his job with the Hudson Pharmaceutical Company of West Caldwell, New Jersey, was contacted by the Grandmaster and offered superhuman powers in exchange for joining a team that would compete on his behalf.
 
-**First Appearance:** Marvel Spotlight (1971) #2
+**First Appearance:** Avengers (1963) #85
 
-[Comic Gallery](http://marvel.com/comics/characters/1010765/werewolf_by_night?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1011032/speed_demon?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
