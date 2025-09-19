@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Sebastian Shaw
+## Whirlwind
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4c003c1e9a90e.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/3/a0/4c7c643e59215.jpg" width="600" height="auto"/>
 </p>
 
-Sebastian Shaw was invited to join the elite Hellfire Club and quickly worked his way into a position within the Inner Circle.
+David Cannon was always a bully, so his mutant abilities naturally led him to a life of crime and petty thievery, until his constant defeat at the hands of the Hank Pym and the Wasp led him to create the Whirlwind identity.
 
-**First Appearance:** Uncanny X-Men (1981) #182
+**First Appearance:** Avengers (1963) #54
 
-[Comic Gallery](http://marvel.com/comics/characters/1009581/sebastian_shaw?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1010348/whirlwind?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
