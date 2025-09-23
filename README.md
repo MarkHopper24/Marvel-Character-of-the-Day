@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Thundra
+## Surge
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/c/80/4ce5a61df19e5.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/2/d0/4c0038d51109f.jpg" width="600" height="auto"/>
 </p>
 
-Thundra was quite possibly her world's greatest female specimens, and as she won countless battles against the men, she was revered as the Sisterhood's greatest hero.
+Prior to enrolling at the Xavier Institute, Noriko Ashida lived on the street and was reliant on illegally obtained prescription drugs to reduce her highly accelerated mutant brain functions to a manageable rate.
 
-**First Appearance:** Fantastic Four (1961) #177
+**First Appearance:** New Mutants (2003) #9
 
-[Comic Gallery](http://marvel.com/comics/characters/1011304/thundra?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1010695/surge?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
