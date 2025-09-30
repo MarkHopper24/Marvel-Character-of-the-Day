@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Ms. Marvel (Kamala Khan)
+## Valkyrie (Samantha Parrington)
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/5/b0/548730dac2a40.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/c/00/535fed8a3a00f.jpg" width="600" height="auto"/>
 </p>
 
-A Muslim-American teenager growing up in Jersey City, Kamala Khan gained shape-shifting powers when Inhumanity spread over the Earth. A fan of super heroes, in particular Carol Danvers, Kamala took up Captain Marvel's former identity, becoming the new Ms. Marvel. This up and coming hero works to protect her community and understand her place in the world.
+Amora magically transformed Samantha Parrington into a raging, man-hating facsimile of the Asgardian warrior goddess Brunnhilde the Valkyrie, whose form and might Amora could replicate at will, having trapped Brunnhilde's soul in a mystical crystal centuries earlier.
 
-**First Appearance:** ALL-NEW MARVEL NOW! POINT ONE 1 (2014) #1
+**First Appearance:** Giant-Size Defenders (1974) #1
 
-[Comic Gallery](http://marvel.com/comics/characters/1017577/ms_marvel_kamala_khan?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1010350/valkyrie_samantha_parrington?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
