@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Valkyrie (Samantha Parrington)
+## Unus (Age of Apocalypse)
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/c/00/535fed8a3a00f.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/6/c0/536165c7d94ae.jpg" width="600" height="auto"/>
 </p>
 
-Amora magically transformed Samantha Parrington into a raging, man-hating facsimile of the Asgardian warrior goddess Brunnhilde the Valkyrie, whose form and might Amora could replicate at will, having trapped Brunnhilde's soul in a mystical crystal centuries earlier.
+Unus worked for Apocalypse and was sent into Old New York City to search for any remaining humans there and to kill them.
 
-**First Appearance:** Giant-Size Defenders (1974) #1
+**First Appearance:** X-Men: Alpha (1995) #1
 
-[Comic Gallery](http://marvel.com/comics/characters/1010350/valkyrie_samantha_parrington?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1010987/unus_age_of_apocalypse?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
