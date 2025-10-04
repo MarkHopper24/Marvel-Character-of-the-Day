@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Stepford Cuckoos
+## Hulk (HAS)
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/5/90/4c003acc72680.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/d/10/5232027069e61.jpg" width="600" height="auto"/>
 </p>
 
-The Stepford Cuckoos were five identical mutant sisters who enrolled at the Xavier Institute and soon proved to be the crème de la crème of Emma Frost's telepathy class.
+The Hulk is the biggest, strongest, smashing-est hero in the Marvel Universe - the green glue that holds his crazy family-like team together. Hulk loves saving the world by smashing every alien, sea creature, and planet (literally) that tries to destroy it. He is the star of his best bud A-Bomb's web series, and just wants to show people his good intentions!
 
-**First Appearance:** New X-Men (2001) #123
+**First Appearance:** FREE COMIC BOOK DAY 2013 1 (2013) #1
 
-[Comic Gallery](http://marvel.com/comics/characters/1009625/stepford_cuckoos?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1017098/hulk_has?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
