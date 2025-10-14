@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Shanna the She-Devil
+## Shriek
 <p align="center">
-<img src="http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4d2b364a69f77.jpg" width="600" height="auto"/>
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/8/03/528d36b054844.jpg" width="600" height="auto"/>
 </p>
 
-The only daughter of a wealthy diamond miner, Shanna grew up in the Zaire jungles, where, at age six, she witnessed her father’s accidental fatal shooting of her mother, starting a lifelong loathing of firearms.
+Shriek became a groupie for a rock band and a drug dealer on the side until the vigilantes Cloak and Dagger happened by during one of her deals.
 
-**First Appearance:** Shanna the She-Devil (1972) #1
+**First Appearance:** Peter Parker, the Spectacular Spider-Man (1976) #201
 
-[Comic Gallery](http://marvel.com/comics/characters/1009578/shanna_the_she-devil?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
+[Comic Gallery](http://marvel.com/comics/characters/1009587/shriek?utm_campaign=apiRef&utm_source=335f42edabc428513a94604c747fda4a)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
