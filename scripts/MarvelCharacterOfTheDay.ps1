@@ -6,20 +6,14 @@
     The API key for accessing the Comic Vine API.
 
 .DESCRIPTION
-    This script provides functions to interact with the Comic Vine API, retrieve Marvel character data, save it to a JSON file, and generate QR codes for character URLs. It includes functions to fetch data from the API, retrieve random characters, save character data, and generate QR codes.
+    This script provides functions to interact with the Comic Vine API, retrieve a random Marvel character, save it to a JSON file, and generate QR codes for character URLs. It includes functions to fetch data from the API, retrieve a random character by offset, save character data, and generate QR codes.
 
 .FUNCTIONS
     Get-ComicVineApiData
         Fetches data from the Comic Vine API for a specified endpoint or full URL and query parameters.
 
-    Get-Characters
-        Retrieves all Marvel characters from the Comic Vine API, with pagination support.
-
-    Save-Characters
-        Saves the retrieved characters to a JSON file.
-
-    Import-Characters
-        Imports characters from a JSON file.
+    Get-RandomCharacter
+        Retrieves a single random Marvel character from the Comic Vine API using a random offset.
 
     Get-FirstCharacterComic
         Retrieves the first comic appearance of a specified character.
@@ -34,7 +28,7 @@
         Generates a QR code for a given URL and saves it as an image file.
 
     Invoke-RandomCharacterProcessing
-        Orchestrates the process of saving characters, importing them, selecting a random character, retrieving their first comic, and saving the character data.
+        Orchestrates the process of selecting a random character, retrieving their first comic, and saving the character data.
 
 .EXAMPLE
      .\MarvelCharacterOfTheDay.PS1 -comicVineApiKey "your_api_key"
@@ -91,8 +85,25 @@ function Get-ComicVineApiData {
         $url = $BaseURL + $endpoint + "?" + $queryString
     }
 
-    $response = Invoke-RestMethod -Uri $url -Method Get
-    return $response
+    $maxRetries = 5
+    $retryDelay = 10
+    for ($attempt = 1; $attempt -le $maxRetries; $attempt++) {
+        try {
+            $response = Invoke-RestMethod -Uri $url -Method Get
+            return $response
+        }
+        catch {
+            $statusCode = $_.Exception.Response.StatusCode.value__
+            if ($null -ne $statusCode -and $statusCode -eq 420 -and $attempt -lt $maxRetries) {
+                Write-Warning "Rate limited (420). Waiting $retryDelay seconds before retry $attempt of $($maxRetries - 1)..."
+                Start-Sleep -Seconds $retryDelay
+                $retryDelay = $retryDelay * 2
+            }
+            else {
+                throw $_
+            }
+        }
+    }
 }
 
 <#
@@ -118,105 +129,50 @@ function Remove-HtmlTags {
 
 <#
 .SYNOPSIS
-Function to retrieve and save the full list of Marvel characters from the Comic Vine API.
+Function to retrieve a single random Marvel character from the Comic Vine API.
 
 .DESCRIPTION
-This function retrieves all Marvel characters from the Comic Vine API, handling pagination to fetch the complete list of characters. It returns an array of character objects filtered by description, first appearance, and valid image.
+This function retrieves the total count of Marvel characters, generates a random offset, and fetches a single character at that offset. It retries with a new random offset if the selected character does not meet quality criteria (must have a description, a first appearance, and a valid image).
 
 .EXAMPLE
-Get-Characters
+Get-RandomCharacter
 
 .NOTES
-This function uses parallel processing to improve performance when fetching data from the API. It retrieves the total number of characters, calculates the number of pages needed for pagination, and fetches characters in parallel with a specified limit.
+This function uses the Comic Vine API offset and limit parameters to efficiently select a random character without fetching the full character list.
 #>
-function Get-Characters {
-    # Set the limit for characters per request. Maximum limit for Comic Vine API is 100.
-    $limit = 100
+function Get-RandomCharacter {
+    $maxAttempts = 20
     try {
-        # First, find the count of total Marvel characters
-        $initialResponse = Get-ComicVineApiData -endpoint "characters" -queryParams @{ limit = 1; filter = "publisher:31" }
-        $total = $initialResponse.number_of_total_results
+        # Get the total number of Marvel characters (publisher ID 31)
+        $countResponse = Get-ComicVineApiData -endpoint "characters" -queryParams @{ limit = 1; filter = "publisher:31" }
+        $total = $countResponse.number_of_total_results
 
-        # Calculate the number of pages needed for pagination
-        $pages = [math]::Ceiling($total / $limit)
-        $offsets = 0..($pages - 1) | ForEach-Object { $_ * $limit }
+        for ($attempt = 1; $attempt -le $maxAttempts; $attempt++) {
+            # Pick a random offset and fetch a single character at that position
+            $randomOffset = Get-Random -Minimum 0 -Maximum $total
+            $response = Get-ComicVineApiData -endpoint "characters" -queryParams @{
+                offset = $randomOffset
+                limit  = 1
+                filter = "publisher:31"
+            }
+            $character = $response.results | Select-Object -First 1
 
-        # Fetch characters in parallel with a specified limit
-        $characters = $offsets | ForEach-Object -Parallel {
-            $apiKey = $using:apiKey
-            $BaseURL = "https://comicvine.gamespot.com/api/"
-
-            function Get-ComicVineApiData {
-                param (
-                    [string]$endpoint,
-                    [hashtable]$queryParams = @{}
-                )
-                $queryParams["api_key"] = $apiKey
-                $queryParams["format"] = "json"
-                $queryString = ($queryParams.GetEnumerator() | ForEach-Object { "$($_.Key)=$($_.Value)" }) -join "&"
-                if ($endpoint -like "http*") {
-                    $url = $endpoint + "?" + $queryString
-                }
-                else {
-                    $url = $BaseURL + $endpoint + "?" + $queryString
-                }
-                $response = Invoke-RestMethod -Uri $url -Method Get
-                return $response
+            # Verify the character meets quality criteria before returning
+            if ($null -ne $character -and
+                $null -ne $character.deck -and $character.deck -ne "" -and
+                $null -ne $character.first_appeared_in_issue -and
+                $character.image.medium_url -notlike "*image_not_available*") {
+                return $character
             }
 
-            $response = Get-ComicVineApiData -endpoint "characters" -queryParams @{ offset = $_; limit = $using:limit; filter = "publisher:31" }
-            $response.results
-
-        } -ThrottleLimit 5
-
-        # Filter out characters with no description, no first appearance, or with image_not_available in the image URL
-        $characters = $characters | Where-Object {
-            ($null -ne $_.deck -and $_.deck -ne "") -and
-            $null -ne $_.first_appeared_in_issue -and
-            $_.image.medium_url -notlike "*image_not_available*"
+            Write-Verbose "Character at offset $randomOffset did not meet criteria. Attempt $attempt of $maxAttempts."
         }
 
-        return $characters
+        throw "Could not find a suitable character after $maxAttempts attempts."
     }
     catch {
-        throw $_.Exception
+        throw $_
     }
-}
-
-<#
-.SYNOPSIS
-Function to save the retrieved characters to a JSON file.
-
-.DESCRIPTION
-This function retrieves the characters using the Get-Characters function and saves them to a JSON file named "characters.json" in the current directory.
-
-.EXAMPLE
-Save-Characters
-
-.NOTES
-This function uses the ConvertTo-Json cmdlet to convert the character objects to JSON format and writes the output to a file.
-#>
-function Save-Characters {
-    $characters = Get-Characters
-    $characters | ConvertTo-Json -Depth 10 | Set-Content -Path ".\characters.json"
-}
-
-<#
-.SYNOPSIS
-Function to import characters from a JSON file.
-
-.DESCRIPTION
-This function reads the character data from a JSON file named "characters.json" in the current directory and converts it back to PowerShell objects.
-
-.EXAMPLE
-Import-Characters
-
-.NOTES
-This function uses the ConvertFrom-Json cmdlet to read the JSON file and convert the data back to PowerShell objects.
-#>
-Function Import-Characters {
-    $characters = Get-Content -Path ".\characters.json" | ConvertFrom-Json
-    return $characters
 }
 
 <#
@@ -425,10 +381,10 @@ function Save-QRCode {
 
 <#
 .SYNOPSIS
-Function to orchestrate the process of saving characters, importing them, selecting a random character, retrieving their first comic, and saving the character data.
+Function to orchestrate the process of selecting a random character, retrieving their first comic, and saving the character data.
 
 .DESCRIPTION
-This function orchestrates the process of saving characters, importing them, selecting a random character, retrieving their first comic appearance, and saving the detailed character data.
+This function orchestrates the process of selecting a random Marvel character by offset, retrieving their first comic appearance, and saving the detailed character data.
 
 .EXAMPLE
 Invoke-RandomCharacterProcessing
@@ -437,9 +393,7 @@ Invoke-RandomCharacterProcessing
 This function combines the functionality of other functions to automate the process of selecting a random Marvel character, fetching their first comic appearance, and saving the character data.
 #>
 function Invoke-RandomCharacterProcessing {
-    Save-Characters
-    $characters = Import-Characters
-    $randomCharacter = $characters | Get-Random
+    $randomCharacter = Get-RandomCharacter
     $firstComic = Get-FirstCharacterComic -character $randomCharacter
     Save-CharacterData -character $randomCharacter -firstComic $firstComic
 }
