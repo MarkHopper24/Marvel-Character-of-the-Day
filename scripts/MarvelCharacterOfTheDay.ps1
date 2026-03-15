@@ -1,43 +1,34 @@
 <#
 .SYNOPSIS
-    This script interacts with the Marvel API to retrieve and process data about Marvel characters.
+    This script interacts with the Comic Vine API to retrieve and process data about Marvel characters.
 
-.PARAMETER marvelApiPublicKey
-    The public key for accessing the Marvel API.
-
-.PARAMETER marvelApiPrivateKey
-    The private key for accessing the Marvel API.
+.PARAMETER comicVineApiKey
+    The API key for accessing the Comic Vine API.
 
 .DESCRIPTION
-    This script provides functions to interact with the Marvel API, retrieve character data, save it to a JSON file, and generate QR codes for character URLs. It includes functions to get Marvel API parameters, fetch data from the API, retrieve random Marvel characters, save character data, and generate QR codes.
+    This script provides functions to interact with the Comic Vine API, retrieve Marvel character data, save it to a JSON file, and generate QR codes for character URLs. It includes functions to fetch data from the API, retrieve random characters, save character data, and generate QR codes.
 
 .FUNCTIONS
-    Get-MarvelApiParameters
-        Generates the necessary parameters (timestamp, API key, and hash) for authenticating requests to the Marvel API.
-
-    Get-MarvelApiData
-        Fetches data from the Marvel API for a specified endpoint and query parameters.
-
-    Get-RandomMarvelCharacter
-        Retrieves a random Marvel character from the API.
+    Get-ComicVineApiData
+        Fetches data from the Comic Vine API for a specified endpoint or full URL and query parameters.
 
     Get-Characters
-        Retrieves all Marvel characters from the API, with pagination support.
+        Retrieves all Marvel characters from the Comic Vine API, with pagination support.
 
     Save-Characters
-        Saves the retrieved Marvel characters to a JSON file.
+        Saves the retrieved characters to a JSON file.
 
     Import-Characters
-        Imports Marvel characters from a JSON file.
+        Imports characters from a JSON file.
 
     Get-FirstCharacterComic
-        Retrieves the first comic appearance of a specified Marvel character.
+        Retrieves the first comic appearance of a specified character.
 
     Test-URL
         Tests if a given URL is reachable.
 
     Save-CharacterData
-        Saves detailed data about a Marvel character, including generating QR codes for character URLs.
+        Saves detailed data about a character, including generating QR codes for character URLs.
 
     Save-QRCode
         Generates a QR code for a given URL and saves it as an image file.
@@ -46,8 +37,8 @@
         Orchestrates the process of saving characters, importing them, selecting a random character, retrieving their first comic, and saving the character data.
 
 .EXAMPLE
-     .\Marvel.PS1 -marvelApiPublicKey "your_public_key" -marvelApiPrivateKey "your_private_key"
-     This command runs the script with the specified Marvel API public and private keys.
+     .\MarvelCharacterOfTheDay.PS1 -comicVineApiKey "your_api_key"
+     This command runs the script with the specified Comic Vine API key.
 
 .NOTES
      File Name      : MarvelCharacterOfTheDay.ps1
@@ -56,85 +47,49 @@
 #>
 param(
     [Parameter(Mandatory = $true)]
-    [string]$marvelApiPublicKey,
-    [Parameter(Mandatory = $true)]
-    [string]$marvelApiPrivateKey
+    [string]$comicVineApiKey
 ) 
 
-# Set the Marvel API keys, base URL, and API version variables
-$publicKey = $marvelApiPublicKey
-$privateKey = $marvelApiPrivateKey
-$BaseURL = "https://gateway.marvel.com:443/"
-$APIVersion = "v1/public/"
+# Set the Comic Vine API key and base URL
+$apiKey = $comicVineApiKey
+$BaseURL = "https://comicvine.gamespot.com/api/"
 
 <#
 .SYNOPSIS
-Function to generate the necessary parameters for authenticating requests to the Marvel API.
+Function to fetch data from the Comic Vine API for a specified endpoint and query parameters.
 
 .DESCRIPTION
-This function generates the timestamp, API key, and hash required for authenticating requests to the Marvel API.
-
-.PARAMETER publicKey
-Marvel API public key.
-
-.PARAMETER privateKey
-Marvel API private key.
-
-.EXAMPLE
-Get-MarvelApiParameters -publicKey "your_public_key" -privateKey "your_private_key"
-
-.NOTES
-This function is used internally by other functions to generate the required authentication parameters. It returns a hashtable with the timestamp, API key, and hash.
-#>
-function Get-MarvelApiParameters {
-    param (
-        [string]$publicKey,
-        [string]$privateKey
-    )
-
-    $ts = [DateTime]::UtcNow.ToString("yyyyMMddHHmmssfff") + (Get-Random -Minimum 0 -Maximum 20).ToString()
-    $hashInput = $ts + $privateKey + $publicKey
-    $hash = [System.BitConverter]::ToString((New-Object -TypeName System.Security.Cryptography.MD5CryptoServiceProvider).ComputeHash([System.Text.Encoding]::UTF8.GetBytes($hashInput))).Replace("-", "").ToLower()
-
-    $params = @{
-        ts     = $ts
-        apikey = $publicKey
-        hash   = $hash
-    }
-
-    return $params
-}
-
-<#
-.SYNOPSIS
-Function to fetch data from the Marvel API for a specified endpoint and query parameters.
-
-.DESCRIPTION
-This function makes a GET request to the Marvel API for a specified endpoint and query parameters, using the provided public and private keys for authentication.
+This function makes a GET request to the Comic Vine API for a specified endpoint path (relative to the base URL) or a full API URL. It automatically appends the API key and JSON format parameters.
 
 .PARAMETER endpoint
-The API endpoint to fetch data from.
+The API endpoint path (relative to base URL) or a full API URL to fetch data from.
 
 .PARAMETER queryParams
-Optional query parameters to include in the request.
+Optional additional query parameters to include in the request.
 
 .EXAMPLE
-Get-MarvelApiData -endpoint "characters" -queryParams @{ limit = 10 }
+Get-ComicVineApiData -endpoint "characters" -queryParams @{ limit = 10; filter = "publisher:31" }
 
 .NOTES
-This function is used to interact with the Marvel API and retrieve data based on the specified endpoint and query parameters. It returns the response data from the API.
+This function is used to interact with the Comic Vine API and retrieve data based on the specified endpoint and query parameters. It returns the response data from the API.
 #>
-function Get-MarvelApiData {
+function Get-ComicVineApiData {
     param (
         [string]$endpoint,
         [hashtable]$queryParams = @{}
     )
-    
-    $params = Get-MarvelApiParameters -publicKey $publicKey -privateKey $privateKey
-    $authString = "ts=" + $params.ts + "&apikey=" + $params.apikey + "&hash=" + $params.hash
+
+    $queryParams["api_key"] = $apiKey
+    $queryParams["format"] = "json"
 
     $queryString = ($queryParams.GetEnumerator() | ForEach-Object { "$($_.Key)=$($_.Value)" }) -join "&"
-    $url = $BaseURL + $APIVersion + $endpoint + "?" + $queryString + "&" + $authString
+
+    if ($endpoint -like "http*") {
+        $url = $endpoint + "?" + $queryString
+    }
+    else {
+        $url = $BaseURL + $endpoint + "?" + $queryString
+    }
 
     $response = Invoke-RestMethod -Uri $url -Method Get
     return $response
@@ -142,10 +97,31 @@ function Get-MarvelApiData {
 
 <#
 .SYNOPSIS
-Function to retrieve and save the full list of Marvel characters from the API.
+Helper function to strip HTML tags from a string.
 
 .DESCRIPTION
-This function retrieves all Marvel characters from the API, handling pagination to fetch the complete list of characters. It returns an array of character objects.
+Removes all HTML tags from the provided string and returns the plain text content.
+
+.PARAMETER html
+The HTML string to strip tags from.
+
+.EXAMPLE
+Remove-HtmlTags -html "<p>Some <b>bold</b> text</p>"
+#>
+function Remove-HtmlTags {
+    param (
+        [string]$html
+    )
+    if ($null -eq $html -or $html -eq "") { return "" }
+    return ($html -replace '<[^>]+>', '').Trim()
+}
+
+<#
+.SYNOPSIS
+Function to retrieve and save the full list of Marvel characters from the Comic Vine API.
+
+.DESCRIPTION
+This function retrieves all Marvel characters from the Comic Vine API, handling pagination to fetch the complete list of characters. It returns an array of character objects filtered by description, first appearance, and valid image.
 
 .EXAMPLE
 Get-Characters
@@ -154,78 +130,53 @@ Get-Characters
 This function uses parallel processing to improve performance when fetching data from the API. It retrieves the total number of characters, calculates the number of pages needed for pagination, and fetches characters in parallel with a specified limit.
 #>
 function Get-Characters {
-    # Set the limit for characters per request. Maximum limit is 100.
+    # Set the limit for characters per request. Maximum limit for Comic Vine API is 100.
     $limit = 100
     try {
-        #First, find the count of total characters in the first request
-        $total = (Get-MarvelApiData -endpoint "characters" -queryParams @{limit = 1; }).data.total
+        # First, find the count of total Marvel characters
+        $initialResponse = Get-ComicVineApiData -endpoint "characters" -queryParams @{ limit = 1; filter = "publisher:31" }
+        $total = $initialResponse.number_of_total_results
 
         # Calculate the number of pages needed for pagination
         $pages = [math]::Ceiling($total / $limit)
         $offsets = 0..($pages - 1) | ForEach-Object { $_ * $limit }
-        $characters = New-Object 'object[,]' 1, $total
 
         # Fetch characters in parallel with a specified limit
-        $offsets | ForEach-Object -Parallel {
+        $characters = $offsets | ForEach-Object -Parallel {
+            $apiKey = $using:apiKey
+            $BaseURL = "https://comicvine.gamespot.com/api/"
 
-            $publicKey = $using:publicKey
-            $privateKey = $using:privateKey
-            $BaseURL = "https://gateway.marvel.com:443/"
-            $APIVersion = "v1/public/"
-            function Get-MarvelApiParameters {
-                param (
-                    [string]$publicKey,
-                    [string]$privateKey
-                )
-            
-                $ts = [DateTime]::UtcNow.ToString("yyyyMMddHHmmssfff") + (Get-Random -Minimum 0 -Maximum 20).ToString()
-                $hashInput = $ts + $privateKey + $publicKey
-                $hash = [System.BitConverter]::ToString((New-Object -TypeName System.Security.Cryptography.MD5CryptoServiceProvider).ComputeHash([System.Text.Encoding]::UTF8.GetBytes($hashInput))).Replace("-", "").ToLower()
-            
-                $params = @{
-                    ts     = $ts
-                    apikey = $publicKey
-                    hash   = $hash
-                }
-            
-                return $params
-            }
-            function Get-MarvelApiData {
+            function Get-ComicVineApiData {
                 param (
                     [string]$endpoint,
-                    [hashtable]$queryParams = @{},
-                    [string]$publicKey,
-                    [string]$privateKey
+                    [hashtable]$queryParams = @{}
                 )
-                
-                $params = Get-MarvelApiParameters -publicKey $publicKey -privateKey $privateKey
-                $authString = "ts=" + $params.ts + "&apikey=" + $params.apikey + "&hash=" + $params.hash
-            
+                $queryParams["api_key"] = $apiKey
+                $queryParams["format"] = "json"
                 $queryString = ($queryParams.GetEnumerator() | ForEach-Object { "$($_.Key)=$($_.Value)" }) -join "&"
-                $url = $BaseURL + $APIVersion + $endpoint + "?" + $queryString + "&" + $authString
-            
+                if ($endpoint -like "http*") {
+                    $url = $endpoint + "?" + $queryString
+                }
+                else {
+                    $url = $BaseURL + $endpoint + "?" + $queryString
+                }
                 $response = Invoke-RestMethod -Uri $url -Method Get
                 return $response
             }
 
-            $params = @{
-                endpoint    = "characters"
-                queryParams = @{ offset = $_; limit = $using:limit }
-            }
+            $response = Get-ComicVineApiData -endpoint "characters" -queryParams @{ offset = $_; limit = $using:limit; filter = "publisher:31" }
+            $response.results
 
-            Get-MarvelApiData -endpoint $params.endpoint -queryParams $params.queryParams -publicKey $publicKey -privateKey $privateKey
-            
-        } -ThrottleLimit 10 | ForEach-Object {
-            $index = $_.data.offset
-            $_.data.results | ForEach-Object {
-                $characters[0, $index++] = $_
-            }
+        } -ThrottleLimit 5
+
+        # Filter out characters with no description, no first appearance, or with image_not_available in the image URL
+        $characters = $characters | Where-Object {
+            ($null -ne $_.deck -and $_.deck -ne "") -and
+            $null -ne $_.first_appeared_in_issue -and
+            $_.image.medium_url -notlike "*image_not_available*"
         }
 
-        # Filter out characters with no description and no first appearance and with image_not_available in the thumbnail path
-        $characters = $characters | Where-Object { $_.description -ne "" -and $_.comics.available -gt 0 -and $_.thumbnail.path -notlike "*image_not_available*" }
-
-        return $characters 
+        return $characters
     }
     catch {
         throw $_.Exception
@@ -234,10 +185,10 @@ function Get-Characters {
 
 <#
 .SYNOPSIS
-Function to save the retrieved Marvel characters to a JSON file.
+Function to save the retrieved characters to a JSON file.
 
 .DESCRIPTION
-This function retrieves the Marvel characters using the Get-Characters function and saves them to a JSON file named "characters.json" in the current directory.
+This function retrieves the characters using the Get-Characters function and saves them to a JSON file named "characters.json" in the current directory.
 
 .EXAMPLE
 Save-Characters
@@ -252,7 +203,7 @@ function Save-Characters {
 
 <#
 .SYNOPSIS
-Function to import Marvel characters from a JSON file.
+Function to import characters from a JSON file.
 
 .DESCRIPTION
 This function reads the character data from a JSON file named "characters.json" in the current directory and converts it back to PowerShell objects.
@@ -270,27 +221,31 @@ Function Import-Characters {
 
 <#
 .SYNOPSIS
-Function to retrieve the first comic appearance of a specified Marvel character.
+Function to retrieve the first comic appearance of a specified character.
 
 .DESCRIPTION
-This function fetches the first comic appearance of a specified Marvel character based on the character ID.
+This function fetches the first comic appearance of a character using the issue URL stored in the character's first_appeared_in_issue field from the Comic Vine API.
 
-.PARAMETER characterId
-The ID of the Marvel character to retrieve the first comic appearance for.
+.PARAMETER character
+The character object containing the first_appeared_in_issue field with the issue's API detail URL.
 
 .EXAMPLE
-Get-FirstCharacterComic -characterId 1011334
+Get-FirstCharacterComic -character $character
 
 .NOTES
-This function uses the Get-MarvelApiData function to fetch the comic data for the specified character ID and returns the first comic result.
+This function uses the Get-ComicVineApiData function to fetch the issue data from the Comic Vine API and returns the issue result object.
 #>
 function Get-FirstCharacterComic {
     param (
-        [string]$characterId
+        [object]$character
     )
-    $comics = Get-MarvelApiData -endpoint "characters/$characterId/comics" -queryParams @{ orderBy = 'onsaleDate'; limit = 1 }
 
-    return $comics.data.results[0]
+    if ($null -eq $character.first_appeared_in_issue) { return $null }
+
+    $issueApiUrl = $character.first_appeared_in_issue.api_detail_url
+    $issueResponse = Get-ComicVineApiData -endpoint $issueApiUrl
+
+    return $issueResponse.results
 }
 
 <#
@@ -327,16 +282,16 @@ function Test-URL {
 
 <#
 .SYNOPSIS
-Function to save detailed data about a Marvel character, including generating QR codes for character URLs.
+Function to save detailed data about a character, including generating QR codes for character URLs.
 
 .DESCRIPTION
-This function processes and saves detailed data about a Marvel character, including their name, description, image URL, first comic appearance, URLs, and QR codes for character-related links.
+This function processes and saves detailed data about a character, including their name, description, image URL, first comic appearance, URLs, and QR codes for character-related links. It maps fields from the Comic Vine API response to the standard output format.
 
 .PARAMETER character
-The Marvel character object to process.
+The character object from the Comic Vine API to process.
 
 .PARAMETER firstComic
-The first comic appearance of the character.
+The first comic appearance issue object for the character.
 
 .EXAMPLE
 Save-CharacterData -character $character -firstComic $firstComic
@@ -351,32 +306,53 @@ Function Save-CharacterData {
     )
 
     $characterName = $character.name
-    $characterDescription = $character.description
-    $characterImageURL = $character.thumbnail.path + "." + $character.thumbnail.extension
 
-    Invoke-WebRequest -Uri $characterImageURL -OutFile "character.jpg"    
-
-    $firstComicTitle = $firstComic.title
-    $firstComicDescription = $firstComic.description
-    $releaseDate = $firstComic.dates | Where-Object { $_.type -eq "onsaleDate" } | Select-Object -ExpandProperty date
-    
-    try {
-        $releaseDate = [DateTime]::Parse($releaseDate).ToShortDateString()
-    }
-    catch {
-        $releaseDate = $null
+    $characterDescription = $character.deck
+    if ($null -eq $characterDescription -or $characterDescription -eq "") {
+        $characterDescription = Remove-HtmlTags -html $character.description
     }
 
-    $wikiURL = $character.urls | Where-Object { $_.type -eq "wiki" } | Select-Object -ExpandProperty url
-    $comicsUrl = $character.urls | Where-Object { $_.type -eq "comiclink" } | Select-Object -ExpandProperty url
-    $characterUrl = $character.urls | Where-Object { $_.type -eq "detail" } | Select-Object -ExpandProperty url
+    $characterImageURL = $character.image.medium_url
 
-    if ($null -ne $wikiURL -and $wikiURL -ne "") {
-        $wikiURL = Test-URL -url $wikiURL
-        if ($null -ne $wikiURL -and $wikiURL -ne "") {
-            $wikiUrlQrCode = Save-QRCode -url $wikiURL -fileName "wiki"
+    Invoke-WebRequest -Uri $characterImageURL -OutFile "character.jpg"
+
+    $firstComicTitle = $null
+    $firstComicDescription = $null
+    $releaseDate = $null
+
+    if ($null -ne $firstComic) {
+        $volumeName = $firstComic.volume.name
+        $issueNumber = $firstComic.issue_number
+        if ($null -ne $volumeName -and $null -ne $issueNumber) {
+            $firstComicTitle = $volumeName + " #" + $issueNumber
+        }
+        elseif ($null -ne $volumeName) {
+            $firstComicTitle = $volumeName
+        }
+        else {
+            $firstComicTitle = $firstComic.name
+        }
+
+        $firstComicDescription = $firstComic.deck
+        if ($null -eq $firstComicDescription -or $firstComicDescription -eq "") {
+            $firstComicDescription = Remove-HtmlTags -html $firstComic.description
+        }
+
+        $releaseDate = $firstComic.cover_date
+        try {
+            $releaseDate = [DateTime]::Parse($releaseDate).ToShortDateString()
+        }
+        catch {
+            $releaseDate = $null
         }
     }
+
+    $characterUrl = $character.site_detail_url
+    $comicsUrl = if ($null -ne $firstComic) { $firstComic.site_detail_url } else { $null }
+
+    $comicsUrlQrCode = $null
+    $characterUrlQrCode = $null
+
     if ($null -ne $comicsUrl -and $comicsUrl -ne "") {
         $comicsUrl = Test-URL -url $comicsUrl
         if ($null -ne $comicsUrl -and $comicsUrl -ne "") {
@@ -386,13 +362,12 @@ Function Save-CharacterData {
     if ($null -ne $characterUrl -and $characterUrl -ne "") {
         $characterUrl = Test-URL -url $characterUrl
         if ($null -ne $characterUrl -and $characterUrl -ne "") {
-            Save-QRCode -url $characterUrl
             $characterUrlQrCode = Save-QRCode -url $characterUrl -fileName "character"
         }
     }
 
     $date = Get-Date -Format "yyyy"
-    $attribution = "Data provided by Marvel. © 2024 Marvel"
+    $attribution = "Data provided by Comic Vine. © $date Comic Vine"
 
     $characterObject = [PSCustomObject]@{
         Name                  = $characterName
@@ -401,10 +376,10 @@ Function Save-CharacterData {
         FirstComicTitle       = $firstComicTitle
         FirstComicDescription = $firstComicDescription
         FirstAppearance       = $releaseDate
-        WikiURL               = $wikiURL
+        WikiURL               = $null
         ComicsURL             = $comicsUrl
         CharacterURL          = $characterUrl
-        WikiURLQRCode         = $wikiUrlQrCode
+        WikiURLQRCode         = $null
         ComicsURLQRCode       = $comicsUrlQrCode
         CharacterURLQRCode    = $characterUrlQrCode
         Date                  = $date
@@ -465,7 +440,7 @@ function Invoke-RandomCharacterProcessing {
     Save-Characters
     $characters = Import-Characters
     $randomCharacter = $characters | Get-Random
-    $firstComic = Get-FirstCharacterComic -characterId $randomCharacter.id
+    $firstComic = Get-FirstCharacterComic -character $randomCharacter
     Save-CharacterData -character $randomCharacter -firstComic $firstComic
 }
 
