@@ -89,7 +89,7 @@ function Get-ComicVineApiData {
     $retryDelay = 10
     for ($attempt = 1; $attempt -le $maxRetries; $attempt++) {
         try {
-            Start-Sleep -Seconds 3
+            Start-Sleep -Seconds 10
             $response = Invoke-RestMethod -Uri $url -Method Get
             return $response
         }
