@@ -91,8 +91,25 @@ function Get-ComicVineApiData {
         $url = $BaseURL + $endpoint + "?" + $queryString
     }
 
-    $response = Invoke-RestMethod -Uri $url -Method Get
-    return $response
+    $maxRetries = 5
+    $retryDelay = 10
+    for ($attempt = 1; $attempt -le $maxRetries; $attempt++) {
+        try {
+            $response = Invoke-RestMethod -Uri $url -Method Get
+            return $response
+        }
+        catch {
+            $statusCode = $_.Exception.Response.StatusCode.value__
+            if ($null -ne $statusCode -and $statusCode -eq 420 -and $attempt -lt $maxRetries) {
+                Write-Warning "Rate limited (420). Waiting $retryDelay seconds before retry $attempt of $($maxRetries - 1)..."
+                Start-Sleep -Seconds $retryDelay
+                $retryDelay = $retryDelay * 2
+            }
+            else {
+                throw $_
+            }
+        }
+    }
 }
 
 <#
@@ -141,7 +158,7 @@ function Get-Characters {
         $pages = [math]::Ceiling($total / $limit)
         $offsets = 0..($pages - 1) | ForEach-Object { $_ * $limit }
 
-        # Fetch characters in parallel with a specified limit
+        # Fetch characters in parallel with a limited throttle and per-request delay to avoid API rate limiting
         $characters = $offsets | ForEach-Object -Parallel {
             $apiKey = $using:apiKey
             $BaseURL = "https://comicvine.gamespot.com/api/"
@@ -160,14 +177,31 @@ function Get-Characters {
                 else {
                     $url = $BaseURL + $endpoint + "?" + $queryString
                 }
-                $response = Invoke-RestMethod -Uri $url -Method Get
-                return $response
+                $maxRetries = 5
+                $retryDelay = 10
+                for ($attempt = 1; $attempt -le $maxRetries; $attempt++) {
+                    try {
+                        $response = Invoke-RestMethod -Uri $url -Method Get
+                        return $response
+                    }
+                    catch {
+                        $statusCode = $_.Exception.Response.StatusCode.value__
+                        if ($null -ne $statusCode -and $statusCode -eq 420 -and $attempt -lt $maxRetries) {
+                            Start-Sleep -Seconds $retryDelay
+                            $retryDelay = $retryDelay * 2
+                        }
+                        else {
+                            throw $_
+                        }
+                    }
+                }
             }
 
+            Start-Sleep -Seconds (Get-Random -Minimum 1 -Maximum 4)
             $response = Get-ComicVineApiData -endpoint "characters" -queryParams @{ offset = $_; limit = $using:limit; filter = "publisher:31" }
             $response.results
 
-        } -ThrottleLimit 5
+        } -ThrottleLimit 2
 
         # Filter out characters with no description, no first appearance, or with image_not_available in the image URL
         $characters = $characters | Where-Object {
