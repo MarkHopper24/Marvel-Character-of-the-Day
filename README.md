@@ -4,14 +4,14 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Tyrone Cash
+## Mrs. Page
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/6/62014/1236621-130_ultimate_comics_avengers_2_4__1_.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/6/69951/3206107-1118677-1063443_question_mark_large_2_.jpg" width="600" height="auto"/>
 </p>
 
-Leonard Williams was the mentor to a young Bruce Banner and they worked on the super soldier formula. As Leonard he relied on crutches to walk but after transforming he became the powerful and violent gangster "Tyrone Cash."
+The mother of Karen Page
 
-**First Appearance:** Ultimate Avengers #7
+**First Appearance:** Daredevil #56
 
 [Comic Gallery]()
 
