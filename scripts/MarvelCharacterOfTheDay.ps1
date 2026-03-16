@@ -48,6 +48,10 @@ param(
 $apiKey = $comicVineApiKey
 $BaseURL = "https://comicvine.gamespot.com/api/"
 
+function Wait-BeforeApiCall {
+    Start-Sleep -Seconds 15
+}
+
 <#
 .SYNOPSIS
 Function to fetch data from the Comic Vine API for a specified endpoint and query parameters.
@@ -73,23 +77,22 @@ function Get-ComicVineApiData {
         [hashtable]$queryParams = @{}
     )
 
-    $queryParams["api_key"] = $apiKey
-    $queryParams["format"] = "json"
-
+    $queryParams.Remove("api_key") | Out-Null
     $queryString = ($queryParams.GetEnumerator() | ForEach-Object { "$($_.Key)=$($_.Value)" }) -join "&"
+    $queryString = "api_key=$apiKey" + $(if ($queryString) { "&$queryString" } else { "" }) + "&format=json"
 
     if ($endpoint -like "http*") {
-        $url = $endpoint + "?" + $queryString
+        $url = $endpoint + "/?" + $queryString
     }
     else {
-        $url = $BaseURL + $endpoint + "?" + $queryString
+        $url = $BaseURL + $endpoint + "/?" + $queryString
     }
 
     $maxRetries = 5
-    $retryDelay = 10
+    $retryDelay = 15
     for ($attempt = 1; $attempt -le $maxRetries; $attempt++) {
         try {
-            Start-Sleep -Seconds 10
+            Wait-BeforeApiCall
             $response = Invoke-RestMethod -Uri $url -Method Get
             return $response
         }
@@ -142,55 +145,61 @@ Get-RandomCharacter
 This function uses the Comic Vine API offset and limit parameters to efficiently select a random character without fetching the full character list.
 #>
 function Get-RandomCharacter {
-    $maxAttempts = 20
+    $batchSize = 100
+    $maxAttempts = 5
     try {
         # Get the total number of Marvel characters (publisher ID 31)
-        $countResponse = Get-ComicVineApiData -endpoint "characters" -queryParams @{ limit = 1; filter = "publisher:31" }
+        $countResponse = Get-ComicVineApiData -endpoint "characters" -queryParams @{filter = "publisher:31" }
         $total = $countResponse.number_of_total_results
 
         for ($attempt = 1; $attempt -le $maxAttempts; $attempt++) {
-            # Pick a random offset and fetch a single character at that position
-            $randomOffset = Get-Random -Minimum 0 -Maximum $total
+            # Pick a random offset and fetch a batch of characters to filter locally
+            $maxOffset = [Math]::Max(0, $total - $batchSize)
+            $randomOffset = Get-Random -Minimum 0 -Maximum ($maxOffset + 1)
             $response = Get-ComicVineApiData -endpoint "characters" -queryParams @{
                 offset = $randomOffset
-                limit  = 1
+                limit  = $batchSize
                 filter = "publisher:31"
             }
-            $character = $response.results | Select-Object -First 1
 
-            # Verify the character meets quality criteria before returning
-            if ($null -ne $character -and
-                $null -ne $character.deck -and $character.deck -ne "" -and
-                $null -ne $character.first_appeared_in_issue -and
-                $character.image.medium_url -notlike "*image_not_available*") {
-                return $character
+            # Filter the batch for characters that meet quality criteria
+            $candidates = @($response.results | Where-Object {
+                $_.publisher.id -eq 31 -and
+                $null -ne $_.deck -and $_.deck -ne "" -and
+                $null -ne $_.first_appeared_in_issue -and
+                $_.image.medium_url -notlike "*image_not_available*"
+            })
+
+            if ($candidates.Count -gt 0) {
+                return ($candidates | Get-Random)
             }
 
-            Write-Verbose "Character at offset $randomOffset did not meet criteria. Attempt $attempt of $maxAttempts."
+            Write-Verbose "No suitable characters in batch at offset $randomOffset. Attempt $attempt of $maxAttempts."
         }
 
-        throw "Could not find a suitable character after $maxAttempts attempts."
+        throw "Could not find a suitable character after $maxAttempts batch attempts."
     }
     catch {
         throw $_
     }
 }
 
+
 <#
 .SYNOPSIS
 Function to retrieve the first comic appearance of a specified character.
 
 .DESCRIPTION
-This function fetches the first comic appearance of a character using the issue URL stored in the character's first_appeared_in_issue field from the Comic Vine API.
+This function fetches the first comic appearance of a character using the issue ID stored in the character's first_appeared_in_issue field to query the Comic Vine API issues endpoint with an id filter.
 
 .PARAMETER character
-The character object containing the first_appeared_in_issue field with the issue's API detail URL.
+The character object containing the first_appeared_in_issue field with the issue's id.
 
 .EXAMPLE
 Get-FirstCharacterComic -character $character
 
 .NOTES
-This function uses the Get-ComicVineApiData function to fetch the issue data from the Comic Vine API and returns the issue result object.
+This function uses the Get-ComicVineApiData function to fetch the issue data from the Comic Vine API issues endpoint and returns the first matching issue result object.
 #>
 function Get-FirstCharacterComic {
     param (
@@ -199,10 +208,15 @@ function Get-FirstCharacterComic {
 
     if ($null -eq $character.first_appeared_in_issue) { return $null }
 
-    $issueApiUrl = $character.first_appeared_in_issue.api_detail_url
-    $issueResponse = Get-ComicVineApiData -endpoint $issueApiUrl
+    $issueId = $character.first_appeared_in_issue.id
+    if ($null -eq $issueId) { return $null }
 
-    return $issueResponse.results
+    $issueResponse = Get-ComicVineApiData -endpoint "issues" -queryParams @{
+        filter = "id:$issueId"
+        limit  = 1
+    }
+
+    return $issueResponse.results | Select-Object -First 1
 }
 
 <#
@@ -227,6 +241,7 @@ function Test-URL {
     )
 
     try {
+        Wait-BeforeApiCall
         $request = Invoke-WebRequest -Uri $url -Method Head -ErrorAction SilentlyContinue 
         if ($request.StatusCode -eq 200) {
             return $url
@@ -271,6 +286,7 @@ Function Save-CharacterData {
 
     $characterImageURL = $character.image.medium_url
 
+    Wait-BeforeApiCall
     Invoke-WebRequest -Uri $characterImageURL -OutFile "character.jpg"
 
     $firstComicTitle = $null
@@ -376,6 +392,7 @@ function Save-QRCode {
 
     $qrCode = $fileName + ".jpg"
     $qrCodeUrl = "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=$url"
+    Wait-BeforeApiCall
     Invoke-WebRequest -Uri $qrCodeUrl -OutFile $qrCode
     return $qrCode
 }
