@@ -4,14 +4,14 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Mrs. Page
+## Doctor Steven
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/6/69951/3206107-1118677-1063443_question_mark_large_2_.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/8558089-ezgif-4-602359475f.jpg" width="600" height="auto"/>
 </p>
 
-The mother of Karen Page
+A scientist working at Alchemax Astrobiology department Lab who helped Eddie Brock with finding the cause of his symbiote violent behavior.
 
-**First Appearance:** Daredevil #56
+**First Appearance:** Venom #151
 
 [Comic Gallery]()
 
