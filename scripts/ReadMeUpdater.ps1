@@ -31,7 +31,7 @@ $($marvelCharacter.Description)
 
 **First Appearance:** $($marvelCharacter.FirstComicTitle)
 
-[Comic Gallery]($($marvelCharacter.ComicsURL))
+[Comic Gallery]($($marvelCharacter.CharacterURL))
 "@
 
 # Replace the content between the Marvel logo and "What is this repository?" section
