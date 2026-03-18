@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Doctor Steven
+## Willis Adams
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/8558089-ezgif-4-602359475f.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/willis-adams/4005-10801/" width="600" height="auto"/>
 </p>
 
-A scientist working at Alchemax Astrobiology department Lab who helped Eddie Brock with finding the cause of his symbiote violent behavior.
+TV reporter from 11 Channel. He informs mainly in Tranverse City.
 
-**First Appearance:** Venom #151
+**First Appearance:** Ghost Rider 2099 #2
 
-[Comic Gallery]()
+[Comic Vine Wiki](https://comicvine.gamespot.com/willis-adams/4005-10801/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
