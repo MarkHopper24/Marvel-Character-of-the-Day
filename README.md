@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Ultron Eight
+## Widowmaker
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11124/111240963/4685416-500px-ultron_eight.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/5586/460239-w3.jpg" width="600" height="auto"/>
 </p>
 
-An inhabitant of Hammer Falls, Ultron Eight appears neighborly and kind compared to his previous models.
+Widowmaker was an elite bodyguard at Dovecote. 
 
-**First Appearance:** Wolverine #67 (9/1/2008)
+**First Appearance:** Captain America #238 (10/1/1979)
 
-[Character Details](https://comicvine.gamespot.com/ultron-eight/4005-120190/)
+[Character Details](https://comicvine.gamespot.com/widowmaker/4005-34066/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
