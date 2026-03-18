@@ -24,14 +24,14 @@ $readmeContent = Get-Content -Path .\README.md -Raw
 $characterSection = @"
 ## $($marvelCharacter.Name)
 <p align="center">
-<img src="$($marvelCharacter.CharacterURL)" width="600" height="auto"/>
+<img src="$($marvelCharacter.ImageURL)" width="600" height="auto"/>
 </p>
 
 $($marvelCharacter.Description)
 
-**First Appearance:** $($marvelCharacter.FirstComicTitle)
+**First Appearance:** $($marvelCharacter.FirstComicTitle) ($($marvelCharacter.FirstAppearance))
 
-[Comic Vine Wiki]($($marvelCharacter.CharacterURL))
+[Character Details]($($marvelCharacter.CharacterURL))
 "@
 
 # Replace the content between the Marvel logo and "What is this repository?" section
