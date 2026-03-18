@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Daniel Grimm Jr.
+## Lee Danton
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/8/84205/2924982-daniel_grimm_jr.__earth_616_.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/8/83918/6506486-leedanton.jpg" width="600" height="auto"/>
 </p>
 
-Older brother of Ben Grimm (The Thing).
+Murderer.
 
-**First Appearance:** The Thing #1 (7/1/1983)
+**First Appearance:** Journey into Mystery #5 (2/28/1953)
 
-[Character Details](https://comicvine.gamespot.com/daniel-grimm-jr/4005-88028/)
+[Character Details](https://comicvine.gamespot.com/lee-danton/4005-148970/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
