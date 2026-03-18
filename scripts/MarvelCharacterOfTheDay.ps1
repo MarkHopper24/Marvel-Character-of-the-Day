@@ -167,7 +167,8 @@ function Get-RandomCharacter {
                 $_.publisher.id -eq 31 -and
                 $null -ne $_.deck -and $_.deck -ne "" -and
                 $null -ne $_.first_appeared_in_issue -and
-                $_.image.medium_url -notlike "*image_not_available*"
+                $_.image.medium_url -notlike "*image_not_available*" -and
+                $null -ne $_.site_detail_url -and $_.site_detail_url -ne ""
             })
 
             if ($candidates.Count -gt 0) {
@@ -321,22 +322,22 @@ Function Save-CharacterData {
     }
 
     $characterUrl = $character.site_detail_url
-    $comicsUrl = if ($null -ne $firstComic) { $firstComic.site_detail_url } else { $null }
+    #$comicsUrl = if ($null -ne $firstComic) { $firstComic.site_detail_url } else { $null }
 
-    $comicsUrlQrCode = $null
+    #$comicsUrlQrCode = $null
     $characterUrlQrCode = $null
 
-    if ($null -ne $comicsUrl -and $comicsUrl -ne "") {
-        $comicsUrl = Test-URL -url $comicsUrl
-        if ($null -ne $comicsUrl -and $comicsUrl -ne "") {
-            $comicsUrlQrCode = Save-QRCode -url $comicsUrl -fileName "comicsQR"
-        }
-    }
+    #if ($null -ne $comicsUrl -and $comicsUrl -ne "") {
+        #$comicsUrl = Test-URL -url $comicsUrl
+       # if ($null -ne $comicsUrl -and $comicsUrl -ne "") {
+            #$comicsUrlQrCode = Save-QRCode -url $comicsUrl -fileName "comicsQR"
+      #  }
+ #   }
     if ($null -ne $characterUrl -and $characterUrl -ne "") {
-        $characterUrl = Test-URL -url $characterUrl
-        if ($null -ne $characterUrl -and $characterUrl -ne "") {
+        #$characterUrl = Test-URL -url $characterUrl
+        #if ($null -ne $characterUrl -and $characterUrl -ne "") {
             $characterUrlQrCode = Save-QRCode -url $characterUrl -fileName "character"
-        }
+        #}
     }
 
     $date = Get-Date -Format "yyyy"
@@ -347,13 +348,13 @@ Function Save-CharacterData {
         Description           = $characterDescription
         ImageURL              = $characterImageURL
         FirstComicTitle       = $firstComicTitle
-        FirstComicDescription = $firstComicDescription
+        #FirstComicDescription = $firstComicDescription
         FirstAppearance       = $releaseDate
-        WikiURL               = $null
-        ComicsURL             = $comicsUrl
+        #WikiURL               = $null
+        #ComicsURL             = $comicsUrl
         CharacterURL          = $characterUrl
-        WikiURLQRCode         = $null
-        ComicsURLQRCode       = $comicsUrlQrCode
+        #WikiURLQRCode         = $null
+        #ComicsURLQRCode       = $comicsUrlQrCode
         CharacterURLQRCode    = $characterUrlQrCode
         Date                  = $date
         Attribution           = $attribution
@@ -392,7 +393,7 @@ function Save-QRCode {
 
     $qrCode = $fileName + ".jpg"
     $qrCodeUrl = "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=$url"
-    Wait-BeforeApiCall
+    #Wait-BeforeApiCall
     Invoke-WebRequest -Uri $qrCodeUrl -OutFile $qrCode
     return $qrCode
 }
