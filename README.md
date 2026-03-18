@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Lee Danton
+## Ultron Eight
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/8/83918/6506486-leedanton.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11124/111240963/4685416-500px-ultron_eight.jpg" width="600" height="auto"/>
 </p>
 
-Murderer.
+An inhabitant of Hammer Falls, Ultron Eight appears neighborly and kind compared to his previous models.
 
-**First Appearance:** Journey into Mystery #5 (2/28/1953)
+**First Appearance:** Wolverine #67 (9/1/2008)
 
-[Character Details](https://comicvine.gamespot.com/lee-danton/4005-148970/)
+[Character Details](https://comicvine.gamespot.com/ultron-eight/4005-120190/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
