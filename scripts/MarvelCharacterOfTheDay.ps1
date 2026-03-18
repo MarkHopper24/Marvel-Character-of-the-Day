@@ -327,12 +327,7 @@ Function Save-CharacterData {
     #$comicsUrlQrCode = $null
     $characterUrlQrCode = $null
 
-    #if ($null -ne $comicsUrl -and $comicsUrl -ne "") {
-        #$comicsUrl = Test-URL -url $comicsUrl
-       # if ($null -ne $comicsUrl -and $comicsUrl -ne "") {
-            #$comicsUrlQrCode = Save-QRCode -url $comicsUrl -fileName "comicsQR"
-      #  }
- #   }
+ 
     if ($null -ne $characterUrl -and $characterUrl -ne "") {
         #$characterUrl = Test-URL -url $characterUrl
         #if ($null -ne $characterUrl -and $characterUrl -ne "") {
