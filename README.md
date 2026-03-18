@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Widowmaker
+## Lil' Longshot
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/5586/460239-w3.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/13/130362/2679748-lil__longshot.png" width="600" height="auto"/>
 </p>
 
-Widowmaker was an elite bodyguard at Dovecote. 
+A baby Longshot created by Mojo that lives in the Mojoverse. He is a member of the X-Babies.
 
-**First Appearance:** Captain America #238 (10/1/1979)
+**First Appearance:** X-Men Annual #12 (10/31/1988)
 
-[Character Details](https://comicvine.gamespot.com/widowmaker/4005-34066/)
+[Character Details](https://comicvine.gamespot.com/lil-longshot/4005-30164/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
