@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Guillotine
+## Delgado
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/5191826-1248923554-latest" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/18265/1082113-delgado.jpg" width="600" height="auto"/>
 </p>
 
-The seventh Guillotine of her bloodline. Due to her ancestor's bargain she is forced to wield the sword that grants her the powers of Guillotine. Although the sword tempts her to kill, she withstands the temptations and uses the sword to do good.
+Delgado was one of the original Acolytes. He died when Asteroid M crashed.
 
-**First Appearance:** Contest of Champions #1 (12/31/2015)
+**First Appearance:** X-Men #1 (10/31/1991)
 
-[Character Details](https://comicvine.gamespot.com/guillotine/4005-122724/)
+[Character Details](https://comicvine.gamespot.com/delgado/4005-25872/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
