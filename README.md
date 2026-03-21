@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Darkhold
+## Taxes
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/9355522-dh.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/13/135098/8279830-taxes.jpg" width="600" height="auto"/>
 </p>
 
-A boy who manifested when Agatha Harkness attempted to make a second Darkhold. 
+Death's sister. Once dated Mephisto.
 
-**First Appearance:** Avengers Annual #1 (11/1/2023)
+**First Appearance:** What The--?! #24 (12/1/1992)
 
-[Character Details](https://comicvine.gamespot.com/darkhold/4005-189505/)
+[Character Details](https://comicvine.gamespot.com/taxes/4005-174162/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
