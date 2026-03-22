@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Re-Po
+## Blue Max
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/9185186-rco002_1699456593.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/3/35695/4389263-blue%20max%20001.jpeg" width="600" height="auto"/>
 </p>
 
-A debt collector who was sent to limbo and turned into a demon bounty hunter by Madelyne Pryor. 
+Five time Blue Blade champion. Never backed down from Punisher 2099 (Jake Gallows.
 
-**First Appearance:** The Amazing Spider-Man #1 (6/1/2022)
+**First Appearance:** Punisher 2099 #14 (3/18/1994)
 
-[Character Details](https://comicvine.gamespot.com/re-po/4005-186920/)
+[Character Details](https://comicvine.gamespot.com/blue-max/4005-114777/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
