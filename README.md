@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Taxes
+## Re-Po
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/13/135098/8279830-taxes.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/9185186-rco002_1699456593.jpg" width="600" height="auto"/>
 </p>
 
-Death's sister. Once dated Mephisto.
+A debt collector who was sent to limbo and turned into a demon bounty hunter by Madelyne Pryor. 
 
-**First Appearance:** What The--?! #24 (12/1/1992)
+**First Appearance:** The Amazing Spider-Man #1 (6/1/2022)
 
-[Character Details](https://comicvine.gamespot.com/taxes/4005-174162/)
+[Character Details](https://comicvine.gamespot.com/re-po/4005-186920/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
