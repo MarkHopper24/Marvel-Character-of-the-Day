@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Nameless
+## Aryal
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/9998870-rco016_1771971866.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/128795/2622164-aryal_savage_sword_of_conan_077_55.jpg" width="600" height="auto"/>
 </p>
 
-A political prisoner on Earth-6160 who used the origin box meant for Deadpool. 
+The future daughter of Tanya the Fox and possibly Conan of Cimmeria.
 
-**First Appearance:** Ultimates #18 (1/1/2026)
+**First Appearance:** The Savage Sword of Conan #77 (6/1/1982)
 
-[Character Details](https://comicvine.gamespot.com/nameless/4005-196731/)
+[Character Details](https://comicvine.gamespot.com/aryal/4005-32760/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
