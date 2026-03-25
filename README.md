@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Maximus Clop
+## Sana Starros
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/5344/4290081-maximus%20clop%2001.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11144/111442876/8810840-hjdrh.jpg" width="600" height="auto"/>
 </p>
 
-Sera's steed.
+A bounty hunter active during the Empire Era.
 
-**First Appearance:** Angela: Asgard's Assassin #1 (3/1/2015)
+**First Appearance:** Star Wars #4 (6/30/2015)
 
-[Character Details](https://comicvine.gamespot.com/maximus-clop/4005-110821/)
+[Character Details](https://comicvine.gamespot.com/sana-starros/4005-118756/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
