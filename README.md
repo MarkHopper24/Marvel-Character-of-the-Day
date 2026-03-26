@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Sana Starros
+## Scott McLawry
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11144/111442876/8810840-hjdrh.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11122/111222211/6373148-blank.png" width="600" height="auto"/>
 </p>
 
-A bounty hunter active during the Empire Era.
+A crooked New York Police Department narcotics detective.
 
-**First Appearance:** Star Wars #4 (6/30/2015)
+**First Appearance:** Wolverine #188 (5/31/2003)
 
-[Character Details](https://comicvine.gamespot.com/sana-starros/4005-118756/)
+[Character Details](https://comicvine.gamespot.com/scott-mclawry/4005-8465/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
