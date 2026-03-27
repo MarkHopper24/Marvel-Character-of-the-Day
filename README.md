@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Gus Beezer
+## Chief Brody
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/13/135098/7159919-beezer.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11134/111342609/7666594-104_o.jpg" width="600" height="auto"/>
 </p>
 
-Distant cousin of Peter Parker
+Chief Martin Brody is the protagonist of the first two Jaws films, he is the chief police officer of Amity Island.
 
-**First Appearance:** Marvelous Adventures of Gus Beezer: Spider-Man #1 (5/31/2003)
+**First Appearance:** Marvel Comics Super Special #6 (12/1/1978)
 
-[Character Details](https://comicvine.gamespot.com/gus-beezer/4005-63870/)
+[Character Details](https://comicvine.gamespot.com/chief-brody/4005-165434/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
