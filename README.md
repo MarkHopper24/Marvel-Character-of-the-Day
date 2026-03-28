@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Chief Brody
+## Porter Engle
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11134/111342609/7666594-104_o.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11144/111442876/8767073-xxegr.jpg" width="600" height="auto"/>
 </p>
 
-Chief Martin Brody is the protagonist of the first two Jaws films, he is the chief police officer of Amity Island.
+Jedi Master serves as a cook on the Elphrona outpost. In the centuries ago he was a great warrior known as the "Blade of Bardotta".
 
-**First Appearance:** Marvel Comics Super Special #6 (12/1/1978)
+**First Appearance:** Star Wars: The High Republic Adventures Annual 2021 #1 (12/17/2021)
 
-[Character Details](https://comicvine.gamespot.com/chief-brody/4005-165434/)
+[Character Details](https://comicvine.gamespot.com/porter-engle/4005-172444/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
