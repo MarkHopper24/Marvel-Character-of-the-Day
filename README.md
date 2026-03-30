@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Skald
+## Captain Lionheart
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/1618/1609238-skald.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11/110802/4153160-captain%20lionheart.jpg" width="600" height="auto"/>
 </p>
 
-One of the demon kings.  He forged an alliance with Hela during her war with Asgard.
+Captain Britain of Earth-5682.
 
-**First Appearance:** L'Eternauta #96 (4/1/1991)
+**First Appearance:** The Amazing Spider-Man #7 (12/31/2014)
 
-[Character Details](https://comicvine.gamespot.com/skald/4005-75338/)
+[Character Details](https://comicvine.gamespot.com/captain-lionheart/4005-108569/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
