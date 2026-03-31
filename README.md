@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Captain Lionheart
+## The General
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11/110802/4153160-captain%20lionheart.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/8047208-rco008_1625063883%281%29.jpg" width="600" height="auto"/>
 </p>
 
-Captain Britain of Earth-5682.
+Created by a Korean mudang to protect her village, General is the totem that walks like a man and a member of Tiger Division.
 
-**First Appearance:** The Amazing Spider-Man #7 (12/31/2014)
+**First Appearance:** Black Cat Annual #1 (8/1/2021)
 
-[Character Details](https://comicvine.gamespot.com/captain-lionheart/4005-108569/)
+[Character Details](https://comicvine.gamespot.com/the-general/4005-170466/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
