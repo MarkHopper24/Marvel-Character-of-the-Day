@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Lisa Santos
+## Ikelli
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/13/132256/3339003-lisa%20santos.png" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/5189605-all-new%20inhumans%20%282015-%29%20007-019.jpg" width="600" height="auto"/>
 </p>
 
-Public Defender. Assigned to the Punisher's case.
+She is a member of the Champions, a group of Inhumans who serve as Utolan's protectors, and Flint's older sister.
 
-**First Appearance:** Punisher: Trial of the Punisher #1 (11/1/2013)
+**First Appearance:** All-New Inhumans #7 (7/31/2016)
 
-[Character Details](https://comicvine.gamespot.com/lisa-santos/4005-92769/)
+[Character Details](https://comicvine.gamespot.com/ikelli/4005-129278/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
