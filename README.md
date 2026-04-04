@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Bruce Greenwood
+## Quantum
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/9/98479/1811379-09.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/8337538-rco013_1642596581.jpg" width="600" height="auto"/>
 </p>
 
-Former partner of Frank Castle who sold him out and helped cause his family's death.  
+Chosen by the Space Gem after the gems were given life by the Soul Gem.
 
-**First Appearance:** Ultimate Marvel Team-Up #7 (10/31/2001)
+**First Appearance:** Miles Morales: Spider-Man #7 (8/1/2019)
 
-[Character Details](https://comicvine.gamespot.com/bruce-greenwood/4005-16767/)
+[Character Details](https://comicvine.gamespot.com/quantum/4005-169879/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
