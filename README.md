@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Nzinga
+## Laser-Fist
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/128795/2594080-nzinga_ssoc41_40a.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11129/111293013/6677714-laser-fist_%28earth-616%29_from_young_x-men_vol_1_9_0001%5B1%5D.jpg" width="600" height="auto"/>
 </p>
 
-Ruler of the Amazons of Gamburu.
+Member of the Y-Men.
 
-**First Appearance:** The Savage Sword of Conan #41 (6/1/1979)
+**First Appearance:** Young X-Men #8 (1/1/2009)
 
-[Character Details](https://comicvine.gamespot.com/nzinga/4005-52066/)
+[Character Details](https://comicvine.gamespot.com/laser-fist/4005-152923/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
