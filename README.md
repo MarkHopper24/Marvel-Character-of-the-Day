@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Cord Ryan
+## Nzinga
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/2/27783/4762425-cordryan.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/128795/2594080-nzinga_ssoc41_40a.jpg" width="600" height="auto"/>
 </p>
 
-Groovy Galahad and lead singer of the Ziptones.
+Ruler of the Amazons of Gamburu.
 
-**First Appearance:** Patsy and Hedy #104 (2/1/1966)
+**First Appearance:** The Savage Sword of Conan #41 (6/1/1979)
 
-[Character Details](https://comicvine.gamespot.com/cord-ryan/4005-121797/)
+[Character Details](https://comicvine.gamespot.com/nzinga/4005-52066/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
