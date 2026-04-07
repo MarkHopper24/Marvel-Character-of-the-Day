@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Laser-Fist
+## Lighttrakker
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11129/111293013/6677714-laser-fist_%28earth-616%29_from_young_x-men_vol_1_9_0001%5B1%5D.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/3016/149704-131705-lighttrakker.jpg" width="600" height="auto"/>
 </p>
 
-Member of the Y-Men.
+Rebecca Littlehale was an elementary school student at P.S. 125 in Brooklyn, New York.
 
-**First Appearance:** Young X-Men #8 (1/1/2009)
+**First Appearance:** Power Pack #37 (5/1/1988)
 
-[Character Details](https://comicvine.gamespot.com/laser-fist/4005-152923/)
+[Character Details](https://comicvine.gamespot.com/lighttrakker/4005-45532/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
