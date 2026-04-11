@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Metus
+## Pedro
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/6706992-metus_%28earth-4935%29_from_cable_vol_1_159_001.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/3/38919/837999-pedro.jpg" width="600" height="auto"/>
 </p>
 
-Childhood friend of Cable.
+Pedro is a South American freedom fighter
 
-**First Appearance:** Cable #155 (5/31/2018)
+**First Appearance:** The Silver Surfer #11 (12/31/1969)
 
-[Character Details](https://comicvine.gamespot.com/metus/4005-153609/)
+[Character Details](https://comicvine.gamespot.com/pedro/4005-28508/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
