@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Dr. Aurilius
+## Founder Keen
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/10/103503/5759052-dr.%20aurilius.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/4398578-keen.jpg" width="600" height="auto"/>
 </p>
 
-Childhood friend of Thanos.
+Founder Keen was one of the leaders of the refugees whom looked for a new planet to live
 
-**First Appearance:** Thanos #3 (3/31/2017)
+**First Appearance:** Silver Surfer #8 (3/31/2015)
 
-[Character Details](https://comicvine.gamespot.com/dr-aurilius/4005-137448/)
+[Character Details](https://comicvine.gamespot.com/founder-keen/4005-115187/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
