@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Barbarus
+## Strangler
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/229/84335-81531-barbarus.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/6/69462/2048144-strangler.jpg" width="600" height="auto"/>
 </p>
 
-Barbarus is a quad-armed mutant with super strength and one of The Savage Land Mutates.
+Strangler is a member of Shatterforce and would come into conflict with Nova. 
 
-**First Appearance:** The X-Men #62 (11/1/1969)
+**First Appearance:** Nova #8 (8/1/1994)
 
-[Character Details](https://comicvine.gamespot.com/barbarus/4005-3563/)
+[Character Details](https://comicvine.gamespot.com/strangler/4005-34276/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
