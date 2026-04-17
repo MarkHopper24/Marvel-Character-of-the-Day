@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Strangler
+## Julie Traylor
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/6/69462/2048144-strangler.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11122/111222211/6373148-blank.png" width="600" height="auto"/>
 </p>
 
-Strangler is a member of Shatterforce and would come into conflict with Nova. 
+A network corrspondent on a news channel.
 
-**First Appearance:** Nova #8 (8/1/1994)
+**First Appearance:** Captain America #25 Director's Cut #25 (1/1/2007)
 
-[Character Details](https://comicvine.gamespot.com/strangler/4005-34276/)
+[Character Details](https://comicvine.gamespot.com/julie-traylor/4005-80048/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
