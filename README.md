@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Joyride
+## Public Enemy
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/18161/477647-joyride.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/10/101073/2093174-sp.png" width="600" height="auto"/>
 </p>
 
-Joyride is an Autobot and part of the sub-group Powermasters. His primary function is that of a warrior and his vehicle form is a dune buggy.
+2099 character
 
-**First Appearance:** The Transformers #44 (9/1/1988)
+**First Appearance:** Punisher 2099 #15 (4/18/1994)
 
-[Character Details](https://comicvine.gamespot.com/joyride/4005-56705/)
+[Character Details](https://comicvine.gamespot.com/public-enemy/4005-80912/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
