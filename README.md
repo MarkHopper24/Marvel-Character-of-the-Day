@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Public Enemy
+## Manipulator
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/10/101073/2093174-sp.png" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/8/84205/1990113-1988920_android.jpg" width="600" height="auto"/>
 </p>
 
-2099 character
+A robot created by Machinesmith who believed he was human.
 
-**First Appearance:** Punisher 2099 #15 (4/18/1994)
+**First Appearance:** The Avengers #178 (12/31/1978)
 
-[Character Details](https://comicvine.gamespot.com/public-enemy/4005-80912/)
+[Character Details](https://comicvine.gamespot.com/manipulator/4005-78851/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
