@@ -4,16 +4,17 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Buzzsaw
+## Harrison Thompson
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11158/111583675/8472643-350%282%29.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/5344/2196613-harrison_thompson_01.jpg" width="600" height="auto"/>
 </p>
 
-A young victim of the cult of the Children of Heaven.
+Harrison Thompson is the abusive father of Flash Thompson. 
 
-**First Appearance:** X-Factor #47 (11/1/1989)
 
-[Character Details](https://comicvine.gamespot.com/buzzsaw/4005-176814/)
+**First Appearance:** The Spectacular Spider-Man #-1 (7/1/1997)
+
+[Character Details](https://comicvine.gamespot.com/harrison-thompson/4005-24145/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
