@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Harquis Tey
+## Zelma Stanton
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/3/38919/898847-harquis_tey.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/8740210-ezgif-2-65c4b5cda2.jpg" width="600" height="auto"/>
 </p>
 
-Grand Practitioner who arranged the defeat of the Uni-Lord
+Doctor Strange's former librarian. Currently, she's a teacher at Strange Academy.
 
-**First Appearance:** Silver Surfer #111 (12/1/1995)
+**First Appearance:** Doctor Strange #1 (12/31/2015)
 
-[Character Details](https://comicvine.gamespot.com/harquis-tey/4005-64214/)
+[Character Details](https://comicvine.gamespot.com/zelma-stanton/4005-123469/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
