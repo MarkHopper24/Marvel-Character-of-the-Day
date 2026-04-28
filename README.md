@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Apocalypse Beast
+## Quagga
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/77/255251-87615-apocalypse-beast.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/4/48250/898360-quagga.jpg" width="600" height="auto"/>
 </p>
 
-The Apocalypse Beast fought the Fantastic Four and Iron Man in Japan.
+A one shot character in a Star Wars story.
 
-**First Appearance:** Fantastic Four/Iron Man: Big in Japan #3 (2/28/2006)
+**First Appearance:** Star Wars #91 (1/31/1985)
 
-[Character Details](https://comicvine.gamespot.com/apocalypse-beast/4005-44650/)
+[Character Details](https://comicvine.gamespot.com/quagga/4005-64196/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
