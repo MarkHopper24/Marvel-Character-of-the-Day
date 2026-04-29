@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Quagga
+## Father
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/4/48250/898360-quagga.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/5/50099/2271638-father2__2_.jpg" width="600" height="auto"/>
 </p>
 
-A one shot character in a Star Wars story.
+Father is the architect of Weapon Infinity.  He is also responsible for seeding the Deathlok wave in all realities to capture the World and kill Fantomex.
 
-**First Appearance:** Star Wars #91 (1/31/1985)
+**First Appearance:** Uncanny X-Force #7 (6/1/2011)
 
-[Character Details](https://comicvine.gamespot.com/quagga/4005-64196/)
+[Character Details](https://comicvine.gamespot.com/father/4005-82516/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
