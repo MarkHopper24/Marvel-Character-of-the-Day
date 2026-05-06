@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## VanDoom Creature
+## Marduk Kurios
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/77/195584-195835-vandoom-creature.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11/111746/7097188-marduk_kurios_%28earth-616%29_from_marvel_zombies_handbook_vol_1_1_0001.jpg" width="600" height="auto"/>
 </p>
 
-VanDoom creature is one of Marvel's monsters.
+The being mostly being referred to with the name Satan is Marduk Kurios. He is the father of Daimon Hellstrom and Satana.
 
-**First Appearance:** Tales to Astonish #17 (3/31/1961)
+**First Appearance:** USA Comics #5 (7/31/1942)
 
-[Character Details](https://comicvine.gamespot.com/vandoom-creature/4005-24342/)
+[Character Details](https://comicvine.gamespot.com/marduk-kurios/4005-14704/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
