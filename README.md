@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Montana
+## Frances Hyatt
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/8/84205/3863997-301372-160841-montana.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/3/38919/1274055-frankie_raye___heralds_5.jpg" width="600" height="auto"/>
 </p>
 
-A long-time member of the Enforcers and one of Spider-Man's oldest foes. Montana and his team ususally where hired by criminals to do 'criminal jobs'.
+A young girl chosen by the Silver Surfer to bond with the remaining essence and powers of the slain Herald of Galactus, Nova, as Frances 'Supernova' Hyatt.
 
-**First Appearance:** The Amazing Spider-Man #10 (3/1/1964)
+**First Appearance:** Heralds #2 (8/1/2010)
 
-[Character Details](https://comicvine.gamespot.com/montana/4005-6767/)
+[Character Details](https://comicvine.gamespot.com/frances-hyatt/4005-71877/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
