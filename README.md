@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Frances Hyatt
+## Roberta Rhodes
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/3/38919/1274055-frankie_raye___heralds_5.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/9241/819054-002.jpg" width="600" height="auto"/>
 </p>
 
-A young girl chosen by the Silver Surfer to bond with the remaining essence and powers of the slain Herald of Galactus, Nova, as Frances 'Supernova' Hyatt.
+James and Jeanette Rhodes' mother.
 
-**First Appearance:** Heralds #2 (8/1/2010)
+**First Appearance:** Iron Man #173 (8/1/1983)
 
-[Character Details](https://comicvine.gamespot.com/frances-hyatt/4005-71877/)
+[Character Details](https://comicvine.gamespot.com/roberta-rhodes/4005-32190/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
