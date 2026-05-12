@@ -4,16 +4,17 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## The Brain
+## Mister Badwrench
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/10/103503/5516788-the%20brain.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/229/223680-56988-mister-badwrench.jpg" width="600" height="auto"/>
 </p>
 
-A Golden Age Human Torch and Toro villain.
+Mister Badwrench was a mechanic and inventor working for Medallion. 
 
-**First Appearance:** Marvel Mystery Comics #18 (4/30/1941)
 
-[Character Details](https://comicvine.gamespot.com/the-brain/4005-134221/)
+**First Appearance:** The Punisher #9 (4/30/2002)
+
+[Character Details](https://comicvine.gamespot.com/mister-badwrench/4005-48253/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
