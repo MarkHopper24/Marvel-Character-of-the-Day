@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Vincent Sandhurst
+## Ozu
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11/117930/2300577-vincent_sandhurst.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11122/111222211/6373148-blank.png" width="600" height="auto"/>
 </p>
 
-Vincent Sandhurst was Janice Cord's attorney and the brother of The Controller. He has attempted to assassinate Tony Stark on a number of occasions.
+Agent of outer Mongolia KGB. Mongolian. He performance as Drug Enforcement Administration agent. He was breaking security passing data.
 
-**First Appearance:** Iron Man #7 (11/1/1968)
+**First Appearance:** The Defenders #133 (7/1/1984)
 
-[Character Details](https://comicvine.gamespot.com/vincent-sandhurst/4005-83533/)
+[Character Details](https://comicvine.gamespot.com/ozu/4005-177610/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
