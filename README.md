@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Ozu
+## Ruqtar Koil
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11122/111222211/6373148-blank.png" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/3/38919/970216-ruqtar_koil.jpg" width="600" height="auto"/>
 </p>
 
-Agent of outer Mongolia KGB. Mongolian. He performance as Drug Enforcement Administration agent. He was breaking security passing data.
+Explorocrat of the Ama Collective
 
-**First Appearance:** The Defenders #133 (7/1/1984)
+**First Appearance:** Silver Surfer: In Thy Name #1 (1/31/2008)
 
-[Character Details](https://comicvine.gamespot.com/ozu/4005-177610/)
+[Character Details](https://comicvine.gamespot.com/ruqtar-koil/4005-66316/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
