@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Molyn
+## Fife
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/6235059-moyln.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/10/103503/5666640-fife.jpg" width="600" height="auto"/>
 </p>
 
-The new Metal Master, he is a new member of the Lethal Legion in No Surrender.
+A fan of Morris Sackett and also the first person to be possessed by Morris after he went through terrigenesis and gained abilities.
 
-**First Appearance:** Avengers #678 (3/31/2018)
+**First Appearance:** Mosaic #1 (12/31/2016)
 
-[Character Details](https://comicvine.gamespot.com/molyn/4005-145193/)
+[Character Details](https://comicvine.gamespot.com/fife/4005-135850/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
