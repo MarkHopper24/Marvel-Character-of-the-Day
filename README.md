@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Fife
+## Cressida
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/10/103503/5666640-fife.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11133/111336799/6523773-1610194890-latest" width="600" height="auto"/>
 </p>
 
-A fan of Morris Sackett and also the first person to be possessed by Morris after he went through terrigenesis and gained abilities.
+A powerful woman that can drain life force from people to augment other's powers
 
-**First Appearance:** Mosaic #1 (12/31/2016)
+**First Appearance:** Avengers #2.1 (2/28/2017)
 
-[Character Details](https://comicvine.gamespot.com/fife/4005-135850/)
+[Character Details](https://comicvine.gamespot.com/cressida/4005-135756/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
