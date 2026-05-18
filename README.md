@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Cressida
+## Jaten
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11133/111336799/6523773-1610194890-latest" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/6/69462/2183302-jaten.jpg" width="600" height="auto"/>
 </p>
 
-A powerful woman that can drain life force from people to augment other's powers
+Jaten was a loyal acolyte of Dormammu and servant of the Hood.
 
-**First Appearance:** Avengers #2.1 (2/28/2017)
+**First Appearance:** Punisher #4 (6/30/2009)
 
-[Character Details](https://comicvine.gamespot.com/cressida/4005-135756/)
+[Character Details](https://comicvine.gamespot.com/jaten/4005-82246/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
