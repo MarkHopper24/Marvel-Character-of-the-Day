@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Beetee
+## Mary Parker
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/5472999-bt-1.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11170/111705043/8723898-maryparker001.jpg" width="600" height="auto"/>
 </p>
 
-A droid that belonged to Doctor Aphra, Beetee, also known as BT-1, is an assassination droid that was a prototype astromech before going rogue and killing everyone on board its ship. Currently, Beetee is in charge of a criminal organization alongside Triple Zero.
+Mary Parker was born to Peter and Gwen Parker in a universe where her father never became Spider-Man and her both her mother Gwen, grandfather George Stacy and granduncle Ben Parker never died. On one autumn day at the World Trade Center, Mary was with her entire family to celebrate her father's promotion to Vice-CEO of Powerchip when the WTC tower opposite to theirs was rocked by an explosion.
 
-**First Appearance:** Darth Vader #3 (5/31/2015)
+**First Appearance:** Peter Parker: Spider-Man 1999 #1 (8/31/1999)
 
-[Character Details](https://comicvine.gamespot.com/beetee/4005-129512/)
+[Character Details](https://comicvine.gamespot.com/mary-parker/4005-180035/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
