@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Mary Parker
+## Deathgrin
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11170/111705043/8723898-maryparker001.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/5608/135312-77798-deathgrin.JPG" width="600" height="auto"/>
 </p>
 
-Mary Parker was born to Peter and Gwen Parker in a universe where her father never became Spider-Man and her both her mother Gwen, grandfather George Stacy and granduncle Ben Parker never died. On one autumn day at the World Trade Center, Mary was with her entire family to celebrate her father's promotion to Vice-CEO of Powerchip when the WTC tower opposite to theirs was rocked by an explosion.
+Daniel Davis and his crew of thieves were stealing ancient relics from the Museum of Natural History with the help of Mr. Reynolds who had sabotaged the surveillance systems from the inside. Daniel Davis had in his possession the Macedonian Death-Mask for one of his exotic clients when his men killed Mr. Reynolds. Nightwatch appeared and took down Davis' men. Davis placed the Macedonian Death-Mask on and it started to bond with his face. The death mask started pumping long lost embalming fluid that contained arcane chemicals into Daniel's bloodstream. Daniel's bloodstream was coursing with arcane acids, he was granted unnatural strength and near invulnerability.
 
-**First Appearance:** Peter Parker: Spider-Man 1999 #1 (8/31/1999)
+**First Appearance:** Web of Spider-Man #104 (9/1/1993)
 
-[Character Details](https://comicvine.gamespot.com/mary-parker/4005-180035/)
+[Character Details](https://comicvine.gamespot.com/deathgrin/4005-26746/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
