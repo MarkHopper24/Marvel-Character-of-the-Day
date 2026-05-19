@@ -27,6 +27,10 @@ param(
 $apiKey = $comicVineApiKey
 $BaseURL = "https://comicvine.gamespot.com/api/"
 
+# Bio quality settings
+$MinimumBioCharacters = 250
+$MaximumBioCharacters = 700
+
 function Wait-BeforeApiCall {
     Start-Sleep -Seconds 15
 }
@@ -72,37 +76,227 @@ function Get-ComicVineApiData {
     }
 }
 
+function Normalize-PlainText {
+    param (
+        [string]$text
+    )
+
+    if ([string]::IsNullOrWhiteSpace($text)) {
+        return ""
+    }
+
+    $text = [System.Net.WebUtility]::HtmlDecode($text)
+    $text = $text -replace ([string][char]0xA0), ' '
+    $text = $text -replace '\s+', ' '
+    $text = $text -replace '\s+([,.;:!?])', '$1'
+    $text = $text -replace '([.!?])([A-Z])', '$1 $2'
+
+    return $text.Trim()
+}
+
+function Convert-HtmlToTextBlocks {
+    param (
+        [string]$html
+    )
+
+    if ([string]::IsNullOrWhiteSpace($html)) {
+        return @()
+    }
+
+    $text = [System.Net.WebUtility]::HtmlDecode($html)
+
+    # Remove script/style content if present.
+    $text = $text -replace '(?is)<\s*script[^>]*>.*?<\s*/\s*script\s*>', ' '
+    $text = $text -replace '(?is)<\s*style[^>]*>.*?<\s*/\s*style\s*>', ' '
+
+    # Preserve meaningful boundaries before removing tags.
+    $text = $text -replace '(?i)<\s*br\s*/?\s*>', "`n"
+    $text = $text -replace '(?i)</\s*(p|div|li|h[1-6]|tr|blockquote)\s*>', "`n"
+    $text = $text -replace '(?i)<\s*(p|div|li|h[1-6]|tr|blockquote)[^>]*>', "`n"
+
+    # Remove remaining tags.
+    $text = $text -replace '<[^>]+>', ' '
+
+    # Decode again in case entities were inside tags/content.
+    $text = [System.Net.WebUtility]::HtmlDecode($text)
+    $text = $text -replace ([string][char]0xA0), ' '
+
+    $text = $text -replace "`r", "`n"
+
+    return @(
+        $text -split "`n" |
+            ForEach-Object { Normalize-PlainText -text $_ } |
+            Where-Object { -not [string]::IsNullOrWhiteSpace($_) }
+    )
+}
+
 function Remove-HtmlTags {
     param (
         [string]$html
     )
 
-    if ($null -eq $html -or $html -eq "") {
+    if ([string]::IsNullOrWhiteSpace($html)) {
         return ""
     }
 
-    return ($html -replace '<[^>]+>', '').Trim()
+    $blocks = Convert-HtmlToTextBlocks -html $html
+    return (Normalize-PlainText -text ($blocks -join " "))
+}
+
+function Test-BioStopHeading {
+    param (
+        [string]$text
+    )
+
+    if ([string]::IsNullOrWhiteSpace($text)) {
+        return $false
+    }
+
+    $normalized = $text.Trim()
+
+    $stopHeadings = @(
+        '^major story arcs?$',
+        '^story arcs?$',
+        '^powers and abilities$',
+        '^powers$',
+        '^abilities$',
+        '^character evolution$',
+        '^other versions$',
+        '^in other media$',
+        '^movies$',
+        '^television$',
+        '^video games$',
+        '^merchandise$',
+        '^equipment$',
+        '^weapons$',
+        '^notes$',
+        '^trivia$',
+        '^links$',
+        '^see also$',
+        '^recommended reading$',
+        '^footnotes$',
+        '^character links$'
+    )
+
+    foreach ($heading in $stopHeadings) {
+        if ($normalized -match $heading) {
+            return $true
+        }
+    }
+
+    return $false
+}
+
+function Test-BioHeading {
+    param (
+        [string]$text
+    )
+
+    if ([string]::IsNullOrWhiteSpace($text)) {
+        return $false
+    }
+
+    $normalized = $text.Trim()
+
+    $allowedButSkippedHeadings = @(
+        '^origin$',
+        '^origins$',
+        '^creation$',
+        '^biography$',
+        '^history$'
+    )
+
+    foreach ($heading in $allowedButSkippedHeadings) {
+        if ($normalized -match $heading) {
+            return $true
+        }
+    }
+
+    return (Test-BioStopHeading -text $normalized)
+}
+
+function Limit-BioLength {
+    param (
+        [string]$text,
+        [int]$minimumCharacters = 250,
+        [int]$maximumCharacters = 700
+    )
+
+    $text = Normalize-PlainText -text $text
+
+    if ($text.Length -le $maximumCharacters) {
+        return $text
+    }
+
+    $cut = $text.Substring(0, $maximumCharacters)
+
+    # Prefer ending on a full sentence after the minimum character count.
+    $lastSentenceEnd = $cut.LastIndexOfAny([char[]]".!?")
+    if ($lastSentenceEnd -ge $minimumCharacters) {
+        return $cut.Substring(0, $lastSentenceEnd + 1).Trim()
+    }
+
+    # Otherwise end at the last space after the minimum character count.
+    $lastSpace = $cut.LastIndexOf(' ')
+    if ($lastSpace -ge $minimumCharacters) {
+        return ($cut.Substring(0, $lastSpace).Trim() + "...")
+    }
+
+    return ($cut.Trim() + "...")
 }
 
 function Get-CharacterBio {
     param (
-        [object]$character
+        [object]$character,
+        [int]$minimumCharacters = 250,
+        [int]$maximumCharacters = 700
     )
 
-    # Prefer the full Comic Vine description with HTML stripped.
-    # This is what the character-length check uses.
-    $bio = Remove-HtmlTags -html $character.description
+    $bioParts = @()
 
-    # Fall back to deck if description is empty.
-    if ([string]::IsNullOrWhiteSpace($bio)) {
-        $bio = $character.deck
+    # Prefer full description because deck is often too short.
+    # Convert description HTML into clean text blocks while preserving paragraph and heading boundaries.
+    $descriptionBlocks = Convert-HtmlToTextBlocks -html $character.description
+
+    foreach ($block in $descriptionBlocks) {
+        if ([string]::IsNullOrWhiteSpace($block)) {
+            continue
+        }
+
+        # Once we hit sections like "Major Story Arcs", stop.
+        # This prevents the README from including everything.
+        if (Test-BioStopHeading -text $block) {
+            break
+        }
+
+        # Skip heading labels like "Origin" or "Creation".
+        if (Test-BioHeading -text $block) {
+            continue
+        }
+
+        # Skip tiny fragments that are unlikely to be useful bio content.
+        if ($block.Length -lt 40) {
+            continue
+        }
+
+        $bioParts += $block
+
+        $currentBio = Normalize-PlainText -text ($bioParts -join " ")
+
+        if ($currentBio.Length -ge $minimumCharacters) {
+            return Limit-BioLength -text $currentBio -minimumCharacters $minimumCharacters -maximumCharacters $maximumCharacters
+        }
     }
 
-    if ($null -eq $bio) {
-        return ""
+    # Fallback to deck only if it is already long enough to be useful.
+    $deck = Normalize-PlainText -text $character.deck
+    if ($deck.Length -ge $minimumCharacters) {
+        return Limit-BioLength -text $deck -minimumCharacters $minimumCharacters -maximumCharacters $maximumCharacters
     }
 
-    return $bio.Trim()
+    # If neither description intro nor deck produces a coherent minimum-length bio,
+    # return empty so the character is rejected by the candidate check.
+    return ""
 }
 
 function Get-RandomCharacter {
@@ -126,14 +320,14 @@ function Get-RandomCharacter {
             }
 
             # Filter the batch for characters that meet quality criteria.
-            # The bio length check uses the stripped HTML description.
+            # The bio check uses cleaned, section-aware text.
             # .Length includes spaces.
             $candidates = @($response.results | Where-Object {
-                $characterBio = Get-CharacterBio -character $_
+                $characterBio = Get-CharacterBio -character $_ -minimumCharacters $MinimumBioCharacters -maximumCharacters $MaximumBioCharacters
 
                 $_.publisher.id -eq 31 -and
                 -not [string]::IsNullOrWhiteSpace($characterBio) -and
-                $characterBio.Length -gt 240 -and
+                $characterBio.Length -ge $MinimumBioCharacters -and
                 $null -ne $_.first_appeared_in_issue -and
                 $null -ne $_.image -and
                 $null -ne $_.image.medium_url -and
@@ -205,8 +399,8 @@ Function Save-CharacterData {
 
     $characterName = $character.name
 
-    # Use the same stripped HTML bio helper that the candidate check uses.
-    $characterDescription = Get-CharacterBio -character $character
+    # Use the same cleaned, coherent bio helper that the candidate check uses.
+    $characterDescription = Get-CharacterBio -character $character -minimumCharacters $MinimumBioCharacters -maximumCharacters $MaximumBioCharacters
 
     $characterImageURL = $character.image.medium_url
 
