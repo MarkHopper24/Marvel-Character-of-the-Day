@@ -6,43 +6,22 @@
     The API key for accessing the Comic Vine API.
 
 .DESCRIPTION
-    This script provides functions to interact with the Comic Vine API, retrieve a random Marvel character, save it to a JSON file, and generate QR codes for character URLs. It includes functions to fetch data from the API, retrieve a random character by offset, save character data, and generate QR codes.
-
-.FUNCTIONS
-    Get-ComicVineApiData
-        Fetches data from the Comic Vine API for a specified endpoint or full URL and query parameters.
-
-    Get-RandomCharacter
-        Retrieves a single random Marvel character from the Comic Vine API using a random offset.
-
-    Get-FirstCharacterComic
-        Retrieves the first comic appearance of a specified character.
-
-    Test-URL
-        Tests if a given URL is reachable.
-
-    Save-CharacterData
-        Saves detailed data about a character, including generating QR codes for character URLs.
-
-    Save-QRCode
-        Generates a QR code for a given URL and saves it as an image file.
-
-    Invoke-RandomCharacterProcessing
-        Orchestrates the process of selecting a random character, retrieving their first comic, and saving the character data.
+    This script provides functions to interact with the Comic Vine API, retrieve a random Marvel character,
+    save it to a JSON file, and generate QR codes for character URLs.
 
 .EXAMPLE
-     .\MarvelCharacterOfTheDay.PS1 -comicVineApiKey "your_api_key"
-     This command runs the script with the specified Comic Vine API key.
+     .\MarvelCharacterOfTheDay.ps1 -comicVineApiKey "your_api_key"
 
 .NOTES
      File Name      : MarvelCharacterOfTheDay.ps1
      Author         : Mark Hopper
      Prerequisite   : The MarvelCharacterOfTheDay.json and README.md files should be present in the parent directory.
 #>
+
 param(
     [Parameter(Mandatory = $true)]
     [string]$comicVineApiKey
-) 
+)
 
 # Set the Comic Vine API key and base URL
 $apiKey = $comicVineApiKey
@@ -52,25 +31,6 @@ function Wait-BeforeApiCall {
     Start-Sleep -Seconds 15
 }
 
-<#
-.SYNOPSIS
-Function to fetch data from the Comic Vine API for a specified endpoint and query parameters.
-
-.DESCRIPTION
-This function makes a GET request to the Comic Vine API for a specified endpoint path (relative to the base URL) or a full API URL. It automatically appends the API key and JSON format parameters.
-
-.PARAMETER endpoint
-The API endpoint path (relative to base URL) or a full API URL to fetch data from.
-
-.PARAMETER queryParams
-Optional additional query parameters to include in the request.
-
-.EXAMPLE
-Get-ComicVineApiData -endpoint "characters" -queryParams @{ limit = 10; filter = "publisher:31" }
-
-.NOTES
-This function is used to interact with the Comic Vine API and retrieve data based on the specified endpoint and query parameters. It returns the response data from the API.
-#>
 function Get-ComicVineApiData {
     param (
         [string]$endpoint,
@@ -90,6 +50,7 @@ function Get-ComicVineApiData {
 
     $maxRetries = 5
     $retryDelay = 15
+
     for ($attempt = 1; $attempt -le $maxRetries; $attempt++) {
         try {
             Wait-BeforeApiCall
@@ -98,6 +59,7 @@ function Get-ComicVineApiData {
         }
         catch {
             $statusCode = $_.Exception.Response.StatusCode.value__
+
             if ($null -ne $statusCode -and $statusCode -eq 420 -and $attempt -lt $maxRetries) {
                 Write-Warning "Rate limited (420). Waiting $retryDelay seconds before retry $attempt of $($maxRetries - 1)..."
                 Start-Sleep -Seconds $retryDelay
@@ -110,65 +72,74 @@ function Get-ComicVineApiData {
     }
 }
 
-<#
-.SYNOPSIS
-Helper function to strip HTML tags from a string.
-
-.DESCRIPTION
-Removes all HTML tags from the provided string and returns the plain text content.
-
-.PARAMETER html
-The HTML string to strip tags from.
-
-.EXAMPLE
-Remove-HtmlTags -html "<p>Some <b>bold</b> text</p>"
-#>
 function Remove-HtmlTags {
     param (
         [string]$html
     )
-    if ($null -eq $html -or $html -eq "") { return "" }
+
+    if ($null -eq $html -or $html -eq "") {
+        return ""
+    }
+
     return ($html -replace '<[^>]+>', '').Trim()
 }
 
-<#
-.SYNOPSIS
-Function to retrieve a single random Marvel character from the Comic Vine API.
+function Get-CharacterBio {
+    param (
+        [object]$character
+    )
 
-.DESCRIPTION
-This function retrieves the total count of Marvel characters, generates a random offset, and fetches a single character at that offset. It retries with a new random offset if the selected character does not meet quality criteria (must have a description, a first appearance, and a valid image).
+    # Prefer the full Comic Vine description with HTML stripped.
+    # This is what the character-length check uses.
+    $bio = Remove-HtmlTags -html $character.description
 
-.EXAMPLE
-Get-RandomCharacter
+    # Fall back to deck if description is empty.
+    if ([string]::IsNullOrWhiteSpace($bio)) {
+        $bio = $character.deck
+    }
 
-.NOTES
-This function uses the Comic Vine API offset and limit parameters to efficiently select a random character without fetching the full character list.
-#>
+    if ($null -eq $bio) {
+        return ""
+    }
+
+    return $bio.Trim()
+}
+
 function Get-RandomCharacter {
     $batchSize = 100
     $maxAttempts = 5
+
     try {
-        # Get the total number of Marvel characters (publisher ID 31)
-        $countResponse = Get-ComicVineApiData -endpoint "characters" -queryParams @{filter = "publisher:31" }
+        # Get the total number of Marvel characters, publisher ID 31.
+        $countResponse = Get-ComicVineApiData -endpoint "characters" -queryParams @{ filter = "publisher:31" }
         $total = $countResponse.number_of_total_results
 
         for ($attempt = 1; $attempt -le $maxAttempts; $attempt++) {
-            # Pick a random offset and fetch a batch of characters to filter locally
+            # Pick a random offset and fetch a batch of characters to filter locally.
             $maxOffset = [Math]::Max(0, $total - $batchSize)
             $randomOffset = Get-Random -Minimum 0 -Maximum ($maxOffset + 1)
+
             $response = Get-ComicVineApiData -endpoint "characters" -queryParams @{
                 offset = $randomOffset
                 limit  = $batchSize
                 filter = "publisher:31"
             }
 
-            # Filter the batch for characters that meet quality criteria
+            # Filter the batch for characters that meet quality criteria.
+            # The bio length check uses the stripped HTML description.
+            # .Length includes spaces.
             $candidates = @($response.results | Where-Object {
+                $characterBio = Get-CharacterBio -character $_
+
                 $_.publisher.id -eq 31 -and
-                $null -ne $_.deck -and $_.deck -ne "" -and
+                -not [string]::IsNullOrWhiteSpace($characterBio) -and
+                $characterBio.Length -gt 240 -and
                 $null -ne $_.first_appeared_in_issue -and
+                $null -ne $_.image -and
+                $null -ne $_.image.medium_url -and
                 $_.image.medium_url -notlike "*image_not_available*" -and
-                $null -ne $_.site_detail_url -and $_.site_detail_url -ne ""
+                $null -ne $_.site_detail_url -and
+                $_.site_detail_url -ne ""
             })
 
             if ($candidates.Count -gt 0) {
@@ -185,32 +156,20 @@ function Get-RandomCharacter {
     }
 }
 
-
-<#
-.SYNOPSIS
-Function to retrieve the first comic appearance of a specified character.
-
-.DESCRIPTION
-This function fetches the first comic appearance of a character using the issue ID stored in the character's first_appeared_in_issue field to query the Comic Vine API issues endpoint with an id filter.
-
-.PARAMETER character
-The character object containing the first_appeared_in_issue field with the issue's id.
-
-.EXAMPLE
-Get-FirstCharacterComic -character $character
-
-.NOTES
-This function uses the Get-ComicVineApiData function to fetch the issue data from the Comic Vine API issues endpoint and returns the first matching issue result object.
-#>
 function Get-FirstCharacterComic {
     param (
         [object]$character
     )
 
-    if ($null -eq $character.first_appeared_in_issue) { return $null }
+    if ($null -eq $character.first_appeared_in_issue) {
+        return $null
+    }
 
     $issueId = $character.first_appeared_in_issue.id
-    if ($null -eq $issueId) { return $null }
+
+    if ($null -eq $issueId) {
+        return $null
+    }
 
     $issueResponse = Get-ComicVineApiData -endpoint "issues" -queryParams @{
         filter = "id:$issueId"
@@ -220,22 +179,6 @@ function Get-FirstCharacterComic {
     return $issueResponse.results | Select-Object -First 1
 }
 
-<#
-.SYNOPSIS
-Function to test if a given URL is reachable.
-
-.DESCRIPTION
-This function tests if a given URL is reachable by making a HEAD request to the URL and checking the response status code.
-
-.PARAMETER url
-The URL to test.
-
-.EXAMPLE
-Test-URL -url "https://www.example.com"
-
-.NOTES
-This function uses the Invoke-WebRequest cmdlet with the HEAD method to check the URL's status code. It returns the URL if reachable, otherwise null.
-#>
 function Test-URL {
     param (
         [string]$url
@@ -243,7 +186,8 @@ function Test-URL {
 
     try {
         Wait-BeforeApiCall
-        $request = Invoke-WebRequest -Uri $url -Method Head -ErrorAction SilentlyContinue 
+        $request = Invoke-WebRequest -Uri $url -Method Head -ErrorAction SilentlyContinue
+
         if ($request.StatusCode -eq 200) {
             return $url
         }
@@ -253,25 +197,6 @@ function Test-URL {
     }
 }
 
-<#
-.SYNOPSIS
-Function to save detailed data about a character, including generating QR codes for character URLs.
-
-.DESCRIPTION
-This function processes and saves detailed data about a character, including their name, description, image URL, first comic appearance, URLs, and QR codes for character-related links. It maps fields from the Comic Vine API response to the standard output format.
-
-.PARAMETER character
-The character object from the Comic Vine API to process.
-
-.PARAMETER firstComic
-The first comic appearance issue object for the character.
-
-.EXAMPLE
-Save-CharacterData -character $character -firstComic $firstComic
-
-.NOTES
-This function uses the Invoke-WebRequest cmdlet to download the character image, generates QR codes for character-related URLs, and saves the character data to a JSON file.
-#>
 Function Save-CharacterData {
     param (
         [object]$character,
@@ -280,10 +205,8 @@ Function Save-CharacterData {
 
     $characterName = $character.name
 
-    $characterDescription = $character.deck
-    if ($null -eq $characterDescription -or $characterDescription -eq "") {
-        $characterDescription = Remove-HtmlTags -html $character.description
-    }
+    # Use the same stripped HTML bio helper that the candidate check uses.
+    $characterDescription = Get-CharacterBio -character $character
 
     $characterImageURL = $character.image.medium_url
 
@@ -297,6 +220,7 @@ Function Save-CharacterData {
     if ($null -ne $firstComic) {
         $volumeName = $firstComic.volume.name
         $issueNumber = $firstComic.issue_number
+
         if ($null -ne $volumeName -and $null -ne $issueNumber) {
             $firstComicTitle = $volumeName + " #" + $issueNumber
         }
@@ -308,11 +232,13 @@ Function Save-CharacterData {
         }
 
         $firstComicDescription = $firstComic.deck
+
         if ($null -eq $firstComicDescription -or $firstComicDescription -eq "") {
             $firstComicDescription = Remove-HtmlTags -html $firstComic.description
         }
 
         $releaseDate = $firstComic.cover_date
+
         try {
             $releaseDate = [DateTime]::Parse($releaseDate).ToShortDateString()
         }
@@ -327,7 +253,6 @@ Function Save-CharacterData {
     #$comicsUrlQrCode = $null
     $characterUrlQrCode = $null
 
- 
     if ($null -ne $characterUrl -and $characterUrl -ne "") {
         #$characterUrl = Test-URL -url $characterUrl
         #if ($null -ne $characterUrl -and $characterUrl -ne "") {
@@ -355,31 +280,12 @@ Function Save-CharacterData {
         Attribution           = $attribution
     }
 
-    # Save character data to a JSON file
+    # Save character data to a JSON file.
     $characterObject | ConvertTo-Json -Depth 10 | Set-Content -Path ".\MarvelCharacterOfTheDay.json" -Force
 
     return $characterObject
 }
 
-<#
-.SYNOPSIS
-Function to generate a QR code for a given URL and save it as an image file.
-
-.DESCRIPTION
-This function generates a QR code for a given URL using the QR code generation service and saves it as an image file.
-
-.PARAMETER url
-The URL to generate the QR code for.
-
-.PARAMETER fileName
-The name of the file to save the QR code as.
-
-.EXAMPLE
-Save-QRCode -url "https://www.example.com" -fileName "example"
-
-.NOTES
-This function uses the Invoke-WebRequest cmdlet to download the QR code image from the QR code generation service and saves it as a JPG file.
-#>
 function Save-QRCode {
     param (
         [string]$url,
@@ -388,24 +294,13 @@ function Save-QRCode {
 
     $qrCode = $fileName + ".jpg"
     $qrCodeUrl = "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=$url"
+
     #Wait-BeforeApiCall
     Invoke-WebRequest -Uri $qrCodeUrl -OutFile $qrCode
+
     return $qrCode
 }
 
-<#
-.SYNOPSIS
-Function to orchestrate the process of selecting a random character, retrieving their first comic, and saving the character data.
-
-.DESCRIPTION
-This function orchestrates the process of selecting a random Marvel character by offset, retrieving their first comic appearance, and saving the detailed character data.
-
-.EXAMPLE
-Invoke-RandomCharacterProcessing
-
-.NOTES
-This function combines the functionality of other functions to automate the process of selecting a random Marvel character, fetching their first comic appearance, and saving the character data.
-#>
 function Invoke-RandomCharacterProcessing {
     $randomCharacter = Get-RandomCharacter
     $firstComic = Get-FirstCharacterComic -character $randomCharacter
