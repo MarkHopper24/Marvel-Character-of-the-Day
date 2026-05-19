@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Enigma 
+## Heavy
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11156/111569030/9248586-5664437840-latest.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/787/179797-178086-heavy.jpg" width="600" height="auto"/>
 </p>
 
-CreationEnigma was created by Al Ewing (W), Javier Rodriguez (A), Kieron Gillen (W) and Michele Bandini (A). Enigma had his full appearance in Rise of the Powers of X #1 - Data Pages however he was first spotted in Defenders: Beyond #5 - Kether: The House of Ideas. Enigma is named after the Enigma Variations by composer Edward Elgar.Story ArcsDefenders: BeyondDuring the Defenders trip Outside they encountered the Beyonders who revealed they only destroyed the seventh cosmos via incursions to prevent a potential threat. This failed as Mr Fantastic created the Eight Cosmos as a continuation of the Seventh so the Beyonders pivoted to a containment strategy. They created the Concordance Engine to contain the threat to 616 and its branching realities.The threat being a Dominion who seeks to devour everything in existence possibly One-Above-All included.Power and AbilitiesOmni-temporality: Dominions are nonlinear beings. Dominions that had existed will always exist regardless of how was created and cannot be erased. Time Manipulation: Enigma's omni-temporal nature allows him to act across all time-lines. Psionics: Assimilation: Being a Dominion he can absorb energy, information and matter at an incalculable scale.Telepathy: Enigma is capable of influencing other beings mind even powerful ones like a Celestial.Projection: Can selectively project images to others.Technopathy: Enigma can interface with computers.Limitation:Linearity: While Dominions are omni-temporal they can become susceptible to linearity and other concepts when entering a time-line.Paranoia: Unlike other Dominions, Enigma is base entirely off a human mind which leads it to make irrational decisions out of fear.
+Origin     Sergeant Major Dennis Michael Murray was a     warrant officer who was injured during     Tony Stark's V.I.P. visit to the front lines, leaving him paralyzed and in a tube in V.A. hospital.  Mayor Story ArcsJoining the OrderAs part of 50 States Initiative, Murray was asked to join the superhero group known as The Order. He accepted and was submerged in a kind of super colloidal fluid contained within a suit. Heavy was permanently submerged in super soldier fluid contained within his suit. He soon became the team's trainer and tactician, and representation of     Poseidon with the power of super strength measured on a     seismic scale, rating Class 90. He also had the ability to fly. Dennis was however killed when his powers were removed by Ezekiel Stane.
 
-**First Appearance:** Defenders: Beyond #5 (1/1/2023)
+**First Appearance:** The Order #1 (9/1/2007)
 
-[Character Details](https://comicvine.gamespot.com/enigma/4005-188012/)
+[Character Details](https://comicvine.gamespot.com/heavy/4005-46693/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
