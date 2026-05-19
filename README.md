@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Jaten
+## Blizzard (Jim)
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/6/69462/2183302-jaten.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9365824-blizzard_%28jim%29.jpg" width="600" height="auto"/>
 </p>
 
-Jaten was a loyal acolyte of Dormammu and servant of the Hood.
+The fourth person to take up the mantle. Worked for Mandarin's terrorist organization.
 
-**First Appearance:** Punisher #4 (6/30/2009)
+**First Appearance:** Invincible Iron Man #510 (1/1/2012)
 
-[Character Details](https://comicvine.gamespot.com/jaten/4005-82246/)
+[Character Details](https://comicvine.gamespot.com/blizzard-jim/4005-154240/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
