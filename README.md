@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Deathgrin
+## Mark Booth
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/5608/135312-77798-deathgrin.JPG" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/8647202-mark.jpg" width="600" height="auto"/>
 </p>
 
-Daniel Davis and his crew of thieves were stealing ancient relics from the Museum of Natural History with the help of Mr. Reynolds who had sabotaged the surveillance systems from the inside. Daniel Davis had in his possession the Macedonian Death-Mask for one of his exotic clients when his men killed Mr. Reynolds. Nightwatch appeared and took down Davis' men. Davis placed the Macedonian Death-Mask on and it started to bond with his face. The death mask started pumping long lost embalming fluid that contained arcane chemicals into Daniel's bloodstream. Daniel's bloodstream was coursing with arcane acids, he was granted unnatural strength and near invulnerability.
+Mark Booth and his wife, April Booth were well known scientist who were curious of the power Jack of Hearts once possessed, but due to his death long time ago, they couldn't get any answers on how his powers worked along. They also were interested with the possibility of turning into Hulks.
 
-**First Appearance:** Web of Spider-Man #104 (9/1/1993)
+**First Appearance:** She-Hulk #5 (9/1/2022)
 
-[Character Details](https://comicvine.gamespot.com/deathgrin/4005-26746/)
+[Character Details](https://comicvine.gamespot.com/mark-booth/4005-175622/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
