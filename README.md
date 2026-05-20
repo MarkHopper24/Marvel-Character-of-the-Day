@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Mark Booth
+## Wrench
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/8647202-mark.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/11352/500626-pinup_wrench.jpg" width="600" height="auto"/>
 </p>
 
-Mark Booth and his wife, April Booth were well known scientist who were curious of the power Jack of Hearts once possessed, but due to his death long time ago, they couldn't get any answers on how his powers worked along. They also were interested with the possibility of turning into Hulks.
+Leonard "Wrench" Hebb was a gifted student, completing four engineering degrees before going on to get his doctorate from M. I. T. He turned down several automakers, NASA, and foreign governments before becoming part of Team America (later renamed The Thunderiders ) so he can work on applying new technologies in America.
 
-**First Appearance:** She-Hulk #5 (9/1/2022)
+**First Appearance:** Omega the Unknown #6 (1/31/1977)
 
-[Character Details](https://comicvine.gamespot.com/mark-booth/4005-175622/)
+[Character Details](https://comicvine.gamespot.com/wrench/4005-14546/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
