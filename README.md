@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Ellissya
+## Gray Dolman
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/5/59768/2014508-bloodseeduk9.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/77/208357-60906-shadraq.jpg" width="600" height="auto"/>
 </p>
 
-A female Genespawn, Ellissya believed herself to be the ruler of Elysium. Finding herself on the barren glacial plains, she made her way to "Brother" Bloodseed's headquarters. She came across one dead Genespawn who was entangled with a dead dino-creature (or mutant), and an Earth car. Going further, she found Lysander, and helped him escape. After encountering the Great One, Lysander removed his helmet and Ellissya's bloodrush kicked in, causing her to attack him.
+A man whom had lived for hundreds of years after gaining the gift of Immortality during a ritual of the "Gathering of the Five". In present time Gray took control of the demon named Shadrac (the demon that made the "Gathering of the Five possible). The demon had taken possession of the mercenary villain Override, but Gray was himself possessed by it and became an unstoppable fiend whom clashed with Spider-man and Spider-girl among others.
 
-**First Appearance:** Bloodseed #2 (11/30/1993)
+**First Appearance:** The Amazing Spider-Man #2 (2/28/1999)
 
-[Character Details](https://comicvine.gamespot.com/ellissya/4005-80135/)
+[Character Details](https://comicvine.gamespot.com/gray-dolman/4005-10673/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
