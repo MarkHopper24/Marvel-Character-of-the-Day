@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Gray Dolman
+## Ultron Eight
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/77/208357-60906-shadraq.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11124/111240963/4685416-500px-ultron_eight.jpg" width="600" height="auto"/>
 </p>
 
-A man whom had lived for hundreds of years after gaining the gift of Immortality during a ritual of the "Gathering of the Five". In present time Gray took control of the demon named Shadrac (the demon that made the "Gathering of the Five possible). The demon had taken possession of the mercenary villain Override, but Gray was himself possessed by it and became an unstoppable fiend whom clashed with Spider-man and Spider-girl among others.
+Ultron Eight first appears in Wolverine #67 and aside from appearance does not behave in anyway similar to former Ultron Eight models or any other Ultrons. Tony Parker says that he has been more of a father to Ashley Barton, than her real father, Hawkeye.
 
-**First Appearance:** The Amazing Spider-Man #2 (2/28/1999)
+**First Appearance:** Wolverine #67 (9/1/2008)
 
-[Character Details](https://comicvine.gamespot.com/gray-dolman/4005-10673/)
+[Character Details](https://comicvine.gamespot.com/ultron-eight/4005-120190/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
