@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Ultron Eight
+## Chris McCarthy
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11124/111240963/4685416-500px-ultron_eight.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/10/109227/2211470-2208126_081.jpg" width="600" height="auto"/>
 </p>
 
-Ultron Eight first appears in Wolverine #67 and aside from appearance does not behave in anyway similar to former Ultron Eight models or any other Ultrons. Tony Parker says that he has been more of a father to Ashley Barton, than her real father, Hawkeye.
+Chris McCarthy was a S. H. I. E. L. D. agent and played a big role in the introduction of the newest Ant-Man. He was in love with fellow agent Veronica King and a very loyal and dedicated agent to his task within the S. H. I. E. L. D. organization. Chris McCarthy was created by Robert Kirkman and Phil Hester and first appeared in #The Irredeemable Ant-Man issue 1 (2006).
 
-**First Appearance:** Wolverine #67 (9/1/2008)
+**First Appearance:** The Irredeemable Ant-Man #1 (12/1/2006)
 
-[Character Details](https://comicvine.gamespot.com/ultron-eight/4005-120190/)
+[Character Details](https://comicvine.gamespot.com/chris-mccarthy/4005-79426/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
