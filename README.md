@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Chris McCarthy
+## Ultimate Daredevil
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/10/109227/2211470-2208126_081.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/9928972-xgqru0s6_o.jpg" width="600" height="auto"/>
 </p>
 
-Chris McCarthy was a S. H. I. E. L. D. agent and played a big role in the introduction of the newest Ant-Man. He was in love with fellow agent Veronica King and a very loyal and dedicated agent to his task within the S. H. I. E. L. D. organization. Chris McCarthy was created by Robert Kirkman and Phil Hester and first appeared in #The Irredeemable Ant-Man issue 1 (2006).
+Daredevil was originally a member of The Beyonders, a race of omniscient aliens who experiment on lesser beings in other universes. When he witnesses a nursery targeted by an antimatter disaster, Daredevil intervened, sacrificing his omniscience to save them. His senses were reduced from seven million to thirteen. Unable to return to his plane of existence, he dedicated his life to fighting for justice in Universe 6160.
 
-**First Appearance:** The Irredeemable Ant-Man #1 (12/1/2006)
+**First Appearance:** Ultimate Universe: Two Years In #1 (2/1/2026)
 
-[Character Details](https://comicvine.gamespot.com/chris-mccarthy/4005-79426/)
+[Character Details](https://comicvine.gamespot.com/ultimate-daredevil/4005-196258/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
