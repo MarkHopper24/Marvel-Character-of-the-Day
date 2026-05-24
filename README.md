@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Ultimate Daredevil
+## Ozymandias
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/9928972-xgqru0s6_o.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11/110802/3862097-ozymandias.jpg" width="600" height="auto"/>
 </p>
 
-Daredevil was originally a member of The Beyonders, a race of omniscient aliens who experiment on lesser beings in other universes. When he witnesses a nursery targeted by an antimatter disaster, Daredevil intervened, sacrificing his omniscience to save them. His senses were reduced from seven million to thirteen. Unable to return to his plane of existence, he dedicated his life to fighting for justice in Universe 6160.
+Ozymandias was Baphomet 's messenger, often Baphomet spoke through Ozymandias. When the Nightbreed were decimated by the humans in Egyptian times, Baphomet and Ozymandias built a city along the river Nile. Sepsis, the mother of Ozymandias suggested building a temple for Baphomet. Over the years, Ozymandias grew dissatisfied with his followers, who, under the guidance of Ozymandias, had convinced the humans they were their masters. One day, Baphomet just stood up from his temple and left, leaving Ozymandias behind.
 
-**First Appearance:** Ultimate Universe: Two Years In #1 (2/1/2026)
+**First Appearance:** Clive Barker's Night Breed #21 (11/1/1992)
 
-[Character Details](https://comicvine.gamespot.com/ultimate-daredevil/4005-196258/)
+[Character Details](https://comicvine.gamespot.com/ozymandias/4005-103094/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
