@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Margo Morse
+## Boy-Thing
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11120/111200217/5639915-screen%20shot%202017-01-09%20at%207.46.21%20pm.png" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/7762137-aven2018045_cov.jpg" width="600" height="auto"/>
 </p>
 
-While growing up, Margo found herself attracted to "manly" men - athletes, hunters, war heroes. Later she becomes a socialite who is interested in wealthy men such as oil tycoons. To her chagrin she falls in love with a playwright, despite her initial reaction being that he is not her kind of man, and tries to force herself to stop to love him. However, her love is too strong and despite trying to push him away she succumbs to his charms.
+To wage war on vampires, Shadow Colonel required a good source of wooden stakes. He cut a piece off of Man-Thing and grew Boy-Thing for that very purpose. After the Shadow Colonel's team was defeated by the Avengers, Boy-Thing defected and bonded with Blade, serving the same purpose for him as he did for Shadow Colonel.
 
-**First Appearance:** Love Romances #106 (7/1/1963)
+**First Appearance:** Avengers #12 (3/1/2019)
 
-[Character Details](https://comicvine.gamespot.com/margo-morse/4005-135572/)
+[Character Details](https://comicvine.gamespot.com/boy-thing/4005-154836/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
