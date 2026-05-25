@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Boy-Thing
+## Namie
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/7762137-aven2018045_cov.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/6/63099/8892650-red_ronin_2.jpg" width="600" height="auto"/>
 </p>
 
-To wage war on vampires, Shadow Colonel required a good source of wooden stakes. He cut a piece off of Man-Thing and grew Boy-Thing for that very purpose. After the Shadow Colonel's team was defeated by the Avengers, Boy-Thing defected and bonded with Blade, serving the same purpose for him as he did for Shadow Colonel.
+Namie has joined The Loners, despite being created by their enemy Fujikawa Industries. She at first didn't know what she is, thinking she was a normal girl, when she is anything but. She has yet to demonstrate most of the previous Red Ronin's powers, but she can produce a red energy blade at will.
 
-**First Appearance:** Avengers #12 (3/1/2019)
+**First Appearance:** The Loners #5 (10/31/2007)
 
-[Character Details](https://comicvine.gamespot.com/boy-thing/4005-154836/)
+[Character Details](https://comicvine.gamespot.com/namie/4005-182664/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
