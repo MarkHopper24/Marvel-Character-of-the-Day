@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Ozymandias
+## Reinforcer
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11/110802/3862097-ozymandias.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11/117763/2562196-dp7.jpg" width="600" height="auto"/>
 </p>
 
-Ozymandias was Baphomet 's messenger, often Baphomet spoke through Ozymandias. When the Nightbreed were decimated by the humans in Egyptian times, Baphomet and Ozymandias built a city along the river Nile. Sepsis, the mother of Ozymandias suggested building a temple for Baphomet. Over the years, Ozymandias grew dissatisfied with his followers, who, under the guidance of Ozymandias, had convinced the humans they were their masters. One day, Baphomet just stood up from his temple and left, leaving Ozymandias behind.
+Mr. Charne could tamper with people's minds. After he wound up placing both Glitter and Harlan Hackbarth into comas, he began an attempt to take over the Clinic of Paranormal Research. After inducing a stroke in the interim director of the facility, he was attacked by Mastodon and killed by one of Antibody's manifestations.
 
-**First Appearance:** Clive Barker's Night Breed #21 (11/1/1992)
+**First Appearance:** D.P.7 #1 (11/30/1986)
 
-[Character Details](https://comicvine.gamespot.com/ozymandias/4005-103094/)
+[Character Details](https://comicvine.gamespot.com/reinforcer/4005-85360/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
