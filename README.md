@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Reinforcer
+## Margo Morse
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11/117763/2562196-dp7.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11120/111200217/5639915-screen%20shot%202017-01-09%20at%207.46.21%20pm.png" width="600" height="auto"/>
 </p>
 
-Mr. Charne could tamper with people's minds. After he wound up placing both Glitter and Harlan Hackbarth into comas, he began an attempt to take over the Clinic of Paranormal Research. After inducing a stroke in the interim director of the facility, he was attacked by Mastodon and killed by one of Antibody's manifestations.
+While growing up, Margo found herself attracted to "manly" men - athletes, hunters, war heroes. Later she becomes a socialite who is interested in wealthy men such as oil tycoons. To her chagrin she falls in love with a playwright, despite her initial reaction being that he is not her kind of man, and tries to force herself to stop to love him. However, her love is too strong and despite trying to push him away she succumbs to his charms.
 
-**First Appearance:** D.P.7 #1 (11/30/1986)
+**First Appearance:** Love Romances #106 (7/1/1963)
 
-[Character Details](https://comicvine.gamespot.com/reinforcer/4005-85360/)
+[Character Details](https://comicvine.gamespot.com/margo-morse/4005-135572/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
