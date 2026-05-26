@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Namie
+## Power Princess
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/6/63099/8892650-red_ronin_2.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/7838686-evhvn2nvoaaaeol.jpg" width="600" height="auto"/>
 </p>
 
-Namie has joined The Loners, despite being created by their enemy Fujikawa Industries. She at first didn't know what she is, thinking she was a normal girl, when she is anything but. She has yet to demonstrate most of the previous Red Ronin's powers, but she can produce a red energy blade at will.
+Power Princess grew up living on a peaceful place called Utopia Island on Earth-712, the Squadron Supreme's world. The Utopians believed that their race was created by the Kree through genetic experimentation, making them the equivalent of Earth-616's Inhumans. As a result, the Utopians were far more advanced while the rest of the worlds' humans were in their early stages of development.
 
-**First Appearance:** The Loners #5 (10/31/2007)
+**First Appearance:** The Defenders #112 (10/31/1982)
 
-[Character Details](https://comicvine.gamespot.com/namie/4005-182664/)
+[Character Details](https://comicvine.gamespot.com/power-princess/4005-6912/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
