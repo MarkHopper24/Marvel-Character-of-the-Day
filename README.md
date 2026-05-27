@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Power Princess
+## Jackie Chopra
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/7838686-evhvn2nvoaaaeol.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/14487/9304906-img_0954.jpeg" width="600" height="auto"/>
 </p>
 
-Power Princess grew up living on a peaceful place called Utopia Island on Earth-712, the Squadron Supreme's world. The Utopians believed that their race was created by the Kree through genetic experimentation, making them the equivalent of Earth-616's Inhumans. As a result, the Utopians were far more advanced while the rest of the worlds' humans were in their early stages of development.
+Jackie "Jacks" Chopra is the illegitimate daughter of Dane Whitman and Ashima Chopra. Her parents had met long before Dane had ever found the Ebony Blade and became the Black Knight. They were first year college students, but their relationship suffered when Ashima was diagnosed with cancer. She and her family moved to London to work with a specialist, and Ashima proposed marriage to get Dane to come with them. Dane was excelling in school so he decided to stay and finish. Ashima said she understood, but she also never revealed that she was pregnant with their child. Because of her pregnancy, she refused the radiotherapy and eventually succumbed to the cancer.
 
-**First Appearance:** The Defenders #112 (10/31/1982)
+**First Appearance:** Black Knight: Curse of the Ebony Blade #1 (5/1/2021)
 
-[Character Details](https://comicvine.gamespot.com/power-princess/4005-6912/)
+[Character Details](https://comicvine.gamespot.com/jackie-chopra/4005-168837/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
