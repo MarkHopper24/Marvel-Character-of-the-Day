@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Jackie Chopra
+## Takuya Yamashiro
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/14487/9304906-img_0954.jpeg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111417740/8902588-spider-man_vol_4_7_g%253fmez_variant_textless.jpg" width="600" height="auto"/>
 </p>
 
-Jackie "Jacks" Chopra is the illegitimate daughter of Dane Whitman and Ashima Chopra. Her parents had met long before Dane had ever found the Ebony Blade and became the Black Knight. They were first year college students, but their relationship suffered when Ashima was diagnosed with cancer. She and her family moved to London to work with a specialist, and Ashima proposed marriage to get Dane to come with them. Dane was excelling in school so he decided to stay and finish. Ashima said she understood, but she also never revealed that she was pregnant with their child. Because of her pregnancy, she refused the radiotherapy and eventually succumbed to the cancer.
+Takuya Yamashiro is the Spider-Man of Earth-51778. He was a motocross driver and son of the astrophysicist Dr. Hiroshi Yamashiro. In one of his races, Takuya received telepathic messages from the alien Garia, that lead him to investigate a crashed Ufo, the Marveller. The incident attracted the villain Dr. Monster and his Iron Cross Army. Takuya recieved a transfusion of blood from the alien Garia, and recieved spider-like powers to began a fight against the Iron Cross Army.
 
-**First Appearance:** Black Knight: Curse of the Ebony Blade #1 (5/1/2021)
+**First Appearance:** Bōkenō #197806 (6/1/1978)
 
-[Character Details](https://comicvine.gamespot.com/jackie-chopra/4005-168837/)
+[Character Details](https://comicvine.gamespot.com/takuya-yamashiro/4005-111897/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
