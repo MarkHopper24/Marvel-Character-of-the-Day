@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Takuya Yamashiro
+## Phlish
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111417740/8902588-spider-man_vol_4_7_g%253fmez_variant_textless.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111126675/4767310-phlish.jpg" width="600" height="auto"/>
 </p>
 
-Takuya Yamashiro is the Spider-Man of Earth-51778. He was a motocross driver and son of the astrophysicist Dr. Hiroshi Yamashiro. In one of his races, Takuya received telepathic messages from the alien Garia, that lead him to investigate a crashed Ufo, the Marveller. The incident attracted the villain Dr. Monster and his Iron Cross Army. Takuya recieved a transfusion of blood from the alien Garia, and recieved spider-like powers to began a fight against the Iron Cross Army.
+Philsh worked with Jesse Alexander and Titus as a member of the black-domed Novas. Phlish was created by Jeph Loeb and Ed McGuinness, first appearing in Nova #1 during a flashback sequence. While escaping from the Chitauri at the edge of the Milky Way Galaxy, Jesse left his fellow Corpsmen to witness the birth of his son. After he had gone, Phlish was shot and killed by a member of the Chitauri.
 
-**First Appearance:** Bōkenō #197806 (6/1/1978)
+**First Appearance:** Nova #1 (4/30/2013)
 
-[Character Details](https://comicvine.gamespot.com/takuya-yamashiro/4005-111897/)
+[Character Details](https://comicvine.gamespot.com/phlish/4005-121894/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
