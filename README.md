@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Phlish
+## Claire Parker
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111126675/4767310-phlish.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11170/111705043/8704719-claire001.jpg" width="600" height="auto"/>
 </p>
 
-Philsh worked with Jesse Alexander and Titus as a member of the black-domed Novas. Phlish was created by Jeph Loeb and Ed McGuinness, first appearing in Nova #1 during a flashback sequence. While escaping from the Chitauri at the edge of the Milky Way Galaxy, Jesse left his fellow Corpsmen to witness the birth of his son. After he had gone, Phlish was shot and killed by a member of the Chitauri.
+Claire Parker was born, alongside her twin brother Benjamin, to Peter and Mary Jane Watson in 1984 while her father was trapped on Battleworld with most of Earth's heroes and villains during the events of Secret Wars. Though Peter eventually returned, Claire's earliest days were fraught with turmoil as her father's dependence on the alien symbiote he had brought back from Battleworld was growing ever stronger, creating an ever-growing rift between her parents.
 
-**First Appearance:** Nova #1 (4/30/2013)
+**First Appearance:** Spider-Man: Life Story #3 (7/1/2019)
 
-[Character Details](https://comicvine.gamespot.com/phlish/4005-121894/)
+[Character Details](https://comicvine.gamespot.com/claire-parker/4005-179652/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
