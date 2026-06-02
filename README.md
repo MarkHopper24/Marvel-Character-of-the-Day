@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Aldvi
+## Azoth
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/5344/2996960-aldvi%2001.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/77/1054553-azothcon1.jpg" width="600" height="auto"/>
 </p>
 
-Aldvi is one of the ancient and mythical Doom Maidens, specifically the Doom Maiden of Deceit. The Doom Maidens were savage berserk Valkyries who terrorized many ancient lands before being neutralized by the Asgardian All Father Odin. Aldvi is a Marvel character created by Cullen Bunn, Will Sliney and Veronica Gandini, first appearing in Fearless Defenders #3 released in 2013.
+In the distant past, before man first crawled from the slime, Azoth was a god on Earth. In battle with another god, Azoth's horn was torn from his brow by another god. Azoth's body died, petrifying and forming what would become known as Azoth's peak, in what would become Zamora in the Hyborian era.
 
-**First Appearance:** Fearless Defenders #3 (6/1/2013)
+**First Appearance:** Conan the Barbarian: The Horn of Azoth #1 (1/1/1990)
 
-[Character Details](https://comicvine.gamespot.com/aldvi/4005-88608/)
+[Character Details](https://comicvine.gamespot.com/azoth/4005-34854/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
