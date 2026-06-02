@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Sister Maria De La Joya
+## Aldvi
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/10/109227/2636369-1655414_uncanny_x_men__1963__327_super.jpeg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/5344/2996960-aldvi%2001.jpg" width="600" height="auto"/>
 </p>
 
-Sister Maria was a nun in Guatemalan that runned an orphanage whom, for months, looked after an amnesic Joseph, better known as Magneto ´s clone. Joseph stayed with sister Maria and the orphans, whom took a liking to Joseph very soon. Sister Maria specifically became very close with Joseph. This all changed when Sister Maria was threatened by a local industrialist, whom wanted to tear down her orphanage. Joseph interveaned, but this resulted in the deaths of many of the industrialist's hired mussle. Joseph was then asked to leave their ground, since the children had grown scarred of him. With Joseph gone, Maria found an article witch stated mutants.
+Aldvi is one of the ancient and mythical Doom Maidens, specifically the Doom Maiden of Deceit. The Doom Maidens were savage berserk Valkyries who terrorized many ancient lands before being neutralized by the Asgardian All Father Odin. Aldvi is a Marvel character created by Cullen Bunn, Will Sliney and Veronica Gandini, first appearing in Fearless Defenders #3 released in 2013.
 
-**First Appearance:** The Uncanny X-Men #327 (12/1/1995)
+**First Appearance:** Fearless Defenders #3 (6/1/2013)
 
-[Character Details](https://comicvine.gamespot.com/sister-maria-de-la-joya/4005-24388/)
+[Character Details](https://comicvine.gamespot.com/aldvi/4005-88608/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
