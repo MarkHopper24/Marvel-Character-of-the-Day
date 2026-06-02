@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Azoth
+## Freak
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/77/1054553-azothcon1.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/9558553-rco042_1710939899.jpg" width="600" height="auto"/>
 </p>
 
-In the distant past, before man first crawled from the slime, Azoth was a god on Earth. In battle with another god, Azoth's horn was torn from his brow by another god. Azoth's body died, petrifying and forming what would become known as Azoth's peak, in what would become Zamora in the Hyborian era.
+Peter heads over to the shelter to help out Aunt May. While he's there, the junkie known as Freak steals the donation box. Peter says he'll go after him and then changes into Spider-Man. He gets Freak cornered on a rooftop but the donation box falls. When Spider-Man jumps down to try to gather the money before the crowd grabs it all, a couple of police officers show up. He leaves the money and takes off.
 
-**First Appearance:** Conan the Barbarian: The Horn of Azoth #1 (1/1/1990)
+**First Appearance:** Iron Man: The Legend #1 (9/1/1996)
 
-[Character Details](https://comicvine.gamespot.com/azoth/4005-34854/)
+[Character Details](https://comicvine.gamespot.com/freak/4005-49968/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
