@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Freak
+## Isabel St. Ives
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/9558553-rco042_1710939899.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11125/111254576/5153443-nemesis_alpha_flight_h1.jpg" width="600" height="auto"/>
 </p>
 
-Peter heads over to the shelter to help out Aunt May. While he's there, the junkie known as Freak steals the donation box. Peter says he'll go after him and then changes into Spider-Man. He gets Freak cornered on a rooftop but the donation box falls. When Spider-Man jumps down to try to gather the money before the crowd grabs it all, a couple of police officers show up. He leaves the money and takes off.
+There have been 3 characters named Nemesis with the same outfit and powers. For the second Nemesis, go to Jane Thorne. For the third Nemesis, go to Nemesis. Isabel St. Ives, witnessed her father, a gangster named Deadly Ernest, accidentally killing her mother. She swore to avenge her mother, and used science and magic to create the sword. She was later inspired by the superhero group known as Alpha Flight to become a superhero as well. She made herself a startling costume and named herself Nemesis, hoping to take on her father.
 
-**First Appearance:** Iron Man: The Legend #1 (9/1/1996)
+**First Appearance:** Alpha Flight #8 (3/1/1984)
 
-[Character Details](https://comicvine.gamespot.com/freak/4005-49968/)
+[Character Details](https://comicvine.gamespot.com/isabel-st-ives/4005-125249/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
