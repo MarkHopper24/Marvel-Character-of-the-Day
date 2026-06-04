@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Isabel St. Ives
+## Benjamin Deeds
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11125/111254576/5153443-nemesis_alpha_flight_h1.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11161/111612243/9710214-0598359206-latest.jpg" width="600" height="auto"/>
 </p>
 
-There have been 3 characters named Nemesis with the same outfit and powers. For the second Nemesis, go to Jane Thorne. For the third Nemesis, go to Nemesis. Isabel St. Ives, witnessed her father, a gangster named Deadly Ernest, accidentally killing her mother. She swore to avenge her mother, and used science and magic to create the sword. She was later inspired by the superhero group known as Alpha Flight to become a superhero as well. She made herself a startling costume and named herself Nemesis, hoping to take on her father.
+Following the aftermath of the Avenger's vs. X-Men, and later their team-up against the Phoenix Force and its subsequent "destruction", new mutants began to appear all across the world. This was largely due in part to the efforts of both Hope Summers and the recently resurfaced Scarlet Witch, with Wanda desiring to undo the damage she had caused by triggering the mass depowering of a majority of Earth's mutant population, known as both " M-Day " and "Decimation."
 
-**First Appearance:** Alpha Flight #8 (3/1/1984)
+**First Appearance:** All-New X-Men #3 (2/6/2013)
 
-[Character Details](https://comicvine.gamespot.com/isabel-st-ives/4005-125249/)
+[Character Details](https://comicvine.gamespot.com/benjamin-deeds/4005-86836/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
