@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Benjamin Deeds
+## Slice
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11161/111612243/9710214-0598359206-latest.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/9679238-09.jpg" width="600" height="auto"/>
 </p>
 
-Following the aftermath of the Avenger's vs. X-Men, and later their team-up against the Phoenix Force and its subsequent "destruction", new mutants began to appear all across the world. This was largely due in part to the efforts of both Hope Summers and the recently resurfaced Scarlet Witch, with Wanda desiring to undo the damage she had caused by triggering the mass depowering of a majority of Earth's mutant population, known as both " M-Day " and "Decimation."
+Slice debuted in All-New Venom #2 by Al Ewing and Carlos Gomez Guardsman Armor: Slice wears green guardsman armor Energy Weapon: His right gauntlet has an energy sawblade. Tentacles: When Doc Ock takes over SCAR, he outfits the field agents with robotic arms just like his.
 
-**First Appearance:** All-New X-Men #3 (2/6/2013)
+**First Appearance:** All-New Venom #2 (3/1/2025)
 
-[Character Details](https://comicvine.gamespot.com/benjamin-deeds/4005-86836/)
+[Character Details](https://comicvine.gamespot.com/slice/4005-194549/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
