@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Slice
+## Fraktur
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/9679238-09.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/9241/623319-004.jpg" width="600" height="auto"/>
 </p>
 
-Slice debuted in All-New Venom #2 by Al Ewing and Carlos Gomez Guardsman Armor: Slice wears green guardsman armor Energy Weapon: His right gauntlet has an energy sawblade. Tentacles: When Doc Ock takes over SCAR, he outfits the field agents with robotic arms just like his.
+After the destruction of the Nova Corps by the Annihilation Wave, the Xandarian Worldmind secretly sought out new recruits during Richard Rider 's sleep hours. Fraktur, a being from the planet Kakaranthara, was among those first selected to be a new Nova Centurion. Soon after her selection, the Worldmind transmitted an emergency signal as the result of nearly being destroyed by Galactus. Fraktur joined with the four other Centurions to have been selected thus far -- Irani Rael, Qubit, Morrow and Malik Tarcel -- and tracked down the Worldmind's signal.
 
-**First Appearance:** All-New Venom #2 (3/1/2025)
+**First Appearance:** Nova #18 (12/1/2008)
 
-[Character Details](https://comicvine.gamespot.com/slice/4005-194549/)
+[Character Details](https://comicvine.gamespot.com/fraktur/4005-58627/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
