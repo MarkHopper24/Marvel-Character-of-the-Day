@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Randall
+## Neal Richmond
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/77/197148-54839-randall.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11/117763/3406714-exiles07711.jpg" width="600" height="auto"/>
 </p>
 
-Randall was a member of Xavier's Security Enforcers, along with Bishop, Malcolm, and many others from The Days of Future Past Timeline (Earth-1191). He traveled back in time to stop Trevor Fitzroy (and as later retconned, Hope Summers), but he lost his life before he could complete his mission.
+The boy who would become Neal Richmond was in fact the son of Nighthawk 's enemy The Huckster. After Huckster died, Nighthawk discovered he had left behind an orphaned son whom he felt responsible for and adopted to raise as his own. Growing up, Neal was taught many of Nighthawk's special skills and after Foxfire killed Nighthawk, Neal decided to honor his adoptive father by becoming the new Nighthawk.
 
-**First Appearance:** The Uncanny X-Men #282 (11/1/1991)
+**First Appearance:** Squadron Supreme: New World Order #1 (9/30/1998)
 
-[Character Details](https://comicvine.gamespot.com/randall/4005-6050/)
+[Character Details](https://comicvine.gamespot.com/neal-richmond/4005-86800/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
