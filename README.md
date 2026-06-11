@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Neal Richmond
+## Whitey
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11/117763/3406714-exiles07711.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/578370-aelfyre.jpg" width="600" height="auto"/>
 </p>
 
-The boy who would become Neal Richmond was in fact the son of Nighthawk 's enemy The Huckster. After Huckster died, Nighthawk discovered he had left behind an orphaned son whom he felt responsible for and adopted to raise as his own. Growing up, Neal was taught many of Nighthawk's special skills and after Foxfire killed Nighthawk, Neal decided to honor his adoptive father by becoming the new Nighthawk.
+Aelfyre Whitemane, dubbed Whitey, was a Kymellian xenologist who fell in love with Earth's culture. This was what moved him to try and stop James Power from creating an Anti-matter Device. A similar device had been used on Kymellia and had resulted in the destruction of the entire planet. Ignoring the Kymellian law of non-interference, Aelfyre travelled to Earth to stop Dr. Power’s experiment. He arrived only to find that the Z'nrx already had plans for the formula. (An anti-matter device had destroyed the Z'nrx home world as well). During this time he was mortally wounded.
 
-**First Appearance:** Squadron Supreme: New World Order #1 (9/30/1998)
+**First Appearance:** Power Pack #1 (8/1/1984)
 
-[Character Details](https://comicvine.gamespot.com/neal-richmond/4005-86800/)
+[Character Details](https://comicvine.gamespot.com/whitey/4005-14421/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
