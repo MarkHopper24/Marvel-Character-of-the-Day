@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Whitey
+## Zach
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/578370-aelfyre.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11161/111612243/9572311-8634054482-latest.jpg" width="600" height="auto"/>
 </p>
 
-Aelfyre Whitemane, dubbed Whitey, was a Kymellian xenologist who fell in love with Earth's culture. This was what moved him to try and stop James Power from creating an Anti-matter Device. A similar device had been used on Kymellia and had resulted in the destruction of the entire planet. Ignoring the Kymellian law of non-interference, Aelfyre travelled to Earth to stop Dr. Power’s experiment. He arrived only to find that the Z'nrx already had plans for the formula. (An anti-matter device had destroyed the Z'nrx home world as well). During this time he was mortally wounded.
+Zach's mutant power is the ability to control, generate and alternate various energy signatures, both in inanimate objects and in people. At first he had vary little control over this ability. Often randomly supercharging any and all electrical appliances around him to the point of self-destruction. This also had the effect of amplifying mutant powers to uncontrollable levels as was the case with Kathrine and Bobby when the two went to pick him up. With tutelage under Daken however, he would eventually learn to properly channel his powers in new ways other than just randomly affecting power output.
 
-**First Appearance:** Power Pack #1 (8/1/1984)
+**First Appearance:** Iceman #2 (8/31/2017)
 
-[Character Details](https://comicvine.gamespot.com/whitey/4005-14421/)
+[Character Details](https://comicvine.gamespot.com/zach/4005-144575/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
