@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Zach
+## Thane
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11161/111612243/9572311-8634054482-latest.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11137/111372245/6780639-thane.jpg" width="600" height="auto"/>
 </p>
 
-Zach's mutant power is the ability to control, generate and alternate various energy signatures, both in inanimate objects and in people. At first he had vary little control over this ability. Often randomly supercharging any and all electrical appliances around him to the point of self-destruction. This also had the effect of amplifying mutant powers to uncontrollable levels as was the case with Kathrine and Bobby when the two went to pick him up. With tutelage under Daken however, he would eventually learn to properly channel his powers in new ways other than just randomly affecting power output.
+In a hidden Inhuman city, Thane was known as The Healer, and used his powers to help the sick and poorly. Thane's true nature was revealed when Black Bolt activated the Terrigen Bomb during his fight with Thanos, leading to wide-spread mutations across Earth. As this happened however, his people were killed in the process due to his powers activating uncontrollably.
 
-**First Appearance:** Iceman #2 (8/31/2017)
+**First Appearance:** New Avengers #10 (11/30/2013)
 
-[Character Details](https://comicvine.gamespot.com/zach/4005-144575/)
+[Character Details](https://comicvine.gamespot.com/thane/4005-92620/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
