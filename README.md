@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Thane
+## Roko
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11137/111372245/6780639-thane.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/11352/418558-roko.jpg" width="600" height="auto"/>
 </p>
 
-In a hidden Inhuman city, Thane was known as The Healer, and used his powers to help the sick and poorly. Thane's true nature was revealed when Black Bolt activated the Terrigen Bomb during his fight with Thanos, leading to wide-spread mutations across Earth. As this happened however, his people were killed in the process due to his powers activating uncontrollably.
+Lon Crag was a high school art student and a great patriot. One day Lon was drawing a picture of Menelaos of greek legend When the picture comes to life and grants him one wish. Lon wishes to be a "great and good hero". Now whenever Lon says, "Illium" he gains the wisdom of Ulysses, battle-prowess of Agamemnon, and the invulnerability and weakness of Achilles. Lon also, has super-strength, able to fly, and carries a red triskelion shield.
 
-**First Appearance:** New Avengers #10 (11/30/2013)
+**First Appearance:** USA Comics #5 (7/31/1942)
 
-[Character Details](https://comicvine.gamespot.com/thane/4005-92620/)
+[Character Details](https://comicvine.gamespot.com/roko/4005-55788/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
