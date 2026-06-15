@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Roko
+## Elisa Warsame
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/11352/418558-roko.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9000641-elisawarsame.jpg" width="600" height="auto"/>
 </p>
 
-Lon Crag was a high school art student and a great patriot. One day Lon was drawing a picture of Menelaos of greek legend When the picture comes to life and grants him one wish. Lon wishes to be a "great and good hero". Now whenever Lon says, "Illium" he gains the wisdom of Ulysses, battle-prowess of Agamemnon, and the invulnerability and weakness of Achilles. Lon also, has super-strength, able to fly, and carries a red triskelion shield.
+Psiquiatrist who was hired by Marc Spector for mental asistance. She was paid her fee in advance. She told him he was brain damage. Her theory is his brain has conjured his different personalities to explain what happened to him. He is not insane. His brain has been colonized by an ancient consciousness from beyond space-time.
 
-**First Appearance:** USA Comics #5 (7/31/1942)
+**First Appearance:** Moon Knight #1 (5/31/2014)
 
-[Character Details](https://comicvine.gamespot.com/roko/4005-55788/)
+[Character Details](https://comicvine.gamespot.com/elisa-warsame/4005-109749/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
