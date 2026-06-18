@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Lifeform
+## Centurius
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/8/84205/3362378-538844-l4.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15659/1876194-centurius_by_declan_shalvey.jpg" width="600" height="auto"/>
 </p>
 
-George Prufrock was doing what he always did, trying to earn his father's love and respect. He was hired by A. I. M. to steal the Programma Virus from Programma labs in upstate New York. During his attempt he was discovered by the compound's security and tried to flee. However, as he made his escape, he was accidentally infected with the virus he was so desperately trying to steal. The infection was instantaneous. Within seconds George started to transform into what would become known as Lifeform.
+A Nobel Prize winner in the 1930's, Dr. Noah Black, soon thereafter vanished from sight. Angry at having been censured for his ideas about the origin of life. Black believed that life evolved from "internuclear space", that each atom was "a sub-miniature solar system." To prove his point, Black moved to an isolated Pacific island he dubbed Valhalla to conduct his research. There, he developed the Evolutionizer, a device that he used, not only to keep himself young, but to accelerate his own evolution.
 
-**First Appearance:** The Punisher Annual #3 (6/18/1990)
+**First Appearance:** Nick Fury, Agent of SHIELD #2 (7/1/1968)
 
-[Character Details](https://comicvine.gamespot.com/lifeform/4005-29038/)
+[Character Details](https://comicvine.gamespot.com/centurius/4005-50738/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
