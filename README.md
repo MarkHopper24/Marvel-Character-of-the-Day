@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Centurius
+## Leonard Gary
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15659/1876194-centurius_by_declan_shalvey.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11158/111583675/8474020-350.jpg" width="600" height="auto"/>
 </p>
 
-A Nobel Prize winner in the 1930's, Dr. Noah Black, soon thereafter vanished from sight. Angry at having been censured for his ideas about the origin of life. Black believed that life evolved from "internuclear space", that each atom was "a sub-miniature solar system." To prove his point, Black moved to an isolated Pacific island he dubbed Valhalla to conduct his research. There, he developed the Evolutionizer, a device that he used, not only to keep himself young, but to accelerate his own evolution.
+Leonard was a black mutant from Mississippi who grew up surrounded by prejudice. He became a history teacher and then a politician to try and make life better for others like him. He became a friend to Beast and opposed Robert Kelly's attempt to legislate against mutants.
 
-**First Appearance:** Nick Fury, Agent of SHIELD #2 (7/1/1968)
+**First Appearance:** Secret Avengers #13 (7/1/2011)
 
-[Character Details](https://comicvine.gamespot.com/centurius/4005-50738/)
+[Character Details](https://comicvine.gamespot.com/leonard-gary/4005-176877/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
