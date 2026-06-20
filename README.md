@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Leonard Gary
+## Cole North
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11158/111583675/8474020-350.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/7009336-cole_north_%28earth-616%29_from_daredevil_vol_6_1_001.png" width="600" height="auto"/>
 </p>
 
-Leonard was a black mutant from Mississippi who grew up surrounded by prejudice. He became a history teacher and then a politician to try and make life better for others like him. He became a friend to Beast and opposed Robert Kelly's attempt to legislate against mutants.
+Cole North was a cop in Chicago. While chasing a drug dealer, he drew his weapon and accidentally shot a teenager who heard a commotion and was recording with his phone. The teen lived, but Cole had to go through investigations and accountability. He ended up accepting a transfer to the NYPD for a fresh start. While there, he demanded the least dirty cop as a partner. He got Fred Higgins, who wasn’t perfect but the best the NYPD could give him.
 
-**First Appearance:** Secret Avengers #13 (7/1/2011)
+**First Appearance:** Daredevil #2 (4/1/2019)
 
-[Character Details](https://comicvine.gamespot.com/leonard-gary/4005-176877/)
+[Character Details](https://comicvine.gamespot.com/cole-north/4005-157229/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
