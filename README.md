@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Cole North
+## Heater
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/7009336-cole_north_%28earth-616%29_from_daredevil_vol_6_1_001.png" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/9679239-12%281%29.jpg" width="600" height="auto"/>
 </p>
 
-Cole North was a cop in Chicago. While chasing a drug dealer, he drew his weapon and accidentally shot a teenager who heard a commotion and was recording with his phone. The teen lived, but Cole had to go through investigations and accountability. He ended up accepting a transfer to the NYPD for a fresh start. While there, he demanded the least dirty cop as a partner. He got Fred Higgins, who wasn’t perfect but the best the NYPD could give him.
+Heater debuted in All-New Venom #2 by Al Ewing and Carlos Gomez Guardsman Armor: Heater wears green guardsman armor Energy Weapon: Her right gauntlet has an energy cannon. Tentacles: When Doc Ock takes over SCAR, he outfits the field agents with robotic arms just like his.
 
-**First Appearance:** Daredevil #2 (4/1/2019)
+**First Appearance:** All-New Venom #2 (3/1/2025)
 
-[Character Details](https://comicvine.gamespot.com/cole-north/4005-157229/)
+[Character Details](https://comicvine.gamespot.com/heater/4005-194550/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
