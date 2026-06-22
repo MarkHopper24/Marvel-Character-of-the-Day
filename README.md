@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Heater
+## Kalie Gocking
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/9679239-12%281%29.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/5492228-kalie.jpg" width="600" height="auto"/>
 </p>
 
-Heater debuted in All-New Venom #2 by Al Ewing and Carlos Gomez Guardsman Armor: Heater wears green guardsman armor Energy Weapon: Her right gauntlet has an energy cannon. Tentacles: When Doc Ock takes over SCAR, he outfits the field agents with robotic arms just like his.
+Kalie Gocking is the daughter of Porcupine (Roger Gocking) and Olivia Gocking. She and her mother ended up being "kidnapped" due to their connection to Roger as Porcupine, but it turned out that her mother was faking it and was manipulating Roger. Kalie then would spend time with Roger on weekends and would sometimes see Spider-Woman (Jessica Drew) and her son, Gerry Drew.
 
-**First Appearance:** All-New Venom #2 (3/1/2025)
+**First Appearance:** Spider-Woman #5 (5/31/2015)
 
-[Character Details](https://comicvine.gamespot.com/heater/4005-194550/)
+[Character Details](https://comicvine.gamespot.com/kalie-gocking/4005-133684/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
