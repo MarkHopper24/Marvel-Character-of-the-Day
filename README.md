@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Kalie Gocking
+## Frankensurfer
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/5492228-kalie.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11/117763/2414523-marvel_masterworks_the_silver_surfer__tpb__bchry_dcp_v2___page_34.jpg" width="600" height="auto"/>
 </p>
 
-Kalie Gocking is the daughter of Porcupine (Roger Gocking) and Olivia Gocking. She and her mother ended up being "kidnapped" due to their connection to Roger as Porcupine, but it turned out that her mother was faking it and was manipulating Roger. Kalie then would spend time with Roger on weekends and would sometimes see Spider-Woman (Jessica Drew) and her son, Gerry Drew.
+Ludwig Frankenstein made a monster using the Silver Surfer as a model and duplicated all of the Surfer's powers onto an empty body. The result was a murderous slave with the Power Cosmic and his own silver surfboard. After devastating Earth and terrorising Frankenstein's enemies, Frankensurfer was defeated by the real Silver Surfer.
 
-**First Appearance:** Spider-Woman #5 (5/31/2015)
+**First Appearance:** The Silver Surfer #7 (8/31/1969)
 
-[Character Details](https://comicvine.gamespot.com/kalie-gocking/4005-133684/)
+[Character Details](https://comicvine.gamespot.com/frankensurfer/4005-84299/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
