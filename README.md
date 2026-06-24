@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Frankensurfer
+## Mittens
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11/117763/2414523-marvel_masterworks_the_silver_surfer__tpb__bchry_dcp_v2___page_34.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/13/135098/10013894-2282589-sm518%281%29.jpg" width="600" height="auto"/>
 </p>
 
-Ludwig Frankenstein made a monster using the Silver Surfer as a model and duplicated all of the Surfer's powers onto an empty body. The result was a murderous slave with the Power Cosmic and his own silver surfboard. After devastating Earth and terrorising Frankenstein's enemies, Frankensurfer was defeated by the real Silver Surfer.
+Mittens was a rescue pup at Best Buddy Shelter in New York City. Her favorite chew toy was a Captain America crew toy. Mittens life was not truly complete until she met Kamala Khan, was adopted and taken to Avengers Mansion where she met the other Marvel Mutts, Lockjaw, Bats, Lucky and Cosmo.
 
-**First Appearance:** The Silver Surfer #7 (8/31/1969)
+**First Appearance:** Marvel Mutts Infinity Comic  #1 (12/1/2023)
 
-[Character Details](https://comicvine.gamespot.com/frankensurfer/4005-84299/)
+[Character Details](https://comicvine.gamespot.com/mittens/4005-187087/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
