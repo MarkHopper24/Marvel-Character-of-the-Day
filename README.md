@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Mittens
+## Skip Collins
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/13/135098/10013894-2282589-sm518%281%29.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/3/35816/768582-sk.jpg" width="600" height="auto"/>
 </p>
 
-Mittens was a rescue pup at Best Buddy Shelter in New York City. Her favorite chew toy was a Captain America crew toy. Mittens life was not truly complete until she met Kamala Khan, was adopted and taken to Avengers Mansion where she met the other Marvel Mutts, Lockjaw, Bats, Lucky and Cosmo.
+L. R. Skip Collins was a soilder who was at the Nevada atomic bomb detenation site (where after it was tested) devolped an odd " buzzing " in the back of his skull. In the following years he could bring his subconscious desires to reality even though he was totally unaware of it. He once restored New York City after a devastating earthquake, due to Ego, the Living Planet approaching Earth. After this feat his "buzzing" disappeared,maybe his powers too.
 
-**First Appearance:** Marvel Mutts Infinity Comic  #1 (12/1/2023)
+**First Appearance:** Fantastic Four #234 (9/30/1981)
 
-[Character Details](https://comicvine.gamespot.com/mittens/4005-187087/)
+[Character Details](https://comicvine.gamespot.com/skip-collins/4005-61474/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
