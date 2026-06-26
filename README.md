@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Skip Collins
+## Argog
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/3/35816/768582-sk.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11/117763/3272617-argog.jpg" width="600" height="auto"/>
 </p>
 
-L. R. Skip Collins was a soilder who was at the Nevada atomic bomb detenation site (where after it was tested) devolped an odd " buzzing " in the back of his skull. In the following years he could bring his subconscious desires to reality even though he was totally unaware of it. He once restored New York City after a devastating earthquake, due to Ego, the Living Planet approaching Earth. After this feat his "buzzing" disappeared,maybe his powers too.
+Argog was an Asgardian warrior who used a variety of weapons. He fought against Daken during Siege. After the two had exchanged a few blows, Daken relented and instead offered to switch sides and help Argog and the Asgardians kill Norman Osborn. Argog was abruptly killed by Osborn who decapitated him with a repulsor blast from his Iron Patriot armor. With his "accomplice" down, Daken grabbed Argog's head from the ground and hurled it as a projectile at another attacking God.
 
-**First Appearance:** Fantastic Four #234 (9/30/1981)
+**First Appearance:** Dark Wolverine #82 (3/1/2010)
 
-[Character Details](https://comicvine.gamespot.com/skip-collins/4005-61474/)
+[Character Details](https://comicvine.gamespot.com/argog/4005-91951/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
