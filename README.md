@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Argog
+## Thought Master
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11/117763/3272617-argog.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/4/48250/930345-thought_master.jpg" width="600" height="auto"/>
 </p>
 
-Argog was an Asgardian warrior who used a variety of weapons. He fought against Daken during Siege. After the two had exchanged a few blows, Daken relented and instead offered to switch sides and help Argog and the Asgardians kill Norman Osborn. Argog was abruptly killed by Osborn who decapitated him with a repulsor blast from his Iron Patriot armor. With his "accomplice" down, Daken grabbed Argog's head from the ground and hurled it as a projectile at another attacking God.
+The Yellow Claw, ever seeking ways to gain power, used a brain-wave detector and found the very powerful brain-waves of Barnaby Wade is Riverdale. Wade had made a giant chicken and a cat sized elephant with his mind. Wade told Yellow Claw that he could create anything that came to mind with his thoughts, but it always weakened him. The Yellow Claw convinced him to partner with him.
 
-**First Appearance:** Dark Wolverine #82 (3/1/2010)
+**First Appearance:** Yellow Claw #4 (4/1/1957)
 
-[Character Details](https://comicvine.gamespot.com/argog/4005-91951/)
+[Character Details](https://comicvine.gamespot.com/thought-master/4005-65373/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
