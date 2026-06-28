@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Thought Master
+## Trenton Craft
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/4/48250/930345-thought_master.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/2/25521/743448-trenton9.jpg" width="600" height="auto"/>
 </p>
 
-The Yellow Claw, ever seeking ways to gain power, used a brain-wave detector and found the very powerful brain-waves of Barnaby Wade is Riverdale. Wade had made a giant chicken and a cat sized elephant with his mind. Wade told Yellow Claw that he could create anything that came to mind with his thoughts, but it always weakened him. The Yellow Claw convinced him to partner with him.
+A test subject for the USA's Super-Soldier Program during World War II, Trenton Craft received treatments that gave him vast telekinetic powers. Outfitted as Colonel America, Craft was first deployed to Yokohama, Japan in 1944; he lost control of his powers, devastating the island and its entire population.
 
-**First Appearance:** Yellow Claw #4 (4/1/1957)
+**First Appearance:** Marvel Comics Presents #1 (9/30/2007)
 
-[Character Details](https://comicvine.gamespot.com/thought-master/4005-65373/)
+[Character Details](https://comicvine.gamespot.com/trenton-craft/4005-39511/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
