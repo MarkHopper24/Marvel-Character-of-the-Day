@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Isbisa
+## Colonel Myrdden
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/77/135711-110444-isbisa.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/7/79073/9959866-colonelmyrdden.jpg" width="600" height="auto"/>
 </p>
 
-Prior to beginning his career as a criminal, Simon Meke was an assistant at a New York museum. It was there that he became inspired to develop his criminal identity based on the stages of man. Isbisa standing in as an acronym for "Iron, Steel, Bronze, Ice, Stone, Atomic". As Isbisa, Meke started to develop a long term plan to steal an atomic bomb. Knowing that the All-Winners Squad would try and stop him, he vandalized the Ages of Man exhibit at the museum he worked at issuing a challenge to the All-Winners Squad with clues in each era. In order to distract the All-Winners he also planted the suggestion that Namor was somehow behind the plot.
+Colonel Myrdden was an unscrupulous mercenary who sold his magical abilities to the highest bidder, specializing in rapid theft operations. During one such job, he led a small team into Doctor Strange ’s Sanctum Sanctorum in the sorcerer’s absence, acting on behalf of an unidentified client with the objective of obtaining the Book of Morphesti. After securing the artifact, Myrdden made the critical mistake of activating it. The act left him physically immobilized and triggered a powerful spell that warped and mutated those caught within its influence. The resulting disturbance drew the attention of Spider-Man and Mr. Rasputin, who accompanied S. H. I. E. L. D.
 
-**First Appearance:** All-Winners Comics #19 (9/30/1946)
+**First Appearance:** S.H.I.E.L.D. #3 (4/30/2015)
 
-[Character Details](https://comicvine.gamespot.com/isbisa/4005-32495/)
+[Character Details](https://comicvine.gamespot.com/colonel-myrdden/4005-196407/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
