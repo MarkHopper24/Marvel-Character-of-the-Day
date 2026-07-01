@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Colonel Myrdden
+## Domo
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/7/79073/9959866-colonelmyrdden.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/8234806-domo_%28earth-616%29_from_eternals_vol_5_1_001.jpg" width="600" height="auto"/>
 </p>
 
-Colonel Myrdden was an unscrupulous mercenary who sold his magical abilities to the highest bidder, specializing in rapid theft operations. During one such job, he led a small team into Doctor Strange ’s Sanctum Sanctorum in the sorcerer’s absence, acting on behalf of an unidentified client with the objective of obtaining the Book of Morphesti. After securing the artifact, Myrdden made the critical mistake of activating it. The act left him physically immobilized and triggered a powerful spell that warped and mutated those caught within its influence. The resulting disturbance drew the attention of Spider-Man and Mr. Rasputin, who accompanied S. H. I. E. L. D.
+Domo was an Eternal and the administrator of affairs on Olympia. He answered directly to the elder Eternal Zuras and dispensed Zuras' commands to the other Eternals. Domo is a Marvel comics published character written and created by Jack Kirby. The character first appears in the first Eternals series, specifically The Eternals #1 - The Day of the Gods.
 
-**First Appearance:** S.H.I.E.L.D. #3 (4/30/2015)
+**First Appearance:** The Eternals #1 (7/31/1976)
 
-[Character Details](https://comicvine.gamespot.com/colonel-myrdden/4005-196407/)
+[Character Details](https://comicvine.gamespot.com/domo/4005-35504/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
