@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Kosmos
+## Tanalth
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/229/95282-23890-kosmos.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/5344/4291911-tanalth.jpg" width="600" height="auto"/>
 </p>
 
-After the Beyonder and the Molecule Man learned that their power derived from the dimension of an unrelated race of beings known as the Beyonders, which is responsible for the power of the Cosmic Cubes, they merged themselves together into a new Cube. Like all Cosmic Cubes, it eventually developed into a sentient being, after which it sent the Molecule Man's self back to Earth. This sentient being, which retained the Beyonder's essence and powers, took on a new female form, and called itself Kosmos.
+Tanalth is a Kree warrior who replaced Korath as leader of the Pursuer Corps. She is feared by her allies and enemies as well and has been praised by the Supreme Intelligence for her skill and making the Pursuers as powerful as the Kree Accuser Corps.
 
-**First Appearance:** Fantastic Four Annual #23 (8/1/1990)
+**First Appearance:** All-New Invaders #1 (3/31/2014)
 
-[Character Details](https://comicvine.gamespot.com/kosmos/4005-96218/)
+[Character Details](https://comicvine.gamespot.com/tanalth/4005-96404/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
