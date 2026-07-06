@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Tanalth
+## Commander Tar-Vash
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/5344/4291911-tanalth.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/3/37015/871511-tar_vash1.jpg" width="600" height="auto"/>
 </p>
 
-Tanalth is a Kree warrior who replaced Korath as leader of the Pursuer Corps. She is feared by her allies and enemies as well and has been praised by the Supreme Intelligence for her skill and making the Pursuers as powerful as the Kree Accuser Corps.
+Tar-Vash was a Kree military commander assigned with the stabilization of various border planets of the Kree Empire. He was eventually chosen by the Supreme Intelligence and Ronan the Accuser for mutation to the new Ruul form. The Kree mutated to Ruul could evolve their own bodies to adapt to new enviroments, effectively surviving in situations where a normal Kree would not.
 
-**First Appearance:** All-New Invaders #1 (3/31/2014)
+**First Appearance:** Defenders #8 (10/1/2001)
 
-[Character Details](https://comicvine.gamespot.com/tanalth/4005-96404/)
+[Character Details](https://comicvine.gamespot.com/commander-tar-vash/4005-17796/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
