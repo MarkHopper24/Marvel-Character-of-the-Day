@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Commander Tar-Vash
+## The Painter
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/3/37015/871511-tar_vash1.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/10/103503/5495307-painter.jpg" width="600" height="auto"/>
 </p>
 
-Tar-Vash was a Kree military commander assigned with the stabilization of various border planets of the Kree Empire. He was eventually chosen by the Supreme Intelligence and Ronan the Accuser for mutation to the new Ruul form. The Kree mutated to Ruul could evolve their own bodies to adapt to new enviroments, effectively surviving in situations where a normal Kree would not.
+The Painter was interregated by Karnak when he explained that he was given powers by Adam Roderick an Inhuman. The Painter himself seems to have some sort of telepathic abilities being able to read minds while also bringing other people into into their and his memories.
 
-**First Appearance:** Defenders #8 (10/1/2001)
+**First Appearance:** Karnak #5 (11/30/2016)
 
-[Character Details](https://comicvine.gamespot.com/commander-tar-vash/4005-17796/)
+[Character Details](https://comicvine.gamespot.com/the-painter/4005-133807/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
