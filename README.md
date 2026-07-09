@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## The Painter
+## Gro
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/10/103503/5495307-painter.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11/117763/3275355-gro.jpg" width="600" height="auto"/>
 </p>
 
-The Painter was interregated by Karnak when he explained that he was given powers by Adam Roderick an Inhuman. The Painter himself seems to have some sort of telepathic abilities being able to read minds while also bringing other people into into their and his memories.
+Not much is known about Gro, other than that she is a prostitute who hails from a foreign country and can only speak very basic English. She has a brother Cheslav, who himself is a hitman. Upon relocating to New York, Gro was hired almost daily by Parker Robbins.
 
-**First Appearance:** Karnak #5 (11/30/2016)
+**First Appearance:** The Hood #1 (7/1/2002)
 
-[Character Details](https://comicvine.gamespot.com/the-painter/4005-133807/)
+[Character Details](https://comicvine.gamespot.com/gro/4005-91974/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
