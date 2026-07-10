@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Gro
+## Felix Bruckner
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11/117763/3275355-gro.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11/110802/9579177-felixbrucknerdemon.jpg" width="600" height="auto"/>
 </p>
 
-Not much is known about Gro, other than that she is a prostitute who hails from a foreign country and can only speak very basic English. She has a brother Cheslav, who himself is a hitman. Upon relocating to New York, Gro was hired almost daily by Parker Robbins.
+Facing certain death from the cold and his wounds in Kaliningrad, Russia, Nazi hauptmann Felix Bruckner and his band encountered a bound demon. Promising them life eternal if they would set the demon free, Bruckner's superior was about to shoot the demon, declining the offer. However, Bruckner shot his superior from behind and told the demon he accepted his offer. The demon gave the remaining Nazis a portion of his power.
 
-**First Appearance:** The Hood #1 (7/1/2002)
+**First Appearance:** Hellhunters #1 (2/1/2025)
 
-[Character Details](https://comicvine.gamespot.com/gro/4005-91974/)
+[Character Details](https://comicvine.gamespot.com/felix-bruckner/4005-192857/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
