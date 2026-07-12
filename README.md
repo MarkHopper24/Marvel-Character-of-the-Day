@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Reader
+## Chair
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/10/100647/4408551-inhuman_4_preview_1.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/13/135098/4330856-chair.jpg" width="600" height="auto"/>
 </p>
 
-Reader is a mysterious Inhuman with a largely unknown past. In the present, he worked for the Ennilux Corporation tracking down new Inhumans and bringing them in so that Ennilux could help them learn how to use their powers, and set them up with a job and new life.
+Little is known about Chair's history. A member of the mutant hero team the Eccentrics, his teammates often worry about the demons that drive him in battle. He is known to be a loner and a rebel, and proud of it. There is an underlying fear among his compatriots that some day he may finally lose control of the monster within and destroy everything. However, they understand that he is his own man -- his own chair. Like the cheese, he stands alone.
 
-**First Appearance:** Inhuman #4 (10/31/2014)
+**First Appearance:** What The--?! #25 (7/1/1993)
 
-[Character Details](https://comicvine.gamespot.com/reader/4005-107115/)
+[Character Details](https://comicvine.gamespot.com/chair/4005-112278/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
