@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Queen Hydra
+## Doc
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11/117763/2493918-queenhydra3.png" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15659/4201580-doc-shanna_the_she-devil%232.jpg" width="600" height="auto"/>
 </p>
 
-Queen Hydra exists in the dream world constructed by Jimmy Jupiter and is married to Codename Bravo who took control of Jupiter's dream world and was responsible for creating her. She was the leader of HYDRA in this world and they devised a means to transport into the real world where she began leading a division of HYDRA.
+Doc got his medical degree at the University of Notre Dame, where he also served as the quarterback for the Fighting Irish. While working towards his degree, he served a clinical rotation in a Virginia prison where he saw some of the worst mankind had to offer when he an inmate slit another inmate's throat with a sharpened toothbrush like it was nothing.
 
-**First Appearance:** Captain America #2 (10/1/2011)
+**First Appearance:** Shanna, The She-Devil #1 (4/30/2005)
 
-[Character Details](https://comicvine.gamespot.com/queen-hydra/4005-80392/)
+[Character Details](https://comicvine.gamespot.com/doc/4005-109266/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
