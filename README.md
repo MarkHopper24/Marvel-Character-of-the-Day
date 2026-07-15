@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Doc
+## Moon Knight (Cassian)
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15659/4201580-doc-shanna_the_she-devil%232.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/9458542-large-1551897.jpg" width="600" height="auto"/>
 </p>
 
-Doc got his medical degree at the University of Notre Dame, where he also served as the quarterback for the Fighting Irish. While working towards his degree, he served a clinical rotation in a Virginia prison where he saw some of the worst mankind had to offer when he an inmate slit another inmate's throat with a sharpened toothbrush like it was nothing.
+Cassian was a peasant in 1200 CE, London, when a group of Crusaders came upon him. They had been recruiting men to join them, proclaiming loyalty to God and the King. Cassian didn't believe in either but was fine with a change of scenery. He sailed with them to North Africa and survived for three years at war. Sick of being at service to the rich, he abandoned his crew when they were in Egypt. After getting lost in a sandstorm, he found himself in the temple of Khonshu. He rejected that god to but was gifted a silver scarab if he changed his mind. He eventually traveled back to his platoon and their enemies slaughtered by Apocalypse.
 
-**First Appearance:** Shanna, The She-Devil #1 (4/30/2005)
+**First Appearance:** Phases of the Moon Knight #1 (10/1/2024)
 
-[Character Details](https://comicvine.gamespot.com/doc/4005-109266/)
+[Character Details](https://comicvine.gamespot.com/moon-knight-cassian/4005-190787/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
