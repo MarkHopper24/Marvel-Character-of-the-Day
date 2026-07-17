@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Tusk
+## Stryfe
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/7259220-tusk.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/9/96747/6854462-xforce6.jpg" width="600" height="auto"/>
 </p>
 
-The Swarm was kidnapped to experiment on three groups of insects that were exhibiting similar intelligence patterns to the hive of killer bees he bonded to. He was able to give them the organizational skills to keep a human form, but without a man's mind guiding it, they gave in to instinct and were easily manipulated by their master and Swarm's captor, Macrothrax.
+Scott Summers was dealing with the death of his true love, Jean Grey, when he found a new life with Madelyne Pryor. The two were married and had a child, Nathan Summers, who would go on to become Cable. Nathan was a child of prophecy - to bring an end to the evil known as Apocalypse. In reacting to this, Apocalypse infected the child with the Techno-Organic Virus, giving the child a death sentence. After the defeat of Apocalypse by the first incarnation of X-Factor at Apocalypse’s moon fortress, a stranger named Askani appeared before Scott and Jean (who had earlier reappeared alive and well, leading Scott to leave Madelyne).
 
-**First Appearance:** Ant-Man #1 (4/1/2020)
+**First Appearance:** Marvel Age #82 (12/1/1989)
 
-[Character Details](https://comicvine.gamespot.com/tusk/4005-161066/)
+[Character Details](https://comicvine.gamespot.com/stryfe/4005-7616/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
