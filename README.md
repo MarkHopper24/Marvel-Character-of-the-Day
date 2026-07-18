@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Stryfe
+## Morgan Erskine
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/9/96747/6854462-xforce6.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11140/111400575/7286877-capture%2B_2020-03-21-18-30-37.png" width="600" height="auto"/>
 </p>
 
-Scott Summers was dealing with the death of his true love, Jean Grey, when he found a new life with Madelyne Pryor. The two were married and had a child, Nathan Summers, who would go on to become Cable. Nathan was a child of prophecy - to bring an end to the evil known as Apocalypse. In reacting to this, Apocalypse infected the child with the Techno-Organic Virus, giving the child a death sentence. After the defeat of Apocalypse by the first incarnation of X-Factor at Apocalypse’s moon fortress, a stranger named Askani appeared before Scott and Jean (who had earlier reappeared alive and well, leading Scott to leave Madelyne).
+Presumably escaped from occupied Nazi Germany, Dr. Morgan Erskine, under the pretense that she's a scientist in the employ of the United States Army, was a Sorceress who utilized her knowledge of both magic and the science of her time to create the perfect Super Soldier to turn the tide of World War II.
 
-**First Appearance:** Marvel Age #82 (12/1/1989)
+**First Appearance:** Infinity Wars: Soldier Supreme #1 (11/1/2018)
 
-[Character Details](https://comicvine.gamespot.com/stryfe/4005-7616/)
+[Character Details](https://comicvine.gamespot.com/morgan-erskine/4005-161593/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
