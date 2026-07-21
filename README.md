@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Korgon
+## Manx
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/229/137677-165857-korgon.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/2/22955/1081982-manx.png" width="600" height="auto"/>
 </p>
 
-Harek Korgon was born an ordinary human at the end of the 1st millennium. He was in love with Valthjona, daughter of King Rothgar. Since her father would not consent to marriage, the two fled their village together. They were still fleeing when an irradiated meteorite crashed on Earth right next to them. Valthjona was instanty killed. Harek was blinded but survived. He was mutated by the effects, gaining superhuman strength and immunity to aging and diseases, virtual immortality. He also gained energy--based powers but they flunctuated constahntly through his life. Harek became leader of a small colony which remained isolated from the rest of the planet for a thousand years.
+The Manx were once Hellbent. In ancient times the Templar fear that the Hellbent would escape the Hellholes, so they took several Hellbent Prime and had them breed until the results were the Manx. A ferocious line of hunters who above all, searched for any escaped Hellbent and kill them upon sight.
 
-**First Appearance:** Fantastic Four #224 (11/30/1980)
+**First Appearance:** Marc Spector: Moon Knight #50 (5/1/1993)
 
-[Character Details](https://comicvine.gamespot.com/korgon/4005-33611/)
+[Character Details](https://comicvine.gamespot.com/manx/4005-23257/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
