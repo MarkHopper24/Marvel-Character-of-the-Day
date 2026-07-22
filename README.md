@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Manx
+## Hook
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/2/22955/1081982-manx.png" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11142/111423785/7775733-hookhellbent616.jpg" width="600" height="auto"/>
 </p>
 
-The Manx were once Hellbent. In ancient times the Templar fear that the Hellbent would escape the Hellholes, so they took several Hellbent Prime and had them breed until the results were the Manx. A ferocious line of hunters who above all, searched for any escaped Hellbent and kill them upon sight.
+Hook came to Seth's aid when he was defeated by Moon Knight. Taking him to an ancient hidden pyramid were the Hellbent Omega resided and he was more than willing to sacrifice his life-force for their leader before Agony step in and give her life willingly knowing she had fail the immortal.
 
-**First Appearance:** Marc Spector: Moon Knight #50 (5/1/1993)
+**First Appearance:** Marc Spector: Moon Knight #56 (11/1/1993)
 
-[Character Details](https://comicvine.gamespot.com/manx/4005-23257/)
+[Character Details](https://comicvine.gamespot.com/hook/4005-167183/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
