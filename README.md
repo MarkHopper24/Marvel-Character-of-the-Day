@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Hook
+## Ted Roberts
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11142/111423785/7775733-hookhellbent616.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/8/84205/3403301-1726052-ted_roberts6.jpg" width="600" height="auto"/>
 </p>
 
-Hook came to Seth's aid when he was defeated by Moon Knight. Taking him to an ancient hidden pyramid were the Hellbent Omega resided and he was more than willing to sacrifice his life-force for their leader before Agony step in and give her life willingly knowing she had fail the immortal.
+Ted Roberts went to Metro College along with Marvel Girl, Human Torch and Wyatt Wingfoot. Friend of Jean Grey and he possibly knows that she was Marvel Girl. He is also the brother of Cobalt Man. One of his close friends was Calvin Rankin (the Mimic). Ted was studying to become a psychologist. He was very active in college athletics, competing in running, pole vaulting and swimming events. At times setting new school records. He was driven by a need to escape the shadow of his older brother Ralph. Ted Roberts eventually met Marvel Girl in costume (#31, #34). Hinting at recognizing her as Jean Grey. This storyline was left unresolved.
 
-**First Appearance:** Marc Spector: Moon Knight #56 (11/1/1993)
+**First Appearance:** The X-Men #24 (9/1/1966)
 
-[Character Details](https://comicvine.gamespot.com/hook/4005-167183/)
+[Character Details](https://comicvine.gamespot.com/ted-roberts/4005-38498/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
