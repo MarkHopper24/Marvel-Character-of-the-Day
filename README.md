@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Dreadshadow
+## Derek Petrie
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/9868232-rco013_1755038322.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11129/111293013/6770341-derek_petrie_%28earth-616%29_from_new_excalibur_vol_1_23_li.jpg" width="600" height="auto"/>
 </p>
 
-Dreadshadow worked for S. H. I. E. L. D. before it fell. His daughter was killed by a mercenary named Enforcer. Years prior, Enforcer had fought Spider-Man and Wolverine. Spider-Man stopped Wolverine from killing him. The duo had him arrested instead. When he got out of prison, Enforcer returned to his violent ways, including killing Dreadshadow's daughter. When SHIELD fell, Dreadshadow got his hands on the Janus Directory, a hard drive of every double agent and their missions. It had proof that Spider-Man's parents were CIA agents with a history with Logan. He would plan to use that to manipulate the two heroes into killing each other.
+Derek Petrie joined the Shadow Captains when requested to by Albion (an alternative universe version of Captain Britain) The Shadow Captains and Excalibur fought, but Derek spent most of the battle under the possession of Excalibur's Nocturne, attacking his former leader in the process.
 
-**First Appearance:** Spider-Man & Wolverine #3 (9/1/2025)
+**First Appearance:** New Excalibur #23 (11/30/2007)
 
-[Character Details](https://comicvine.gamespot.com/dreadshadow/4005-195808/)
+[Character Details](https://comicvine.gamespot.com/derek-petrie/4005-154244/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
