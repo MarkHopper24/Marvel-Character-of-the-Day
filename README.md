@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Derek Petrie
+## Thane
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11129/111293013/6770341-derek_petrie_%28earth-616%29_from_new_excalibur_vol_1_23_li.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11137/111372245/6780639-thane.jpg" width="600" height="auto"/>
 </p>
 
-Derek Petrie joined the Shadow Captains when requested to by Albion (an alternative universe version of Captain Britain) The Shadow Captains and Excalibur fought, but Derek spent most of the battle under the possession of Excalibur's Nocturne, attacking his former leader in the process.
+In a hidden Inhuman city, Thane was known as The Healer, and used his powers to help the sick and poorly. Thane's true nature was revealed when Black Bolt activated the Terrigen Bomb during his fight with Thanos, leading to wide-spread mutations across Earth. As this happened however, his people were killed in the process due to his powers activating uncontrollably.
 
-**First Appearance:** New Excalibur #23 (11/30/2007)
+**First Appearance:** New Avengers #10 (11/30/2013)
 
-[Character Details](https://comicvine.gamespot.com/derek-petrie/4005-154244/)
+[Character Details](https://comicvine.gamespot.com/thane/4005-92620/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
