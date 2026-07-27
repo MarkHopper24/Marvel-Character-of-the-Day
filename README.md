@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Thane
+## Quickfire
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11137/111372245/6780639-thane.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/3/31666/3496250-barbara.jpg" width="600" height="auto"/>
 </p>
 
-In a hidden Inhuman city, Thane was known as The Healer, and used his powers to help the sick and poorly. Thane's true nature was revealed when Black Bolt activated the Terrigen Bomb during his fight with Thanos, leading to wide-spread mutations across Earth. As this happened however, his people were killed in the process due to his powers activating uncontrollably.
+After the destruction of Attilan, Barbara McDevitt discovered she was an Inhuman descendant. Her powers became active after she was exposed to the Terrigen Mists, a rite of passage central to Inhuman Culture and remained in a cocoon for weeks. Barbara's most prominent power is the ability to slow down time around a single target or object. She believes that with more focus and experience these new-found abilities could expand into slowing down time itself, freezing entire groups of people and multiple objects.
 
-**First Appearance:** New Avengers #10 (11/30/2013)
+**First Appearance:** Mighty Avengers #4 (2/1/2014)
 
-[Character Details](https://comicvine.gamespot.com/thane/4005-92620/)
+[Character Details](https://comicvine.gamespot.com/quickfire/4005-95237/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
