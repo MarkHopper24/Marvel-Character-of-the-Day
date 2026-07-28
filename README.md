@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Quickfire
+## American Kaiju
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/3/31666/3496250-barbara.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/5344/5136818-ak.jpg" width="600" height="auto"/>
 </p>
 
-After the destruction of Attilan, Barbara McDevitt discovered she was an Inhuman descendant. Her powers became active after she was exposed to the Terrigen Mists, a rite of passage central to Inhuman Culture and remained in a cocoon for weeks. Barbara's most prominent power is the ability to slow down time around a single target or object. She believes that with more focus and experience these new-found abilities could expand into slowing down time itself, freezing entire groups of people and multiple objects.
+Todd Ziller is a corporal in the United States army. When he was in college, he was in a philosophy class when his atheist professor dared God to smite him within 15 minutes. Just as the time limit ran out, Todd stood up and punched his professor in the face. This sense of character is what got the attention of Gen. Robert L. Maverick. Maverick was in charge of Project: Troubleshooter, an attempt at recreating Dr. Erskine ’s super soldier serum. The scientists involved used a number of transformative sciences including, gamma radiation, mutant growth hormone, pym particles, and Dr. Connors ’ lizard serum.
 
-**First Appearance:** Mighty Avengers #4 (2/1/2014)
+**First Appearance:** Avengers #0 (12/31/2015)
 
-[Character Details](https://comicvine.gamespot.com/quickfire/4005-95237/)
+[Character Details](https://comicvine.gamespot.com/american-kaiju/4005-127836/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
