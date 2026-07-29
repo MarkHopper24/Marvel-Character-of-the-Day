@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## American Kaiju
+## Rūna
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/5344/5136818-ak.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11184/111843102/9458510-runa03.jpg" width="600" height="auto"/>
 </p>
 
-Todd Ziller is a corporal in the United States army. When he was in college, he was in a philosophy class when his atheist professor dared God to smite him within 15 minutes. Just as the time limit ran out, Todd stood up and punched his professor in the face. This sense of character is what got the attention of Gen. Robert L. Maverick. Maverick was in charge of Project: Troubleshooter, an attempt at recreating Dr. Erskine ’s super soldier serum. The scientists involved used a number of transformative sciences including, gamma radiation, mutant growth hormone, pym particles, and Dr. Connors ’ lizard serum.
+Runa was created by writers Jason Aaron and Torunn Gronbekk, designed by Mattia de Iulis and first appeared in King In Black: Return of the Valkyries #1. The inspiration for the character appears to be the Marvel Cinematic Universe's version of Valkyrie, portrayed by Tessa Thompson.
 
-**First Appearance:** Avengers #0 (12/31/2015)
+**First Appearance:** King In Black: Return of the Valkyries #1 (3/1/2021)
 
-[Character Details](https://comicvine.gamespot.com/american-kaiju/4005-127836/)
+[Character Details](https://comicvine.gamespot.com/runa/4005-168699/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
