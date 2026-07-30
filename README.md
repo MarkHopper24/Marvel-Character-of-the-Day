@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Rūna
+## Chandra
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11184/111843102/9458510-runa03.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11/117763/3563893-chandra.jpg" width="600" height="auto"/>
 </p>
 
-Runa was created by writers Jason Aaron and Torunn Gronbekk, designed by Mattia de Iulis and first appeared in King In Black: Return of the Valkyries #1. The inspiration for the character appears to be the Marvel Cinematic Universe's version of Valkyrie, portrayed by Tessa Thompson.
+Chandra helped rescue Terrax, Paibok and Infant Terrible from their crashing vessel. She asked them to use their great powers to help free her and the other slaves from their oppressor - Randau the Space Parasite. She tried to appeal to Terrax's emotions but failed. He only was able to hear her words after she was killed by Randau.
 
-**First Appearance:** King In Black: Return of the Valkyries #1 (3/1/2021)
+**First Appearance:** Annihilation: Heralds of Galactus #1 (4/30/2007)
 
-[Character Details](https://comicvine.gamespot.com/runa/4005-168699/)
+[Character Details](https://comicvine.gamespot.com/chandra/4005-77937/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
