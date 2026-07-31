@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Chandra
+## Nakh
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11/117763/3563893-chandra.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/77/1335495-filenakh_001.jpg" width="600" height="auto"/>
 </p>
 
-Chandra helped rescue Terrax, Paibok and Infant Terrible from their crashing vessel. She asked them to use their great powers to help free her and the other slaves from their oppressor - Randau the Space Parasite. She tried to appeal to Terrax's emotions but failed. He only was able to hear her words after she was killed by Randau.
+Nakh is a member of the Assassins Guild and Belladonna calls upon all her specialist in the United States to drop their other assignments to come after Wolverine and Domino. Nakh is in Chicago holding a knife to a man's throat when he receives the phone call. Nakh arrives in New Orleans and meets up with fellow members of the Guild including Black Mamba, Boomerang, Bullet, Clay and Razorfist. Belladonna tells her assassins to kill Wolverine and bring Domino to her.
 
-**First Appearance:** Annihilation: Heralds of Galactus #1 (4/30/2007)
+**First Appearance:** X-Force: Sex & Violence #2 (10/31/2010)
 
-[Character Details](https://comicvine.gamespot.com/chandra/4005-77937/)
+[Character Details](https://comicvine.gamespot.com/nakh/4005-17371/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
