@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Nakh
+## Adam Mann
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/77/1335495-filenakh_001.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/5/55328/1680664-adam_mann_zoom.jpg" width="600" height="auto"/>
 </p>
 
-Nakh is a member of the Assassins Guild and Belladonna calls upon all her specialist in the United States to drop their other assignments to come after Wolverine and Domino. Nakh is in Chicago holding a knife to a man's throat when he receives the phone call. Nakh arrives in New Orleans and meets up with fellow members of the Guild including Black Mamba, Boomerang, Bullet, Clay and Razorfist. Belladonna tells her assassins to kill Wolverine and bring Domino to her.
+From an early age, Adam was fascinated by the myths and legends of old his single mother told him as bedtime stories.. This fascination would grow as he did. Excelling at sports from an early age, Mann made a career of athletics, and won more Olympic gold medals than any other athlete in history.
 
-**First Appearance:** X-Force: Sex & Violence #2 (10/31/2010)
+**First Appearance:** Thunderstrike #1 (1/1/2011)
 
-[Character Details](https://comicvine.gamespot.com/nakh/4005-17371/)
+[Character Details](https://comicvine.gamespot.com/adam-mann/4005-76256/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
