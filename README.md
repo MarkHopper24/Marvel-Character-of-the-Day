@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Adam Mann
+## Lighttrakker
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/5/55328/1680664-adam_mann_zoom.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/3016/149704-131705-lighttrakker.jpg" width="600" height="auto"/>
 </p>
 
-From an early age, Adam was fascinated by the myths and legends of old his single mother told him as bedtime stories.. This fascination would grow as he did. Excelling at sports from an early age, Mann made a career of athletics, and won more Olympic gold medals than any other athlete in history.
+Rebecca Littlehale is a mutant with the ability to teleport to where ever she sees a light. She has little or no control over this power, so she wears sun glasses to keep herself in one place. She was discovered as a mutant when her sunglass where knocked off and she instantly teleported onto a bridge.
 
-**First Appearance:** Thunderstrike #1 (1/1/2011)
+**First Appearance:** Power Pack #37 (5/1/1988)
 
-[Character Details](https://comicvine.gamespot.com/adam-mann/4005-76256/)
+[Character Details](https://comicvine.gamespot.com/lighttrakker/4005-45532/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
