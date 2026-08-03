@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Lighttrakker
+## Liberty
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/3016/149704-131705-lighttrakker.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11161/111612243/9710324-4031164869-latest.jpg" width="600" height="auto"/>
 </p>
 
-Rebecca Littlehale is a mutant with the ability to teleport to where ever she sees a light. She has little or no control over this power, so she wears sun glasses to keep herself in one place. She was discovered as a mutant when her sunglass where knocked off and she instantly teleported onto a bridge.
+Liberty was a preteen science prodigy who got attention after winning a prestigious award for her light-bending flight harness. At some point, she was taken in by Hydra, to help them appeal to a younger demographic and represent a Hydra new world order. As a member of The Assembly, she would have a run in with Spider-Woman, who helped reveal the truth to her and her teammates.
 
-**First Appearance:** Power Pack #37 (5/1/1988)
+**First Appearance:** Web of Spider-Man #1 (5/1/2024)
 
-[Character Details](https://comicvine.gamespot.com/lighttrakker/4005-45532/)
+[Character Details](https://comicvine.gamespot.com/liberty/4005-189375/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
