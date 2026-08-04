@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Liberty
+## Drill
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11161/111612243/9710324-4031164869-latest.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/5586/1173628-502644_pt1.jpg" width="600" height="auto"/>
 </p>
 
-Liberty was a preteen science prodigy who got attention after winning a prestigious award for her light-bending flight harness. At some point, she was taken in by Hydra, to help them appeal to a younger demographic and represent a Hydra new world order. As a member of The Assembly, she would have a run in with Spider-Woman, who helped reveal the truth to her and her teammates.
+Drill would reappear with Buzz-Saw and Jackhammer as members of the Power Tools. The Power Tools would come into conflict with Battlestar when he meets his former business manager named Ethan Thurm inside a cheap motel. Battlestar noticed that Drill and the rest of the Power Tools had augmented strength but was forced to surrender when Jackhammer captured Ethan Thurm. The Power Tools placed their captives inside a van and took them to a warehouse in Los Angeles. Battlestar ended up shackled to adamantium cuffs in a room with other wrestlers including Red Zeppelin.
 
-**First Appearance:** Web of Spider-Man #1 (5/1/2024)
+**First Appearance:** Captain America #373 (7/1/1990)
 
-[Character Details](https://comicvine.gamespot.com/liberty/4005-189375/)
+[Character Details](https://comicvine.gamespot.com/drill/4005-70293/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
