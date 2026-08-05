@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Drill
+## Lady Spider
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/5586/1173628-502644_pt1.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/4240566-lady%20spider.jpg" width="600" height="auto"/>
 </p>
 
-Drill would reappear with Buzz-Saw and Jackhammer as members of the Power Tools. The Power Tools would come into conflict with Battlestar when he meets his former business manager named Ethan Thurm inside a cheap motel. Battlestar noticed that Drill and the rest of the Power Tools had augmented strength but was forced to surrender when Jackhammer captured Ethan Thurm. The Power Tools placed their captives inside a van and took them to a warehouse in Los Angeles. Battlestar ended up shackled to adamantium cuffs in a room with other wrestlers including Red Zeppelin.
+May Reilly was a woman born during the Industrial Revolution in a different reality and made herself a steampunk spider suit with 18th century looking machinary. She started calling herself Lady Spider and tried to be a hero in her own reality. Lady Spider was created by Robbie Thompson and Denis Medri and first appeared in Spider-Verse Vol.1 issue 1 (2015).
 
-**First Appearance:** Captain America #373 (7/1/1990)
+**First Appearance:** Spider-Verse #1 (1/31/2015)
 
-[Character Details](https://comicvine.gamespot.com/drill/4005-70293/)
+[Character Details](https://comicvine.gamespot.com/lady-spider/4005-109604/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
