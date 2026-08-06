@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Lady Spider
+## Wraith (Watanabe)
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/4240566-lady%20spider.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/3/39272/2009713-wraith.jpg" width="600" height="auto"/>
 </p>
 
-May Reilly was a woman born during the Industrial Revolution in a different reality and made herself a steampunk spider suit with 18th century looking machinary. She started calling herself Lady Spider and tried to be a hero in her own reality. Lady Spider was created by Robbie Thompson and Denis Medri and first appeared in Spider-Verse Vol.1 issue 1 (2015).
+Captain Yuri Watanabe rose through the ranks with Jean DeWolff and under Captain George Stacy. Years later, she was on the scene to make arrests at a known bar occupied by supervillains, that had been broken up by Spider-Man and Daredevil. She later investigated a gangwar between the Maggia (which had Mysterio pulling the strings of a Silvermane robot) and Mr. Negative 's Inner Demons. She was also on the scenes of Phil Urich as the new Hobgoblin's latest attacks, including the attack on Horizon Labs.
 
-**First Appearance:** Spider-Verse #1 (1/31/2015)
+**First Appearance:** The Amazing Spider-Man #600 (9/1/2009)
 
-[Character Details](https://comicvine.gamespot.com/lady-spider/4005-109604/)
+[Character Details](https://comicvine.gamespot.com/wraith-watanabe/4005-76706/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
