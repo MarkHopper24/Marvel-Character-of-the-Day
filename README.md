@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Wraith (Watanabe)
+## Eidolon
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/3/39272/2009713-wraith.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/8248537-eidolon.jpg" width="600" height="auto"/>
 </p>
 
-Captain Yuri Watanabe rose through the ranks with Jean DeWolff and under Captain George Stacy. Years later, she was on the scene to make arrests at a known bar occupied by supervillains, that had been broken up by Spider-Man and Daredevil. She later investigated a gangwar between the Maggia (which had Mysterio pulling the strings of a Silvermane robot) and Mr. Negative 's Inner Demons. She was also on the scenes of Phil Urich as the new Hobgoblin's latest attacks, including the attack on Horizon Labs.
+During a time when Wiccan and Hulkling were questioning whether they were going to stay in space or begin to visit Earth more, Agatha Harkness decided to secretly test Wiccan's abilities, unbeknownst to the boys. Eidolon first appeared as the boyfriend of Wiccan in a dream-like pocket dimension. Wiccan appeared to be unaware of any changes and did not remember Hulkling, or any of the other previous events in his life.
 
-**First Appearance:** The Amazing Spider-Man #600 (9/1/2009)
+**First Appearance:** Hulkling & Wiccan Infinity Comic #1 (11/1/2021)
 
-[Character Details](https://comicvine.gamespot.com/wraith-watanabe/4005-76706/)
+[Character Details](https://comicvine.gamespot.com/eidolon/4005-173500/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
