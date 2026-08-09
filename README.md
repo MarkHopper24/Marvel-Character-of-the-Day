@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Eidolon
+## General Clarke
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/8248537-eidolon.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/3/37015/732186-general_clarke1.jpg" width="600" height="auto"/>
 </p>
 
-During a time when Wiccan and Hulkling were questioning whether they were going to stay in space or begin to visit Earth more, Agatha Harkness decided to secretly test Wiccan's abilities, unbeknownst to the boys. Eidolon first appeared as the boyfriend of Wiccan in a dream-like pocket dimension. Wiccan appeared to be unaware of any changes and did not remember Hulkling, or any of the other previous events in his life.
+General Clarke served as Alpha Flight 's military liasion officer shortly after they were reinstated by the Canadian government after the Sorcerer Affair. He was soon revealed to be much more as he knew the origin of Wild Child, and the apparent head of the mysterious Department K and their operatives Weapon: P. R. I. M. E.
 
-**First Appearance:** Hulkling & Wiccan Infinity Comic #1 (11/1/2021)
+**First Appearance:** Alpha Flight #87 (8/1/1990)
 
-[Character Details](https://comicvine.gamespot.com/eidolon/4005-173500/)
+[Character Details](https://comicvine.gamespot.com/general-clarke/4005-5057/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
