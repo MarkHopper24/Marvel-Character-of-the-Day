@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Radovan Jankovic
+## Peggy Rae
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/10/103503/5872271-radovan%20jankovic.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/40/4312299-yngavnpr005_int_10.jpg" width="600" height="auto"/>
 </p>
 
-Radovan Jankovic runs his club VS. in New York where thugs, criminals, and no goods come to make bets on super powered fights or to watch superheroes bleed. Radovan is also the brother-in-law to the Bank a renown money launderer for criminals. After the Punisher invaded his club he sold out the Bank in exchange for his life.
+Peggy Rae was a young woman whom fell in love with a man named Scott Lang. Eventually the two even got married. Although the two loved each-other very much, she could not help her husband from doing criminal activities. While Scott still performing criminal activities, Peggy became pregnant and gave birth to their child. Eventually Scott's criminal activities caused him to go to jail. Peggy divorced him not soon afterwards.
 
-**First Appearance:** Deadpool vs. The Punisher #1 (6/30/2017)
+**First Appearance:** Avengers #62 (2/1/2003)
 
-[Character Details](https://comicvine.gamespot.com/radovan-jankovic/4005-139591/)
+[Character Details](https://comicvine.gamespot.com/peggy-rae/4005-111755/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
