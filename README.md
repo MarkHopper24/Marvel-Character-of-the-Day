@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Peggy Rae
+## Serestus
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/40/4312299-yngavnpr005_int_10.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/5586/1807690-sere1.jpg" width="600" height="auto"/>
 </p>
 
-Peggy Rae was a young woman whom fell in love with a man named Scott Lang. Eventually the two even got married. Although the two loved each-other very much, she could not help her husband from doing criminal activities. While Scott still performing criminal activities, Peggy became pregnant and gave birth to their child. Eventually Scott's criminal activities caused him to go to jail. Peggy divorced him not soon afterwards.
+Serestus was an Atlantean loyal to Attuma that used the Control Pearl to turn the Antarctic Abomination known as Torg into their mental slave. Kang announced that he would conquer the world and anyone that would claim territory in his name would have a rightful place in his new order. Attuma took his offer and attacked Prince Edward Island in Canada with Torg as their mental slave. The Avengers were split up into different units and the team of Jack of Hearts, Scarlet Witch, Hank Pym, Wasp and Triathlon dealt with Torg and the invading Attuma. Torg was relieved of his mental control when Triathalon removed the Control Pearl from the hands of Serestus.
 
-**First Appearance:** Avengers #62 (2/1/2003)
+**First Appearance:** Avengers #43 (8/1/2001)
 
-[Character Details](https://comicvine.gamespot.com/peggy-rae/4005-111755/)
+[Character Details](https://comicvine.gamespot.com/serestus/4005-19933/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
