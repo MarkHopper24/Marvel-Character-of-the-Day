@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Karl Serr
+## Terror Inc
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/10/103503/6006110-rock.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/77/128229-120851-terror-inc.jpg" width="600" height="auto"/>
 </p>
 
-Karl Serr's mutation activated in utero after his pregnant mother was caught in the same atomic blast that killed his father. Over the year's, Karl's mother came to believe that her husband had left her after Karl's birth, believing Karl to be a demon. Because she viewed her son as a demonic monster, "Aunt" Serr believed she was meant to take over the world and the only mate suitable for Karl was his own cousin, Lucile Serr.
+Centuries ago on Earth-88194 (Also known as Shadowline ) the man who was to become Terror Inc. was a brave knight during the middle-ages. He had a wife he loved and was respected by his people but also feared. However, during one of his crusades, this man killed a gruesome demon. By slaying this demon, he was cursed. He soon found out his flesh began to rot, and spikes grew out of his face similar to ones on the demon. His wife and loved ones became terrified of him. For this, he took the name Schreck (German for "fright"). He left his family to wander the earth. It was at this time that he found out that he could assimilate body-parts into to his own body if the need arose.
 
-**First Appearance:** Sub-Mariner #41 (9/30/1971)
+**First Appearance:** St. George #2 (8/1/1988)
 
-[Character Details](https://comicvine.gamespot.com/karl-serr/4005-141734/)
+[Character Details](https://comicvine.gamespot.com/terror-inc/4005-13750/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
