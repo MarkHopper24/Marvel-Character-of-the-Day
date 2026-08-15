@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Terror Inc
+## Jonathan
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/77/128229-120851-terror-inc.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/5/55582/6308253-all-new%20wolverine%20%282015-%29%20031-002.jpg" width="600" height="auto"/>
 </p>
 
-Centuries ago on Earth-88194 (Also known as Shadowline ) the man who was to become Terror Inc. was a brave knight during the middle-ages. He had a wife he loved and was respected by his people but also feared. However, during one of his crusades, this man killed a gruesome demon. By slaying this demon, he was cursed. He soon found out his flesh began to rot, and spikes grew out of his face similar to ones on the demon. His wife and loved ones became terrified of him. For this, he took the name Schreck (German for "fright"). He left his family to wander the earth. It was at this time that he found out that he could assimilate body-parts into to his own body if the need arose.
+Jonathan is Gabby & Laura's pet wolverine that was given to them by Squirrel Girl because she thought that Laura could talk to wolverines. In the story, Red All Over, Jonathan can be seen sitting with Gabby when Deadpool calls with a dangerous mission.
 
-**First Appearance:** St. George #2 (8/1/1988)
+**First Appearance:** All-New Wolverine #7 (6/30/2016)
 
-[Character Details](https://comicvine.gamespot.com/terror-inc/4005-13750/)
+[Character Details](https://comicvine.gamespot.com/jonathan/4005-132039/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
