@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Jonathan
+## Deadpool Boy
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/5/55582/6308253-all-new%20wolverine%20%282015-%29%20031-002.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/9628890-dpoolberb2023005_newchampions_bradshaw.jpg" width="600" height="auto"/>
 </p>
 
-Jonathan is Gabby & Laura's pet wolverine that was given to them by Squirrel Girl because she thought that Laura could talk to wolverines. In the story, Red All Over, Jonathan can be seen sitting with Gabby when Deadpool calls with a dangerous mission.
+Deadpool Boy debuts canonically in New Champions ( 2025) #2 by Steve Foxe and Ivan Fiorelli. He originally appeared on a variant cover for Deadpool: Badder Blood in October 2023 drawn by Nick Bradshaw. This cover was part of the "New Champions" variants depicting original sidekicks for Marvel's title characters.
 
-**First Appearance:** All-New Wolverine #7 (6/30/2016)
+**First Appearance:** New Champions #2 (4/1/2025)
 
-[Character Details](https://comicvine.gamespot.com/jonathan/4005-132039/)
+[Character Details](https://comicvine.gamespot.com/deadpool-boy/4005-193765/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
