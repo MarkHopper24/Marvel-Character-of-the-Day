@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Deadpool Boy
+## The Ham
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/9628890-dpoolberb2023005_newchampions_bradshaw.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/13536/580559-comics_upl.png" width="600" height="auto"/>
 </p>
 
-Deadpool Boy debuts canonically in New Champions ( 2025) #2 by Steve Foxe and Ivan Fiorelli. He originally appeared on a variant cover for Deadpool: Badder Blood in October 2023 drawn by Nick Bradshaw. This cover was part of the "New Champions" variants depicting original sidekicks for Marvel's title characters.
+Created by Arcade, is a parody of Porky Pig. The robot seem to be able to morph others into pigs with his stuttering. He defeated Meggan of Excalibur with his power at the first fight, reversing her shape-shifting transformation from a were-wolf to a were-pig.
 
-**First Appearance:** New Champions #2 (4/1/2025)
+**First Appearance:** Marvel Comics Presents #33 (11/1/1989)
 
-[Character Details](https://comicvine.gamespot.com/deadpool-boy/4005-193765/)
+[Character Details](https://comicvine.gamespot.com/the-ham/4005-57975/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
