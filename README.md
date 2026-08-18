@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## The Ham
+## Chipp
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/13536/580559-comics_upl.png" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/10/103503/5460939-chipp.jpg" width="600" height="auto"/>
 </p>
 
-Created by Arcade, is a parody of Porky Pig. The robot seem to be able to morph others into pigs with his stuttering. He defeated Meggan of Excalibur with his power at the first fight, reversing her shape-shifting transformation from a were-wolf to a were-pig.
+Chipp is a member of the Sparkitects, a species of aliens located on Sparkitron. His mission and the mission of his species is to make characters more interesting and relevant again. Chipp along with his partner Jho work on making Howard the Duck's life more interesting.
 
-**First Appearance:** Marvel Comics Presents #33 (11/1/1989)
+**First Appearance:** Howard the Duck #9 (9/30/2016)
 
-[Character Details](https://comicvine.gamespot.com/the-ham/4005-57975/)
+[Character Details](https://comicvine.gamespot.com/chipp/4005-133169/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
