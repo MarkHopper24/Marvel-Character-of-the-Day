@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Chipp
+## Joe Bomb
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/10/103503/5460939-chipp.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/8364235-joebomb.jpg" width="600" height="auto"/>
 </p>
 
-Chipp is a member of the Sparkitects, a species of aliens located on Sparkitron. His mission and the mission of his species is to make characters more interesting and relevant again. Chipp along with his partner Jho work on making Howard the Duck's life more interesting.
+Until Zeitgeist discovered him, Joe Bomb had used his powers to blow up the neighbor's cats. Zeitgeist tought him to think bigger and he became a member of the X-Cellent. In his fight against X-Statix, his explosive powers blew up in his face when it was blocked by Rosa Lemper.
 
-**First Appearance:** Howard the Duck #9 (9/30/2016)
+**First Appearance:** Marvel Previews #3 (12/1/2021)
 
-[Character Details](https://comicvine.gamespot.com/chipp/4005-133169/)
+[Character Details](https://comicvine.gamespot.com/joe-bomb/4005-175335/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
