@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Joe Bomb
+## Whalesong
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/8364235-joebomb.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/3476542-whalesong_%28earth-616%29.png" width="600" height="auto"/>
 </p>
 
-Until Zeitgeist discovered him, Joe Bomb had used his powers to blow up the neighbor's cats. Zeitgeist tought him to think bigger and he became a member of the X-Cellent. In his fight against X-Statix, his explosive powers blew up in his face when it was blocked by Rosa Lemper.
+Whalesong was a half-Atlantean girl who was involved in a boating accident when she was younger and almost drowned. Luckily, a telepathic sea creature, named Leviathan, had been following her saved her. She formed a close bond with the creature and has lived with it for so long that she is now incapable of human speech.
 
-**First Appearance:** Marvel Previews #3 (12/1/2021)
+**First Appearance:** Infinity: The Hunt #3 (12/31/2013)
 
-[Character Details](https://comicvine.gamespot.com/joe-bomb/4005-175335/)
+[Character Details](https://comicvine.gamespot.com/whalesong/4005-94887/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
