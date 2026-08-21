@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Whalesong
+## Hirochi
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/3476542-whalesong_%28earth-616%29.png" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11131/111318130/5831559-hirochi.jpg" width="600" height="auto"/>
 </p>
 
-Whalesong was a half-Atlantean girl who was involved in a boating accident when she was younger and almost drowned. Luckily, a telepathic sea creature, named Leviathan, had been following her saved her. She formed a close bond with the creature and has lived with it for so long that she is now incapable of human speech.
+Lord Hirochi was a leader of The Hand until it splintered during the Secret Invasion. When the Skrull Pagon was exposed for not being Elektra, Hirochi reunited the Hand by having Lady Bullseye kill Daredevil's allies then reincarnating them as members of The Hand.
 
-**First Appearance:** Infinity: The Hunt #3 (12/31/2013)
+**First Appearance:** Daredevil #111 (11/1/2008)
 
-[Character Details](https://comicvine.gamespot.com/whalesong/4005-94887/)
+[Character Details](https://comicvine.gamespot.com/hirochi/4005-138929/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
