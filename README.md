@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Hirochi
+## Roz Solomon
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11131/111318130/5831559-hirochi.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11184/111843102/9481910-rozaow%235.51.jpg" width="600" height="auto"/>
 </p>
 
-Lord Hirochi was a leader of The Hand until it splintered during the Secret Invasion. When the Skrull Pagon was exposed for not being Elektra, Hirochi reunited the Hand by having Lady Bullseye kill Daredevil's allies then reincarnating them as members of The Hand.
+Roz Solomon is and Environmental S. H. I. E. L. D. Agent who sent an e-vite to Thor to attend her graduation party, which was relayed to him by Iron Man which Thor accepted. Roz would be shocked when the god of thunder actually showed up abroad the Hellicarrier the night of the graduation ball, admitting to Thor she never actually believed he would show. The two would dance and flirt and drink, with Roz still fairly flabbergasted. She would converse to Thor about the environment explaining there was actually a secondary serious reason she invited him, wanting to know his perspective of the environmental problems facing the Earth.
 
-**First Appearance:** Daredevil #111 (11/1/2008)
+**First Appearance:** Thor: God of Thunder #12 (10/31/2013)
 
-[Character Details](https://comicvine.gamespot.com/hirochi/4005-138929/)
+[Character Details](https://comicvine.gamespot.com/roz-solomon/4005-92048/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
