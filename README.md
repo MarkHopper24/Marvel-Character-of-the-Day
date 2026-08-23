@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Roz Solomon
+## Caliban
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11184/111843102/9481910-rozaow%235.51.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11161/111612243/9494359-caliban.jpg" width="600" height="auto"/>
 </p>
 
-Roz Solomon is and Environmental S. H. I. E. L. D. Agent who sent an e-vite to Thor to attend her graduation party, which was relayed to him by Iron Man which Thor accepted. Roz would be shocked when the god of thunder actually showed up abroad the Hellicarrier the night of the graduation ball, admitting to Thor she never actually believed he would show. The two would dance and flirt and drink, with Roz still fairly flabbergasted. She would converse to Thor about the environment explaining there was actually a secondary serious reason she invited him, wanting to know his perspective of the environmental problems facing the Earth.
+With a physical mutation that gave him white skin, no hair and bulging large yellow eyes, Caliban was unable to live among the rest of society. His name comes from a character in William Shakespeare's "The Tempest." During the height of anti-mutant sentiment in America, Caliban was one of many outcast mutants who resorted to living in the deserted underground tunnels of New York. As a Morlock, Caliban was an essential asset and was often used by their leader, Callisto, because of his tracking abilities to help locate more mutants to join their underground community.
 
-**First Appearance:** Thor: God of Thunder #12 (10/31/2013)
+**First Appearance:** The Uncanny X-Men #148 (8/1/1981)
 
-[Character Details](https://comicvine.gamespot.com/roz-solomon/4005-92048/)
+[Character Details](https://comicvine.gamespot.com/caliban/4005-9637/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
