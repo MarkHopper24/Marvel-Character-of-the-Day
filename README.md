@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Caliban
+## Jack Norriss
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11161/111612243/9494359-caliban.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11/117763/3129399-ohotmu%20defenders%20%231%20-%20page%2026.jpg" width="600" height="auto"/>
 </p>
 
-With a physical mutation that gave him white skin, no hair and bulging large yellow eyes, Caliban was unable to live among the rest of society. His name comes from a character in William Shakespeare's "The Tempest." During the height of anti-mutant sentiment in America, Caliban was one of many outcast mutants who resorted to living in the deserted underground tunnels of New York. As a Morlock, Caliban was an essential asset and was often used by their leader, Callisto, because of his tracking abilities to help locate more mutants to join their underground community.
+Jack Norriss was the husband of Barbara Norriss, a woman who was driven mad by the demonic Undying Ones after the couple foolishly joined a cult devoted to them for kicks. Barbara's spirit was trapped in the dimension of the Undying Ones, but later became a host body for the spirit of Brunnhilde, the Valkyrie. Jack refused to accept that the Valkyrie was not really Barbara and as a result became a sometimes unwelcome associate of the Defenders. However, he was frequently of considerable help to the team, once even saving the Valkyrie from being burned on an inverted cross by the Sons of the Serpent.
 
-**First Appearance:** The Uncanny X-Men #148 (8/1/1981)
+**First Appearance:** The Incredible Hulk #126 (4/30/1970)
 
-[Character Details](https://comicvine.gamespot.com/caliban/4005-9637/)
+[Character Details](https://comicvine.gamespot.com/jack-norriss/4005-22009/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
