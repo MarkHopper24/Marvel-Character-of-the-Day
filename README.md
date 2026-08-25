@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Jack Norriss
+## A'kane
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11/117763/3129399-ohotmu%20defenders%20%231%20-%20page%2026.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/3/36009/721157-akane.jpg" width="600" height="auto"/>
 </p>
 
-Jack Norriss was the husband of Barbara Norriss, a woman who was driven mad by the demonic Undying Ones after the couple foolishly joined a cult devoted to them for kicks. Barbara's spirit was trapped in the dimension of the Undying Ones, but later became a host body for the spirit of Brunnhilde, the Valkyrie. Jack refused to accept that the Valkyrie was not really Barbara and as a result became a sometimes unwelcome associate of the Defenders. However, he was frequently of considerable help to the team, once even saving the Valkyrie from being burned on an inverted cross by the Sons of the Serpent.
+A'Kane was a Wakanda scientist and mother of Vibraxas. A'Kane was working on a way to help Wakanda's economy by creating a new energy source by Antarctic vibranium with Wakanda's vibranium. For a time; it was successful, and seemed to be stable and self-perpetuating. Unfortunately it eventually became unstable and exploded, killing most of the people in the complex. A'Kane was among those that died, along with Vibraxas's father.
 
-**First Appearance:** The Incredible Hulk #126 (4/30/1970)
+**First Appearance:** Fantastic Force #14 (12/1/1995)
 
-[Character Details](https://comicvine.gamespot.com/jack-norriss/4005-22009/)
+[Character Details](https://comicvine.gamespot.com/akane/4005-60246/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
