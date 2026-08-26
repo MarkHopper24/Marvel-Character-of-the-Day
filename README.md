@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## A'kane
+## Doctor Frye
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/3/36009/721157-akane.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11129/111293013/6518695-immortal_hulk_vol_1_2_textless%5B1%5D.jpg" width="600" height="auto"/>
 </p>
 
-A'Kane was a Wakanda scientist and mother of Vibraxas. A'Kane was working on a way to help Wakanda's economy by creating a new energy source by Antarctic vibranium with Wakanda's vibranium. For a time; it was successful, and seemed to be stable and self-perpetuating. Unfortunately it eventually became unstable and exploded, killing most of the people in the complex. A'Kane was among those that died, along with Vibraxas's father.
+Dr. Frye is a research scientist specializing in Gamma Rays who never though about death until his wife Claire died then he became obsess with immortality. Doctor Frye was created by Al Ewing and Joe Bennett and first appeared in The Immortal Hulk issue #2 (2018).
 
-**First Appearance:** Fantastic Force #14 (12/1/1995)
+**First Appearance:** The Immortal Hulk #2 (9/1/2018)
 
-[Character Details](https://comicvine.gamespot.com/akane/4005-60246/)
+[Character Details](https://comicvine.gamespot.com/doctor-frye/4005-149176/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
