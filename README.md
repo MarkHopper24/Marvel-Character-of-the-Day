@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Replicoid
+## Origin
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/2/22955/1797609-replicoid.png" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/77/134834-42488-origin.jpg" width="600" height="auto"/>
 </p>
 
-When the Celestials were casting final judgement on the planet Pangonia the brave Asgardian warrior Thor sought to intervene and while his assault only cause the Celestials annoyance the formidable Exitar the Executioner saw the valor of the great warrior and produce a replica of him within minutes empowered it with the Celestial lifeforce. The replica came to Thor and restored his destroy hammer Mjolnir and teleported him out the planet not before telling Thor to no further intervene in his masters plans.
+Origin’s true name is unpronounceable by humans; but she has (according to the Unbeing ) been fighting a war against the Unbeing. Origin created all the Superheroes on Earth and is responsible for the events to unfold so that people gain their powers and use names and costumes she creates. In the case of the Fantastic Four, she was the one who caused the cosmic radiation to bombard their ship, she also put their “super-names” in their heads. In the case of Thor, Origin was the one who showed the Asgardians how to get to Midgard millennia ago. Origin was the one who subtly directed aliens (such as the Silver Surfer ) how to get to Earth.
 
-**First Appearance:** Thor #389 (3/1/1988)
+**First Appearance:** X-Factor Annual #4 (10/31/1989)
 
-[Character Details](https://comicvine.gamespot.com/replicoid/4005-58940/)
+[Character Details](https://comicvine.gamespot.com/origin/4005-8281/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
