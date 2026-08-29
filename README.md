@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Origin
+## Alex Ultron
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/77/134834-42488-origin.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/3/38919/1530404-alex_ultron.jpg" width="600" height="auto"/>
 </p>
 
-Origin’s true name is unpronounceable by humans; but she has (according to the Unbeing ) been fighting a war against the Unbeing. Origin created all the Superheroes on Earth and is responsible for the events to unfold so that people gain their powers and use names and costumes she creates. In the case of the Fantastic Four, she was the one who caused the cosmic radiation to bombard their ship, she also put their “super-names” in their heads. In the case of Thor, Origin was the one who showed the Asgardians how to get to Midgard millennia ago. Origin was the one who subtly directed aliens (such as the Silver Surfer ) how to get to Earth.
+Alex Ultron was created from the original Ultron's programming. While Alex gained sentience, he did not have the maliciousness of his predecessors. Hailing from an alternate future in which the Earth is dying, Alex joined the New Defenders to try to solve the problem. He is one of only seven who survived the capture of Galactus. He has had a relationship with Psionics and more currently, Natalie X, whom he shares a close bond with.
 
-**First Appearance:** X-Factor Annual #4 (10/31/1989)
+**First Appearance:** Fantastic Four #558 (8/11/2008)
 
-[Character Details](https://comicvine.gamespot.com/origin/4005-8281/)
+[Character Details](https://comicvine.gamespot.com/alex-ultron/4005-57812/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
