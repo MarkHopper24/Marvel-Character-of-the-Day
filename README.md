@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Alex Ultron
+## Michaela Ladak
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/3/38919/1530404-alex_ultron.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/6270323-michaela_%28mutant%29_%28earth-616%29_from_iceman_vol_3_1_001.jpg" width="600" height="auto"/>
 </p>
 
-Alex Ultron was created from the original Ultron's programming. While Alex gained sentience, he did not have the maliciousness of his predecessors. Hailing from an alternate future in which the Earth is dying, Alex joined the New Defenders to try to solve the problem. He is one of only seven who survived the capture of Galactus. He has had a relationship with Psionics and more currently, Natalie X, whom he shares a close bond with.
+Michaela Ladak was a young popular girl whom eventually found out she was a mutant. However, her powers where not 'sexy' or 'useful'; her saliva was so strong she could use it for a number of things, including styling her hair. Michaela Ladak was created by Sina Grace and Alessandor Vitti and first appeared in Iceman Vol.3 issue 1 (2017).
 
-**First Appearance:** Fantastic Four #558 (8/11/2008)
+**First Appearance:** Iceman #1 (8/31/2017)
 
-[Character Details](https://comicvine.gamespot.com/alex-ultron/4005-57812/)
+[Character Details](https://comicvine.gamespot.com/michaela-ladak/4005-144576/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
