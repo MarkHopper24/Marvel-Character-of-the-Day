@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Michaela Ladak
+## Annihilation 
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/6270323-michaela_%28mutant%29_%28earth-616%29_from_iceman_vol_3_1_001.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11117/111175090/7661281-0670961424-latest.jpg" width="600" height="auto"/>
 </p>
 
-Michaela Ladak was a young popular girl whom eventually found out she was a mutant. However, her powers where not 'sexy' or 'useful'; her saliva was so strong she could use it for a number of things, including styling her hair. Michaela Ladak was created by Sina Grace and Alessandor Vitti and first appeared in Iceman Vol.3 issue 1 (2017).
+Annihilation is the Dark God of Amenth who possess anyone who wields The Golden Helm of Amenth. Annihilation along with the Shadow King, the Adversary, the First Fallen, le Bete Noir, and the Goblin Force are all implied to be different aspects of the same entity, an oppositional force to the Phoenix Force.
 
-**First Appearance:** Iceman #1 (8/31/2017)
+**First Appearance:** Free Comic Book Day 2020 (X-Men/Dark Ages) #1 (5/1/2020)
 
-[Character Details](https://comicvine.gamespot.com/michaela-ladak/4005-144576/)
+[Character Details](https://comicvine.gamespot.com/annihilation/4005-165342/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
