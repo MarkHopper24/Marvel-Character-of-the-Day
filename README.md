@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Annihilation 
+## White Raven
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11117/111175090/7661281-0670961424-latest.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/229/223359-15024-white-raven.jpg" width="600" height="auto"/>
 </p>
 
-Annihilation is the Dark God of Amenth who possess anyone who wields The Golden Helm of Amenth. Annihilation along with the Shadow King, the Adversary, the First Fallen, le Bete Noir, and the Goblin Force are all implied to be different aspects of the same entity, an oppositional force to the Phoenix Force.
+A mysterious agent of Thanos, the mad titan had hired the mercenary White Raven to locate and retrieve a powerful and mysterious legendary artifact. The artifact was in the possession of the Survivor, an incredibly long lived sole survivor of his race. White Raven had traveled through space in her ship, destroyed a space ship piloted by a group of Skrulls, and actually flew into and onto a comet where the Survivor was located. As it turns out the Silver Surfer had been sent by Galactus to retrieve the mysterious and powerful artifact in possession of the Survivor as well.
 
-**First Appearance:** Free Comic Book Day 2020 (X-Men/Dark Ages) #1 (5/1/2020)
+**First Appearance:** Silver Surfer: Dangerous Artifacts #1 (6/1/1996)
 
-[Character Details](https://comicvine.gamespot.com/annihilation/4005-165342/)
+[Character Details](https://comicvine.gamespot.com/white-raven/4005-48276/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
