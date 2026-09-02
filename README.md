@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## White Raven
+## Mortar
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/229/223359-15024-white-raven.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/5344/1415595-mortar_01.jpg" width="600" height="auto"/>
 </p>
 
-A mysterious agent of Thanos, the mad titan had hired the mercenary White Raven to locate and retrieve a powerful and mysterious legendary artifact. The artifact was in the possession of the Survivor, an incredibly long lived sole survivor of his race. White Raven had traveled through space in her ship, destroyed a space ship piloted by a group of Skrulls, and actually flew into and onto a comet where the Survivor was located. As it turns out the Silver Surfer had been sent by Galactus to retrieve the mysterious and powerful artifact in possession of the Survivor as well.
+Mortar appears with the Bastards of Evil which are the offspring of certain super villains. Mortar appears along with other villains like Aftershock, Singularity, Warhead and Ember where they wreck havoc in New York and attack innocent civilians for no apparent reason. She first confronted the newly arrived Nomad, telling her that her father was Grey Gargoyle. (Later revealed not being true) She went on to fight Firestar when an explosion interrupted them.
 
-**First Appearance:** Silver Surfer: Dangerous Artifacts #1 (6/1/1996)
+**First Appearance:** Young Allies #1 (8/31/2010)
 
-[Character Details](https://comicvine.gamespot.com/white-raven/4005-48276/)
+[Character Details](https://comicvine.gamespot.com/mortar/4005-71491/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
