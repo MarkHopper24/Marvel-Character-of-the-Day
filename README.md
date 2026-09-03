@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Mortar
+## Lineage
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/5344/1415595-mortar_01.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15659/3768884-gordon_nobili-thunderbolts%2318-cover.jpg" width="600" height="auto"/>
 </p>
 
-Mortar appears with the Bastards of Evil which are the offspring of certain super villains. Mortar appears along with other villains like Aftershock, Singularity, Warhead and Ember where they wreck havoc in New York and attack innocent civilians for no apparent reason. She first confronted the newly arrived Nomad, telling her that her father was Grey Gargoyle. (Later revealed not being true) She went on to fight Firestar when an explosion interrupted them.
+Gordon Nobili was part of a criminal organization that used his intellect to outsmart his rivals and enemies. When the Terrigen Mists came he transformed into a purple-skinned humanoid who gained the ability to talk to dead people in his Lineage. Lineage was created by Charles Soule and Jefte Palo and first appeared in Thunderbolts #14.
 
-**First Appearance:** Young Allies #1 (8/31/2010)
+**First Appearance:** Thunderbolts #14 (10/31/2013)
 
-[Character Details](https://comicvine.gamespot.com/mortar/4005-71491/)
+[Character Details](https://comicvine.gamespot.com/lineage/4005-93442/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
