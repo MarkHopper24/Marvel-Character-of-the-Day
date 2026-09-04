@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Lineage
+## Aphrodite Ourania
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15659/3768884-gordon_nobili-thunderbolts%2318-cover.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11154/111543045/8572689-aphrodite_ourania_%28earth-616%29_from_incredible_hercules_vol_1_141_0001.jpg" width="600" height="auto"/>
 </p>
 
-Gordon Nobili was part of a criminal organization that used his intellect to outsmart his rivals and enemies. When the Terrigen Mists came he transformed into a purple-skinned humanoid who gained the ability to talk to dead people in his Lineage. Lineage was created by Charles Soule and Jefte Palo and first appeared in Thunderbolts #14.
+The goddess Aphodite is a member of the Olympian Gods and the goddess of Love and Beauty. In the 1950s, she was bored and went to Earth and disguised as a mortal woman, working in the Beauty Magazine and have a romantic relationship with publisher Whitney Hammond. But she later return to Olympos.
 
-**First Appearance:** Thunderbolts #14 (10/31/2013)
+**First Appearance:** Venus #1 (8/1/1948)
 
-[Character Details](https://comicvine.gamespot.com/lineage/4005-93442/)
+[Character Details](https://comicvine.gamespot.com/aphrodite-ourania/4005-178174/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
