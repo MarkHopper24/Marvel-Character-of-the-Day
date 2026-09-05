@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Aphrodite Ourania
+## Kalima
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11154/111543045/8572689-aphrodite_ourania_%28earth-616%29_from_incredible_hercules_vol_1_141_0001.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/3/33110/833157-kalima.jpg" width="600" height="auto"/>
 </p>
 
-The goddess Aphodite is a member of the Olympian Gods and the goddess of Love and Beauty. In the 1950s, she was bored and went to Earth and disguised as a mortal woman, working in the Beauty Magazine and have a romantic relationship with publisher Whitney Hammond. But she later return to Olympos.
+Born around the age of the gods such as Zeus and Hera, she has shaped the world of India from ancient times. As a death God she commands a certain amount of dread and freight that few other Indian gods do. She has been a sworn enemy of Skanda for ages and the two hate each other passionately.
 
-**First Appearance:** Venus #1 (8/1/1948)
+**First Appearance:** GeNext: United #2 (8/31/2009)
 
-[Character Details](https://comicvine.gamespot.com/aphrodite-ourania/4005-178174/)
+[Character Details](https://comicvine.gamespot.com/kalima/4005-62747/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
