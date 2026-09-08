@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Richard Fenster
+## Bilal
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/5/54353/1734821-hercules___richard_fenster__color_face.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11184/111843102/9654904-bilal0.jpg" width="600" height="auto"/>
 </p>
 
-Richard fenster first appeared driving Hercules to the UCLA campus to deliver a lecture on the genealogies of the Olympian Gods that Fenster had booked him for. While in transit to the campus Hercules and Fenster a raging forest fire along the Pacific Coast Highway. The fire was on the verge of getting out of control so Hercules immediately leapt into the fire and rescued the fire-fighters and then uprooted a giant redwood to use against the encroaching flames. Used the giant redwood to beat back the flames and then he made a firewall of scorched ground and the giant redwood to isolate and contain the fire to end the danger.
+Bilal attends an anti-Krakoan protest in New York City, and later lures Ms. Marvel out of a mutant safehouse to attack her with Truthseeker tech. He claims that, by Ms. Marvel using a secret identity and lying to her loved ones, she is putting her entire community in danger.
 
-**First Appearance:** The Champions #1 (10/31/1975)
+**First Appearance:** NYX #3 (11/1/2024)
 
-[Character Details](https://comicvine.gamespot.com/richard-fenster/4005-35974/)
+[Character Details](https://comicvine.gamespot.com/bilal/4005-191176/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
