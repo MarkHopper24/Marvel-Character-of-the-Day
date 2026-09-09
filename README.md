@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Bilal
+## Moon Knight 1,000,000 BC
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11184/111843102/9654904-bilal0.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/7906459-moon_knight_%25281%252c000%252c000_bc%2529_%2528earth-616%2529_from_avengers_vol_8_35_001.jpg" width="600" height="auto"/>
 </p>
 
-Bilal attends an anti-Krakoan protest in New York City, and later lures Ms. Marvel out of a mutant safehouse to attack her with Truthseeker tech. He claims that, by Ms. Marvel using a secret identity and lying to her loved ones, she is putting her entire community in danger.
+Khonshu looked over the Earth before anyone. He made the nights less dark, the weather less wild, and the water less still. He watched Zgreb infect he Earth, the Starbrand comet hit land, and the Eternals rise to the level of deities. However, when the prehistoric Avengers banded together for the first time, they did it without Khonshu, angering him. In a fit of rage, he chose a defender among the caveman to fight back against these so-called superheroes.
 
-**First Appearance:** NYX #3 (11/1/2024)
+**First Appearance:** Avengers #35 (10/1/2020)
 
-[Character Details](https://comicvine.gamespot.com/bilal/4005-191176/)
+[Character Details](https://comicvine.gamespot.com/moon-knight-1000000-bc/4005-168471/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
