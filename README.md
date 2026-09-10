@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Moon Knight 1,000,000 BC
+## Vengeance (Kowalski)
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/7906459-moon_knight_%25281%252c000%252c000_bc%2529_%2528earth-616%2529_from_avengers_vol_8_35_001.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11/117763/3126933-secretavengers03012.jpg" width="600" height="auto"/>
 </p>
 
-Khonshu looked over the Earth before anyone. He made the nights less dark, the weather less wild, and the water less still. He watched Zgreb infect he Earth, the Starbrand comet hit land, and the Eternals rise to the level of deities. However, when the prehistoric Avengers banded together for the first time, they did it without Khonshu, angering him. In a fit of rage, he chose a defender among the caveman to fight back against these so-called superheroes.
+Kowalski would beat up someone for looking bad at him but he changed sometime after. He was disgusted to see victims of the curse of Highway 18 so he started to dig in it's history. The result of his investigation led him to a descendant of the ghosts who haunted the road. The man turned out to be a cannibal when brutally slashed Kowalski's hand and eat it. He was then kidnapped and put in a car but they later crashed at a crossroads. Ghost Rider was involved in the crash and took the cannibal with him to end the curse but Kowalski insisted to arrest him. That moment Ghost Rider was so pissed off that he used the Penance Stare on him.
 
-**First Appearance:** Avengers #35 (10/1/2020)
+**First Appearance:** Ghost Rider #21 (5/1/2008)
 
-[Character Details](https://comicvine.gamespot.com/moon-knight-1000000-bc/4005-168471/)
+[Character Details](https://comicvine.gamespot.com/vengeance-kowalski/4005-82956/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
