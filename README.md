@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Jonathan
+## Fiz
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/5/55582/6308253-all-new%20wolverine%20%282015-%29%20031-002.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/77/261187-198142-fiz.jpg" width="600" height="auto"/>
 </p>
 
-Jonathan is Gabby & Laura's pet wolverine that was given to them by Squirrel Girl because she thought that Laura could talk to wolverines. In the story, Red All Over, Jonathan can be seen sitting with Gabby when Deadpool calls with a dangerous mission.
+During the Ages of Apocalypse event, a dying Apocalypse attempted to bend reality using the Twelve. He attempted to trick them into to powering himself and allowing him to insert himself into a younger body, One such reality was a future where the X-Men had conquered space. The Cadre K had spread peace through the Cosmos, and working with the Professor and Beast, they had worked out a way to feed Galactus. Fiz appeared to be very high up within the workings of the Space-Based X-Men, and was there to greet Xavier, the Founder-X, Storm and Colossus as they returned from the Negative Zone.
 
-**First Appearance:** All-New Wolverine #7 (6/30/2016)
+**First Appearance:** X-Men #95 (12/1/1999)
 
-[Character Details](https://comicvine.gamespot.com/jonathan/4005-132039/)
+[Character Details](https://comicvine.gamespot.com/fiz/4005-15003/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
