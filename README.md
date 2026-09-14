@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Schizoid Man
+## Daredevil 2099 (Nelson)
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/77/190279-84846-schizoid-man.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/125794/4787435-dd2099.jpg" width="600" height="auto"/>
 </p>
 
-The original "Schizoid Man" is Chip Martin, a graduate student who suffers from psychological instability and has the power of building and animating solid constructs with his mind. When Spider-man began mutating into the Spider-Lizard, the primal, savage part of his mind took over during a battle with Chip, possibly setting his therapy back indefinitely. It was this action that caused Sen. Martin, Chip's father, to hate Spider-Man so deeply.
+The Daredevil of 2099 opted to take the law into his own hands, expressing disappointment in the corrupted legal system of his time. Eric (Daredevil 2099) Nelson was created by Warren Ellis and Dale Eaglesham. His first appearance was in 2099 A. D. Genesis #1 (January 1996).
 
-**First Appearance:** The Spectacular Spider-Man #36 (11/1/1979)
+**First Appearance:** 2099 A.D. Genesis #1 (1/1/1996)
 
-[Character Details](https://comicvine.gamespot.com/schizoid-man/4005-33953/)
+[Character Details](https://comicvine.gamespot.com/daredevil-2099-nelson/4005-122198/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
