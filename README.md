@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Hana
+## Trenton Craft
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/6728263-hana_%28earth-616%29_from_captain_america_vol_4_14_001.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/2/25521/743448-trenton9.jpg" width="600" height="auto"/>
 </p>
 
-Hana was the member of the Atlantis Praetorian Guard assigned to protect Captain America when Namor received intelligence that the Interrogator was trying to kidnap him. Hana and Cap shared a brief romance, but she lamented the fact that he couldn't return her feelings beyond the physical.
+A test subject for the USA's Super-Soldier Program during World War II, Trenton Craft received treatments that gave him vast telekinetic powers. Outfitted as Colonel America, Craft was first deployed to Yokohama, Japan in 1944; he lost control of his powers, devastating the island and its entire population.
 
-**First Appearance:** Captain America #10 (5/1/2003)
+**First Appearance:** Marvel Comics Presents #1 (9/30/2007)
 
-[Character Details](https://comicvine.gamespot.com/hana/4005-80507/)
+[Character Details](https://comicvine.gamespot.com/trenton-craft/4005-39511/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
