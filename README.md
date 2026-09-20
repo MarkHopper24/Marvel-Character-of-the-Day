@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Trenton Craft
+## Lissandra
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/2/25521/743448-trenton9.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9525700-lissandra.jpg" width="600" height="auto"/>
 </p>
 
-A test subject for the USA's Super-Soldier Program during World War II, Trenton Craft received treatments that gave him vast telekinetic powers. Outfitted as Colonel America, Craft was first deployed to Yokohama, Japan in 1944; he lost control of his powers, devastating the island and its entire population.
+Daughter of the High Priest of Sahb Delanzar, and married to his enemy Slogg-Nhumazdar. She planned to offer up her newborn child to the Goat God in a plan to restore him to supreme power. She was undone by the timely intervention of Conan of Cimmeria and her husband Slogg.
 
-**First Appearance:** Marvel Comics Presents #1 (9/30/2007)
+**First Appearance:** The Savage Sword of Conan #125 (6/1/1986)
 
-[Character Details](https://comicvine.gamespot.com/trenton-craft/4005-39511/)
+[Character Details](https://comicvine.gamespot.com/lissandra/4005-191660/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
