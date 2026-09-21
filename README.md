@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Lissandra
+## Ivan Somodorov
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9525700-lissandra.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111126675/4798341-ivan.png" width="600" height="auto"/>
 </p>
 
-Daughter of the High Priest of Sahb Delanzar, and married to his enemy Slogg-Nhumazdar. She planned to offer up her newborn child to the Goat God in a plan to restore him to supreme power. She was undone by the timely intervention of Conan of Cimmeria and her husband Slogg.
+In charge of the Russian mob, Ivan Somodorov imprisoned Ava Anatayla when she was 6 years old. After killing Ava's family, Black Widow came and defeated Ivan. It is because of this that Ava dedicated her life to Black Widow and one day became the Red Widow.
 
-**First Appearance:** The Savage Sword of Conan #125 (6/1/1986)
+**First Appearance:** Mockingbird: S.H.I.E.L.D. 50th Anniversary #1 (11/30/2015)
 
-[Character Details](https://comicvine.gamespot.com/lissandra/4005-191660/)
+[Character Details](https://comicvine.gamespot.com/ivan-somodorov/4005-122332/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
