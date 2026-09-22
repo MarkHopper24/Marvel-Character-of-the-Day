@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Ivan Somodorov
+## Robert L. Maverick
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111126675/4798341-ivan.png" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/77/6330263-avengers_vol_1_685_textless.jpg" width="600" height="auto"/>
 </p>
 
-In charge of the Russian mob, Ivan Somodorov imprisoned Ava Anatayla when she was 6 years old. After killing Ava's family, Black Widow came and defeated Ivan. It is because of this that Ava dedicated her life to Black Widow and one day became the Red Widow.
+Gen. Maverick was the military head of Project: Troubleshooter, the Pentagon’s very latest off-the-books facility for the production of human weapons. Gen. Maverick makes his first appearance in Avengers (2015) #0 in a vision of The Maker ’s of events that happen in New Avengers #8 by Al Ewing and Marcus To.
 
-**First Appearance:** Mockingbird: S.H.I.E.L.D. 50th Anniversary #1 (11/30/2015)
+**First Appearance:** Avengers #0 (12/31/2015)
 
-[Character Details](https://comicvine.gamespot.com/ivan-somodorov/4005-122332/)
+[Character Details](https://comicvine.gamespot.com/robert-l-maverick/4005-127864/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
