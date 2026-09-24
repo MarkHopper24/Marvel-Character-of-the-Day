@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Sun King
+## Fifty
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/77/6175148-moon_knight_vol_1_190_textless.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/9/98479/2065453-barracuda_03_02.jpg" width="600" height="auto"/>
 </p>
 
-The Sun King was only referred to by Patient 86. According to Dr. Emmet, he developed bipolar disorder as a teenager, which was compounded by his traumatic childhood bouncing from group homes and juvenile hall. Eventually, he joined the army and ultimately committed to Ravencroft Asylum for murdering his bullying platoon by setting them on fire. Inspired by her previous patient, Moon Knight, Emmet introduced the idea of a different Egyptian god, Ra, the sun god, to help him make sense of his delusions. This backfired when he became Ra's guardian and escaped.
+Fifty getting in drag after Barracuda called him Fifty was an officer in the United States Army during the cold war being an exceptionally skilled soldier who loves violence and has no morals. Barracuda was a member of Fifty's unit and the unit overthrows the socialist government of Santa Morricone and installed the dictator Leopoldo Luna as the countries president. Fifty later started cross dressing and has sexually abused his underlings using his rank to make those under him have sex with him.
 
-**First Appearance:** Moon Knight #188 (1/31/2018)
+**First Appearance:** Punisher Presents: Barracuda #2 (3/21/2007)
 
-[Character Details](https://comicvine.gamespot.com/sun-king/4005-144532/)
+[Character Details](https://comicvine.gamespot.com/fifty/4005-80690/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
