@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Cybertron Agent 19-8
+## Ra'ktar
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11/117930/2280751-cybertron_agent_19_8.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15659/2579243-ra_ktar_avenging_spider_man_3_cover.jpg" width="600" height="auto"/>
 </p>
 
-The Cybertrons are an army of mass produced robots created within a hive inside Computo. Cybertron Agents 114, 78 and 19-8 are sent to steal a powerful new radio transmitter in New York but are stopped by Cyclops and Marvel Girl. Agent 19-8 manages to escape the battle with The X-Men but inadvertently leads the mutants to The Cybertron's base where the robot is destroyed for its failure.
+Ra'ktar possess considerable superhuman strength, durability, and is able to see perfectly well in the dark. He is also well-versed in combat, perhaps not so much in skill, but certainly in brutality and savagery. Like all Molans, Ra'ktar's eyes can't tolerate bright light.
 
-**First Appearance:** The X-Men #48 (9/30/1968)
+**First Appearance:** Avenging Spider-Man #1 (1/1/2012)
 
-[Character Details](https://comicvine.gamespot.com/cybertron-agent-19-8/4005-83349/)
+[Character Details](https://comicvine.gamespot.com/raktar/4005-22188/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
