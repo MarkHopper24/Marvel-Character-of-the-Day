@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Ra'ktar
+## Gunhawk (Hardwick)
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15659/2579243-ra_ktar_avenging_spider_man_3_cover.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9539834-gunhawk.jpg" width="600" height="auto"/>
 </p>
 
-Ra'ktar possess considerable superhuman strength, durability, and is able to see perfectly well in the dark. He is also well-versed in combat, perhaps not so much in skill, but certainly in brutality and savagery. Like all Molans, Ra'ktar's eyes can't tolerate bright light.
+Note: There are three people known as Gunhawk; The first was an Atlas era cowboy named "Red Larabee" whom had his own series and first appeared in The Gunhawk Issue 12. The second, and more well known Gunhawk is Lee Barnett, whom made his first appearance in Western Gunfighters Issue 1.
 
-**First Appearance:** Avenging Spider-Man #1 (1/1/2012)
+**First Appearance:** The Gunhawk #12 (11/1/1950)
 
-[Character Details](https://comicvine.gamespot.com/raktar/4005-22188/)
+[Character Details](https://comicvine.gamespot.com/gunhawk-hardwick/4005-22741/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
