@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Gunhawk (Hardwick)
+## Abigail
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9539834-gunhawk.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/8140608-abigail_%28mutant%29_%28earth-616%29_from_new_mutants_vol_4_20_001.jpg" width="600" height="auto"/>
 </p>
 
-Note: There are three people known as Gunhawk; The first was an Atlas era cowboy named "Red Larabee" whom had his own series and first appeared in The Gunhawk Issue 12. The second, and more well known Gunhawk is Lee Barnett, whom made his first appearance in Western Gunfighters Issue 1.
+Abigail is a child originally from the Tristan Da Cunha off the British isles. Her powers suddenly manifested themselves in a factory, creating seismic waves, with devastating consequences. A team of New Mutants led by Magik and Warpath and made up of young Krakoa mutants; Kappa, Brutha Nature, Sprite, Leo, are sent to save the little girl, but arrived on the island they discover that the islanders and her mother were protecting the little girl, Warpath then decides to leave Abigail in the care of her family while the group continued to help with rescue and offer the child support if she needs it.
 
-**First Appearance:** The Gunhawk #12 (11/1/1950)
+**First Appearance:** New Mutants #20 (9/1/2021)
 
-[Character Details](https://comicvine.gamespot.com/gunhawk-hardwick/4005-22741/)
+[Character Details](https://comicvine.gamespot.com/abigail/4005-171826/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
