@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Brio of Life
+## Hazmat
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/2/28028/667905-brio_of_life.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11116/111167641/6852934-hazmat_marvel.png" width="600" height="auto"/>
 </p>
 
-Brio had lived in this universe since it was young. Brio was given the responsibility of protecting the living universe and the welfare of all living beings. It is unknown whether or not she participated in the battle between Galactus and the other Proemial Gods. She is presumed dead but since there is no evidence that she has died it is unknown whether or not she is still alive. She is believed to be the first Celestial.
+Jenny Takeda was a normal girl with a normal family, normal friends, and a normal life in California. That all changed the day her boyfriend wound up comatose after kissing her. Tests at the hospital confirmed that she was the cause of his coma, and it was then that Norman Osborn, kidnapped her and jump-started her powers against her will. After returning home, her family was exposed to her for so long that they began to fall ill. Even her dog died after prologed exposure and contact with her. Then, thankfully, Hank Pym stepped in and invited her to the Avengers Academy, promising to work on a way to cure her condition, or at least help her regain control of it somehow.
 
-**First Appearance:** Annihilation: Heralds of Galactus #2 (5/31/2007)
+**First Appearance:** Avengers: Spotlight #1 (7/1/2010)
 
-[Character Details](https://comicvine.gamespot.com/brio-of-life/4005-49438/)
+[Character Details](https://comicvine.gamespot.com/hazmat/4005-69914/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
