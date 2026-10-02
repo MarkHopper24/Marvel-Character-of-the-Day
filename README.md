@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Lord Tantalus
+## Swain
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/2022334-tantalus.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/6082508-swain%2017.jpg" width="600" height="auto"/>
 </p>
 
-Very powerful extra-territorial Deviant who conquered worlds for his love Nirvana. He was trapped on Earth for centuries by the Eternals until he was able to use a Stargate near Sol to return to his throne world of Armechadon. Fathered multiple children including Pelops, Id, and Lucian. Tantalus murdered Pelops for betrayal, and was ultimately killed by Lucian as Blackwulf. As an immortal though, as his father-in-law Khult said, he is likely to return through his own ego.
+Prehensile Tail Swain manifested a salamander like-appendage upon her emergence as a Nuhuman. Empathic Dialog: Jovana's true gift from her transformation is a sort of telepathy whereby she can read a person's history and nudge their thoughts and emotions to a degree, often having used it to assuage many thoughts of those Crystal's group have reached out to, in order to prevent conflict between them and the Inhuman species. Through this factor of her abilities she can also reach out to, and direct the energy discharge of, her fellow Nuhuman, Hub, in order to control the R. I. V.'s vast facilities and devices.
 
-**First Appearance:** Thunderstrike #5 (2/1/1994)
+**First Appearance:** All-New Inhumans #1 (2/29/2016)
 
-[Character Details](https://comicvine.gamespot.com/lord-tantalus/4005-26397/)
+[Character Details](https://comicvine.gamespot.com/swain/4005-124556/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
