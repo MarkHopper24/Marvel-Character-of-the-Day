@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Swain
+## Sister Cynthia
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/6082508-swain%2017.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/8/84205/4037426-cynthia.jpg" width="600" height="auto"/>
 </p>
 
-Prehensile Tail Swain manifested a salamander like-appendage upon her emergence as a Nuhuman. Empathic Dialog: Jovana's true gift from her transformation is a sort of telepathy whereby she can read a person's history and nudge their thoughts and emotions to a degree, often having used it to assuage many thoughts of those Crystal's group have reached out to, in order to prevent conflict between them and the Inhuman species. Through this factor of her abilities she can also reach out to, and direct the energy discharge of, her fellow Nuhuman, Hub, in order to control the R. I. V.'s vast facilities and devices.
+Cynthia Chong was pupil of Raga in a communal place following teachings of The Black Lama. She fell in love Mackenzie Davies, a forest ranger, and her own emotion-tap training started to bubble. His master Raga thought she has deserted them and decided to kill her. Unfortunately Iron Man appears and a brutal fight with Raga was done.
 
-**First Appearance:** All-New Inhumans #1 (2/29/2016)
+**First Appearance:** Iron Man #52 (11/1/1972)
 
-[Character Details](https://comicvine.gamespot.com/swain/4005-124556/)
+[Character Details](https://comicvine.gamespot.com/sister-cynthia/4005-37195/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
