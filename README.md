@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Sister Cynthia
+## Rockman
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/8/84205/4037426-cynthia.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11/117763/3514689-twelve006.jpg" width="600" height="auto"/>
 </p>
 
-Cynthia Chong was pupil of Raga in a communal place following teachings of The Black Lama. She fell in love Mackenzie Davies, a forest ranger, and her own emotion-tap training started to bubble. His master Raga thought she has deserted them and decided to kill her. Unfortunately Iron Man appears and a brutal fight with Raga was done.
+Rockman claims to be from a land far below the surface called Abyssia. He ruled with his wife, the Queen and daughter, the Princess. Life has happy and peaceful. The people loved them. One day The Evil One came and brought war to his land. Rockman and his people went into the fight without any hesitation. Their home was worth fighting for no matter what. As they fought, the Evil One kept leading them further away, always out of their grasp. One day Rockman was separated from his people in chasing the Evil One. Alone in the dark tunnels, he could not go back to his home. The way was blocked off.
 
-**First Appearance:** Iron Man #52 (11/1/1972)
+**First Appearance:** USA Comics #1 (8/31/1941)
 
-[Character Details](https://comicvine.gamespot.com/sister-cynthia/4005-37195/)
+[Character Details](https://comicvine.gamespot.com/rockman/4005-46338/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
