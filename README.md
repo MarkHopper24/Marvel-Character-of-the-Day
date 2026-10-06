@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Skyline Killer
+## Sentience of the Universe
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11131/111313703/5695576-skyline_killer_%28earth-616%29.png" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11154/111548590/8130202-6th.jpg" width="600" height="auto"/>
 </p>
 
-Skyline Killer was an assassin, who was hired by criminal Mr. Kramer, the financial director of Kay Cera's business empire to kidnapp and kill Jasmine Destine (alias - Kay Cera) also known as Cuckoo of Clan Destine to prevent her from inheriting her mother's fortune. Skyline Killer then captured Cuckoo and her sister Samantha Destine (Argent), but Spider-Man, Crimson Crusader and Imp arrived and defeated villain. Later Skyline Killer kidnapped and killed Mr. Kramer, because he have crossed him. The vigilante Punisher saw this and shot Skyline Killer, as a result killing him.
+The Sentience of the Universe was the embodiment of life in the previous universe (similar to Eternity in the new universe). This was revealed to be the sixth personification of the multiverse. He is stated as the inventor of science and the builder of the junction to everywhere (Overspace).
 
-**First Appearance:** ClanDestine #6 (3/31/1995)
+**First Appearance:** Super-Villain Classics #1 (5/31/1983)
 
-[Character Details](https://comicvine.gamespot.com/skyline-killer/4005-136272/)
+[Character Details](https://comicvine.gamespot.com/sentience-of-the-universe/4005-111726/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
