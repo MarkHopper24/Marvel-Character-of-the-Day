@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Sentience of the Universe
+## Auran
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11154/111548590/8130202-6th.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/5344/4191715-auran%2002.jpg" width="600" height="auto"/>
 </p>
 
-The Sentience of the Universe was the embodiment of life in the previous universe (similar to Eternity in the new universe). This was revealed to be the sixth personification of the multiverse. He is stated as the inventor of science and the builder of the junction to everywhere (Overspace).
+Auran was part of the Inhuman race and became part of the primary security force for the Inhumans after the events that led to the fall of the city of Attilan in the New York Harbor Bay. Auran was created by Charles Soule and Pepe Larraz and first appeared in Inhuman issue 7 (2014).
 
-**First Appearance:** Super-Villain Classics #1 (5/31/1983)
+**First Appearance:** Inhuman #7 (12/31/2014)
 
-[Character Details](https://comicvine.gamespot.com/sentience-of-the-universe/4005-111726/)
+[Character Details](https://comicvine.gamespot.com/auran/4005-109150/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
