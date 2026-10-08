@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Auran
+## Living Totem
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/5344/4191715-auran%2002.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/11352/1033752-11_20_2009_5_11_17_pm.jpg" width="600" height="auto"/>
 </p>
 
-Auran was part of the Inhuman race and became part of the primary security force for the Inhumans after the events that led to the fall of the city of Attilan in the New York Harbor Bay. Auran was created by Charles Soule and Pepe Larraz and first appeared in Inhuman issue 7 (2014).
+The Living Totem first appeared in The Rawhide Kid #22 in 1961 he was created by Stan Lee and Jack Kirby. The Living Totem's starship crashed on Earth in the American Southwest. He attempted to subjugate the local people but was sealed underground by native medicine men. Years later, the Living Totem was released from his underground prison when some miners blasted a particular silver mine shaft.
 
-**First Appearance:** Inhuman #7 (12/31/2014)
+**First Appearance:** The Rawhide Kid #22 (6/30/1961)
 
-[Character Details](https://comicvine.gamespot.com/auran/4005-109150/)
+[Character Details](https://comicvine.gamespot.com/living-totem/4005-67508/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
