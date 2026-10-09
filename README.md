@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Living Totem
+## Gromitz
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/11352/1033752-11_20_2009_5_11_17_pm.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/3/34965/1568465-gromitz.jpg" width="600" height="auto"/>
 </p>
 
-The Living Totem first appeared in The Rawhide Kid #22 in 1961 he was created by Stan Lee and Jack Kirby. The Living Totem's starship crashed on Earth in the American Southwest. He attempted to subjugate the local people but was sealed underground by native medicine men. Years later, the Living Totem was released from his underground prison when some miners blasted a particular silver mine shaft.
+Gromitz is an alien employed by the Byan'nantandu. He is of a child-like race who are motivated to work through the use of games. Missions are given to them using the "Galaxy Game." The game is like a scavenger hunt with a point system and bonus rounds. During a mission to retrieve a creation of Franklin Richard's, Gromitz cheated by using Cloak as an inter-dimensional gateway.
 
-**First Appearance:** The Rawhide Kid #22 (6/30/1961)
+**First Appearance:** The Mutant Misadventures of Cloak and Dagger #2 (12/1/1988)
 
-[Character Details](https://comicvine.gamespot.com/living-totem/4005-67508/)
+[Character Details](https://comicvine.gamespot.com/gromitz/4005-7543/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
