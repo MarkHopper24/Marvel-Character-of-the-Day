@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Morg
+## The Overseer
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/229/92091-151866-morg.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/10/103503/5300487-the%20overseer.jpg" width="600" height="auto"/>
 </p>
 
-On his home planet, Morg served in an army of rebels fighting against their Queen. He always sought to serve the most powerful. His rebellion was defeated by the sheer numbers of the queen's army. He was taken prisoner and he and the other survivors were brought before the queen, who gave them one last chance to serve her. Since Morg was drawn to the powerful, he turned on his allies and joined the side of the queen. He was then given a position as executioner, and his first duty was to execute his former comrades, which he did with no remorse.
+This artificial intelligence housed on an island run by an unnamed dictator was used to police and repress the people who lived there. It wasn't until a group of rebels were able to escape and were found almost dead by Tony Stark were they able to obtain help by the hero known as Iron Man.
 
-**First Appearance:** Silver Surfer #69 (8/1/1992)
+**First Appearance:** Iron Man #29 (9/1/1970)
 
-[Character Details](https://comicvine.gamespot.com/morg/4005-7122/)
+[Character Details](https://comicvine.gamespot.com/the-overseer/4005-130820/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
