@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## The Overseer
+## Mick Dundee
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/10/103503/5300487-the%20overseer.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/8/83918/3949117-scan%201.jpeg" width="600" height="auto"/>
 </p>
 
-This artificial intelligence housed on an island run by an unnamed dictator was used to police and repress the people who lived there. It wasn't until a group of rebels were able to escape and were found almost dead by Tony Stark were they able to obtain help by the hero known as Iron Man.
+Written by Chris Claremont and drawn by Rick Leonardi. The name clearly hearkens to the screen character Mick Dundee of the "Crocodile Dundee" franchise, though the characters are in no way related outside being from Australia. (The first movie had come out in 1986 with a sequel in 1988.)
 
-**First Appearance:** Iron Man #29 (9/1/1970)
+**First Appearance:** The Uncanny X-Men #235 (10/1/1988)
 
-[Character Details](https://comicvine.gamespot.com/the-overseer/4005-130820/)
+[Character Details](https://comicvine.gamespot.com/mick-dundee/4005-105060/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
