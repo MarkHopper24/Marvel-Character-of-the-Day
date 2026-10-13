@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Mick Dundee
+## Shark-Girl
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/8/83918/3949117-scan%201.jpeg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/6692710-iara_dos_santos_%28earth-616%29_from_old_man_logan_vol_2_39_003.jpg" width="600" height="auto"/>
 </p>
 
-Written by Chris Claremont and drawn by Rick Leonardi. The name clearly hearkens to the screen character Mick Dundee of the "Crocodile Dundee" franchise, though the characters are in no way related outside being from Australia. (The first movie had come out in 1986 with a sequel in 1988.)
+One of the first mutants to emerge post AVX, Iara dos Santos lived in Brazil when her mutant powers kicked in. She suddenly had an amazing graving for fish, and went to the doks to eat the fish some illigela fisherman had just brought in. When the fisherman attacked Iara, she changed the shape of her hands into claws. Her mouth became something like that of a sharkmouth. She was found by Warren Worthington, the Angel, whom, after a fight against Mystique and Silver Samuarai, eventually convinced her to be recruited to the Jean Grey School.
 
-**First Appearance:** The Uncanny X-Men #235 (10/1/1988)
+**First Appearance:** Wolverine & the X-Men #20 (1/14/2013)
 
-[Character Details](https://comicvine.gamespot.com/mick-dundee/4005-105060/)
+[Character Details](https://comicvine.gamespot.com/shark-girl/4005-86424/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
