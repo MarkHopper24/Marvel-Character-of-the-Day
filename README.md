@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Francesca Trask
+## Lionel Dibbs
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11/117763/3247963-ageofapocalypse00205.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/3/37015/797994-lionel_dibbs1.jpg" width="600" height="auto"/>
 </p>
 
-Francesca Trask is the daughter of Bolivar Trask, though the relationship between Francesca and her father proved to be complicated as time past. Francesca began working at a hospital in New Apocalypse, and in her spare time acted as a member of the X-Terminated called Fiend. It was strongly hinted at that she may have had a past romance or one-night stand with her team-mate Horror Show.
+Lionel Dibbs was born in Harlem, New York and grew up in poverty. He claimed to have regurlarly fought rats for his breakfast and loosing a younger sister due to insufficient heating in their tenement. He lost his hands under unspecified circumstances and sought treatment by Dr. Donald Blake (Thor). Blake would later discover his patient suffered from cancer and informed him of only having two months to live. He reacted by going to Stark Industries for a cybernetic prosthetic for his hand. Actually it was a built-in gun which could fire six rounds.
 
-**First Appearance:** Point One #1 (1/31/2012)
+**First Appearance:** Amazing Adventures #6 (5/31/1971)
 
-[Character Details](https://comicvine.gamespot.com/francesca-trask/4005-36164/)
+[Character Details](https://comicvine.gamespot.com/lionel-dibbs/4005-37639/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
