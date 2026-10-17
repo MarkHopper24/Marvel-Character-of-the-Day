@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Lionel Dibbs
+## Erik Czerny
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/3/37015/797994-lionel_dibbs1.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/10/101073/2091402-sp.png" width="600" height="auto"/>
 </p>
 
-Lionel Dibbs was born in Harlem, New York and grew up in poverty. He claimed to have regurlarly fought rats for his breakfast and loosing a younger sister due to insufficient heating in their tenement. He lost his hands under unspecified circumstances and sought treatment by Dr. Donald Blake (Thor). Blake would later discover his patient suffered from cancer and informed him of only having two months to live. He reacted by going to Stark Industries for a cybernetic prosthetic for his hand. Actually it was a built-in gun which could fire six rounds.
+Erik was a brilliant scientist and strategist. The country of Myridia was to be his own inherited from his father General Tibor Czerny. Erik became obsessed with "the Shadows", a small circle of invisible potentates who truly run the world. Convinced that the political and social crises of recent years had been engineered by that Cabal, Erik disappeared in a foolhardy attempt to expose the Shadows.
 
-**First Appearance:** Amazing Adventures #6 (5/31/1971)
+**First Appearance:** Doom 2099 #19 (7/1/1994)
 
-[Character Details](https://comicvine.gamespot.com/lionel-dibbs/4005-37639/)
+[Character Details](https://comicvine.gamespot.com/erik-czerny/4005-80897/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
