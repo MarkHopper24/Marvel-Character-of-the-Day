@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Erik Czerny
+## Marshach
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/10/101073/2091402-sp.png" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/3/38919/1819908-marshach___silver_surfer_annual_4.jpg" width="600" height="auto"/>
 </p>
 
-Erik was a brilliant scientist and strategist. The country of Myridia was to be his own inherited from his father General Tibor Czerny. Erik became obsessed with "the Shadows", a small circle of invisible potentates who truly run the world. Convinced that the political and social crises of recent years had been engineered by that Cabal, Erik disappeared in a foolhardy attempt to expose the Shadows.
+Marshach is an ancestor of Michael Korvac who left Earth in the 26th century to find a better world. One day he gained incredible powers (the power of Korvac that had been sent through time) and he created a Utopian society for his people. He never used the power for destruction.
 
-**First Appearance:** Doom 2099 #19 (7/1/1994)
+**First Appearance:** Guardians of the Galaxy Annual #1 (7/1/1991)
 
-[Character Details](https://comicvine.gamespot.com/erik-czerny/4005-80897/)
+[Character Details](https://comicvine.gamespot.com/marshach/4005-77861/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
