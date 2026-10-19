@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Marshach
+## Cliff Powers
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/3/38919/1819908-marshach___silver_surfer_annual_4.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11125/111254576/5246521-powerscliff1.jpg" width="600" height="auto"/>
 </p>
 
-Marshach is an ancestor of Michael Korvac who left Earth in the 26th century to find a better world. One day he gained incredible powers (the power of Korvac that had been sent through time) and he created a Utopian society for his people. He never used the power for destruction.
+Cliff Powers was born in a family of war heroes. It was when World War II broke out, that he decided to join the U. S. Army, but not with the Infantry, as his father had wanted, but as a medic. Cliff Powers was created by Gary Friedrich and John Severin and first appeared in Sgt. Fury issue 46 (1967).
 
-**First Appearance:** Guardians of the Galaxy Annual #1 (7/1/1991)
+**First Appearance:** Sgt. Fury #46 (9/1/1967)
 
-[Character Details](https://comicvine.gamespot.com/marshach/4005-77861/)
+[Character Details](https://comicvine.gamespot.com/cliff-powers/4005-130207/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
