@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Cliff Powers
+## Ramrod
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11125/111254576/5246521-powerscliff1.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11183/111836101/10090511-39-9872.jpg" width="600" height="auto"/>
 </p>
 
-Cliff Powers was born in a family of war heroes. It was when World War II broke out, that he decided to join the U. S. Army, but not with the Infantry, as his father had wanted, but as a medic. Cliff Powers was created by Gary Friedrich and John Severin and first appeared in Sgt. Fury issue 46 (1967).
+Ramrod's true name or full history remains a mystery besides the fact that he originally was a foreman for an off-shore oil rig who was very notorious for his strict and abusive like behavior towards his workers. This strict attitude one day found itself backfiring against Ramrod when his pushed his workers to where an oil drum fell on Ramrod, causing all bones within his body to break. As to what happened after the accident remains unknown when Ramrod awoke on a spaceship not only fully restored back to normal, but having his entire skeletal system replaced with steel.
 
-**First Appearance:** Sgt. Fury #46 (9/1/1967)
+**First Appearance:** Daredevil #103 (9/30/1973)
 
-[Character Details](https://comicvine.gamespot.com/cliff-powers/4005-130207/)
+[Character Details](https://comicvine.gamespot.com/ramrod/4005-21418/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
