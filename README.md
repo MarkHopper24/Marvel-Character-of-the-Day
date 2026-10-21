@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Ramrod
+## Animalia
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11183/111836101/10090511-39-9872.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11161/111612243/9703677-gpjjsrsw0aexyb8.jpg" width="600" height="auto"/>
 </p>
 
-Ramrod's true name or full history remains a mystery besides the fact that he originally was a foreman for an off-shore oil rig who was very notorious for his strict and abusive like behavior towards his workers. This strict attitude one day found itself backfiring against Ramrod when his pushed his workers to where an oil drum fell on Ramrod, causing all bones within his body to break. As to what happened after the accident remains unknown when Ramrod awoke on a spaceship not only fully restored back to normal, but having his entire skeletal system replaced with steel.
+Jennifer Starkey was an ordinary woman till one day she was abducted by 3K, who experimented on her awakening a mutant gene in her. After that, her memory of the abduction was erased and she was released, returning to her daily life like if nothing happened to her.
 
-**First Appearance:** Daredevil #103 (9/30/1973)
+**First Appearance:** X-Men #4 (11/1/2024)
 
-[Character Details](https://comicvine.gamespot.com/ramrod/4005-21418/)
+[Character Details](https://comicvine.gamespot.com/animalia/4005-191083/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
