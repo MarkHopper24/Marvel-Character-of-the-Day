@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Animalia
+## Leo (Thanos' Zodiac)
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11161/111612243/9703677-gpjjsrsw0aexyb8.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/77/2685236-leo__thanos__zodiac___earth_616__002.jpg" width="600" height="auto"/>
 </p>
 
-Jennifer Starkey was an ordinary woman till one day she was abducted by 3K, who experimented on her awakening a mutant gene in her. After that, her memory of the abduction was erased and she was released, returning to her daily life like if nothing happened to her.
+Leo is one of the members of the new Zodiac team, a group of ambitious people who wanted to conquer the World. Leo wears a special suit supplied by Thanos that enables him to assume the form of a humanoid lion and gives him super-powers. Thanos wanted the Zodiac team to steal different powerful items and take them out from Earth in order to bring balance to the planet and the cosmos. He was one of the Zodiac members who attacked the Helicarrier in order to retrieve an Ultimate Nullifier, while battling the Hulk, he suffered a heart attack and died, the energy of his suit passed through Iron Man's armor, which helped him to known where Zodiac had their powers from and shut them down.
 
-**First Appearance:** X-Men #4 (11/1/2024)
+**First Appearance:** Avengers Assemble #1 (5/1/2012)
 
-[Character Details](https://comicvine.gamespot.com/animalia/4005-191083/)
+[Character Details](https://comicvine.gamespot.com/leo-thanos-zodiac/4005-87622/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
