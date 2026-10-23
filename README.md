@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Leo (Thanos' Zodiac)
+## Patsy Dragonsworth
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/77/2685236-leo__thanos__zodiac___earth_616__002.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11125/111254576/4948767-patsy_dragonsworth_from_howard_the_duck_vol_1_6_0001.jpg" width="600" height="auto"/>
 </p>
 
-Leo is one of the members of the new Zodiac team, a group of ambitious people who wanted to conquer the World. Leo wears a special suit supplied by Thanos that enables him to assume the form of a humanoid lion and gives him super-powers. Thanos wanted the Zodiac team to steal different powerful items and take them out from Earth in order to bring balance to the planet and the cosmos. He was one of the Zodiac members who attacked the Helicarrier in order to retrieve an Ultimate Nullifier, while battling the Hulk, he suffered a heart attack and died, the energy of his suit passed through Iron Man's armor, which helped him to known where Zodiac had their powers from and shut them down.
+Patsy Dragonsworth was a young disturbed girl whom lived on her family estate with her insane mother. She was accused of whitchcraft by the townspeople that lived nearby and they undertook numerous attempts to either kill or 'eat' her. Patsty Dragonsworth was created by Steve Gerber and Gene Colan and first appeared in Howard the Duck Volume 1 issue 6 (1976). Patsy appeared in only two issues and her storyline came to an abrupt ending in which it was not made clear whether she survived or not. Whether creator Steve Gerber had plans to use her again in his series will most likely never be revealed.
 
-**First Appearance:** Avengers Assemble #1 (5/1/2012)
+**First Appearance:** Howard the Duck #6 (11/1/1976)
 
-[Character Details](https://comicvine.gamespot.com/leo-thanos-zodiac/4005-87622/)
+[Character Details](https://comicvine.gamespot.com/patsy-dragonsworth/4005-124791/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
