@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Patsy Dragonsworth
+## Casiolena
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11125/111254576/4948767-patsy_dragonsworth_from_howard_the_duck_vol_1_6_0001.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/6535/5141308-casiolena.jpg" width="600" height="auto"/>
 </p>
 
-Patsy Dragonsworth was a young disturbed girl whom lived on her family estate with her insane mother. She was accused of whitchcraft by the townspeople that lived nearby and they undertook numerous attempts to either kill or 'eat' her. Patsty Dragonsworth was created by Steve Gerber and Gene Colan and first appeared in Howard the Duck Volume 1 issue 6 (1976). Patsy appeared in only two issues and her storyline came to an abrupt ending in which it was not made clear whether she survived or not. Whether creator Steve Gerber had plans to use her again in his series will most likely never be revealed.
+Casiolena was first seen in "Avengers" vol. 1 #83 (December, 1970), seducing the Executioner and convincing him to be her mate. Abandoning the Enchantress in the process. In Defenders" vol. 1 #4 (February, 1973), the realm of Casiolena was introduced. The Enchantress invaded it alongside her new love interest/pawn, the Black Knight. Casiolena had little trouble defeating them both and imprisoning them. Some time later two other visitors from Earth arrived in Casiolena's realm. They were Dr. Bruce Banner (the Hulk) and the now-insane Barbara Morris. Casiolena had them imprisoned as well. The latter two visitors were followed by two allies seeking them, Dr. Strange and Namor.
 
-**First Appearance:** Howard the Duck #6 (11/1/1976)
+**First Appearance:** The Avengers #83 (12/1/1970)
 
-[Character Details](https://comicvine.gamespot.com/patsy-dragonsworth/4005-124791/)
+[Character Details](https://comicvine.gamespot.com/casiolena/4005-33143/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
