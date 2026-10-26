@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Casiolena
+## Zheng Yi
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/6535/5141308-casiolena.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/7941145-zheng_yi_%28earth-616%29_from_shang-chi_vol_1_4_001.jpg" width="600" height="auto"/>
 </p>
 
-Casiolena was first seen in "Avengers" vol. 1 #83 (December, 1970), seducing the Executioner and convincing him to be her mate. Abandoning the Enchantress in the process. In Defenders" vol. 1 #4 (February, 1973), the realm of Casiolena was introduced. The Enchantress invaded it alongside her new love interest/pawn, the Black Knight. Casiolena had little trouble defeating them both and imprisoning them. Some time later two other visitors from Earth arrived in Casiolena's realm. They were Dr. Bruce Banner (the Hulk) and the now-insane Barbara Morris. Casiolena had them imprisoned as well. The latter two visitors were followed by two allies seeking them, Dr. Strange and Namor.
+Zheng Yi was a Chinese sorcerer, younger brother of Zheng Zu, with whom he founded the Five Weapons Society, is uncle of Shang-Chi, Brother Sabre, Sister Hammer, Sister Dagger, Brother Staff and Sister Staff. After Yi's death, Zu changed the organization to crime, using names like Si-Fan and The Celestial Order of the Hai-Dai.
 
-**First Appearance:** The Avengers #83 (12/1/1970)
+**First Appearance:** Secret Avengers #6 (12/31/2010)
 
-[Character Details](https://comicvine.gamespot.com/casiolena/4005-33143/)
+[Character Details](https://comicvine.gamespot.com/zheng-yi/4005-168946/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
