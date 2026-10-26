@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Zheng Yi
+## Ape X
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/7941145-zheng_yi_%28earth-616%29_from_shang-chi_vol_1_4_001.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/13/134753/5611588-img_7305.jpg" width="600" height="auto"/>
 </p>
 
-Zheng Yi was a Chinese sorcerer, younger brother of Zheng Zu, with whom he founded the Five Weapons Society, is uncle of Shang-Chi, Brother Sabre, Sister Hammer, Sister Dagger, Brother Staff and Sister Staff. After Yi's death, Zu changed the organization to crime, using names like Si-Fan and The Celestial Order of the Hai-Dai.
+The ape-cyborg character named Ape-X was created by Mark Gruenwald and Paul Ryan, and first appeared in Squadron Supreme #5. Along with many characters from Earth-712 in the Squadron Supreme home universe, she was part of a groundbreaking story in the analogues of Marvel Comics.
 
-**First Appearance:** Secret Avengers #6 (12/31/2010)
+**First Appearance:** Squadron Supreme #5 (1/1/1986)
 
-[Character Details](https://comicvine.gamespot.com/zheng-yi/4005-168946/)
+[Character Details](https://comicvine.gamespot.com/ape-x/4005-44502/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
