@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Haymaker
+## The Inventor
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9989951-haymaker.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11/114183/4337205-thomas_edison_%28clone%29_%28earth-616%29_001.jpg" width="600" height="auto"/>
 </p>
 
-Haymaker with some members of the Furious Five. Haymaker is a member of an obscure group of villains called the Furious Five alongside teammates Mr. Think, Fumes, Gossip Girl and Badger Teeth. Fumes would run into Spider-Man on Halloween when he tries to escape after a minor heist. One of Fumes' canisters pops in the air and hits Spider-Man in the back of the head. The wall-crawler suffers a concussion as he falls into the alley. A civilian named Rob was dressed as Spider-Man and collapsed nearby in a drunken stupor. Fumes picked up the wrong Spider-Man while Rob's friends take the real Spider-Man back to their apartment.
+The Inventor is a failed clone of famed inventor Thomas Edison who was mixed with cockatiel DNA. He convinces teenagers of the New Jersey area that their lives would be better suited as batteries for his machines. His plans are thwarted by Ms. Marvel.
 
-**First Appearance:** Spider-Man: The Short Halloween #1 (7/31/2009)
+**First Appearance:** Ms. Marvel #5 (8/31/2014)
 
-[Character Details](https://comicvine.gamespot.com/haymaker/4005-78013/)
+[Character Details](https://comicvine.gamespot.com/the-inventor/4005-106665/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
