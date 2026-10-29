@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## The Inventor
+## The Magician
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11/114183/4337205-thomas_edison_%28clone%29_%28earth-616%29_001.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/8/84205/4085892-406px-magician442.jpg" width="600" height="auto"/>
 </p>
 
-The Inventor is a failed clone of famed inventor Thomas Edison who was mixed with cockatiel DNA. He convinces teenagers of the New Jersey area that their lives would be better suited as batteries for his machines. His plans are thwarted by Ms. Marvel.
+The past history and origins of the Magician are unknown. He established a reputation as a talented magician for large parties and other functions In his first appearance, he convinced the wealthy Sterling Stuyvescent to hire him to perform at his party. After performing a few tricks, he made a large canvas appear and drop on the party-goers. While they struggled to escape, he relieved them of their wallets, purses, and jewels. The Wasp was present at the party and confronted him, but he sucked her inside his magic wand and vanished in a puff of smoke.
 
-**First Appearance:** Ms. Marvel #5 (8/31/2014)
+**First Appearance:** Tales to Astonish #56 (6/30/1964)
 
-[Character Details](https://comicvine.gamespot.com/the-inventor/4005-106665/)
+[Character Details](https://comicvine.gamespot.com/the-magician/4005-36455/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
