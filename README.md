@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## The Magician
+## Edward
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/8/84205/4085892-406px-magician442.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/4327/120151-171469-edward.jpg" width="600" height="auto"/>
 </p>
 
-The past history and origins of the Magician are unknown. He established a reputation as a talented magician for large parties and other functions In his first appearance, he convinced the wealthy Sterling Stuyvescent to hire him to perform at his party. After performing a few tricks, he made a large canvas appear and drop on the party-goers. While they struggled to escape, he relieved them of their wallets, purses, and jewels. The Wasp was present at the party and confronted him, but he sucked her inside his magic wand and vanished in a puff of smoke.
+'Edward' was trained by a specialist by the name of 'Van Cleef', not much is known about his childhood or his earlier years. He wasn't always the cold blooded murderer that Anita knows, Anita maybe one of the few people alive who has glimpsed at the real 'Edward' and found something beneath the mask. He is a consummate actor, he can dress and act well enough to blend into any situation or area. The only thing that gives him away are his eyes.
 
-**First Appearance:** Tales to Astonish #56 (6/30/1964)
+**First Appearance:** Anita Blake, Vampire Hunter: Guilty Pleasures #4 (1/24/2007)
 
-[Character Details](https://comicvine.gamespot.com/the-magician/4005-36455/)
+[Character Details](https://comicvine.gamespot.com/edward/4005-42877/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
