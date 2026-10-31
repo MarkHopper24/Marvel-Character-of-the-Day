@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Edward
+## Squid Kid
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/4327/120151-171469-edward.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/9460301-screenshot_20240829-203157.png" width="600" height="auto"/>
 </p>
 
-'Edward' was trained by a specialist by the name of 'Van Cleef', not much is known about his childhood or his earlier years. He wasn't always the cold blooded murderer that Anita knows, Anita maybe one of the few people alive who has glimpsed at the real 'Edward' and found something beneath the mask. He is a consummate actor, he can dress and act well enough to blend into any situation or area. The only thing that gives him away are his eyes.
+Calvin attended the Young Minds Science Expo, Sponsored by Stark-Tech, which was intended to introduce the next brilliant minds in science to the corporate world. Calvin brought his carbonadium synthesizer and was set up in the booth next to Moon Girl, who was preaching against "planned obsolescence." Calvin tried to make friends with her, but he had ulterior motives. He set his squid-themed harnesses to snatch up the other child geniuses for AIM, announcing himself as "Squid Kid." He was foiled by Moon Girl. During his escape, he offered Luna the chance to join him at AIM, but she refused.
 
-**First Appearance:** Anita Blake, Vampire Hunter: Guilty Pleasures #4 (1/24/2007)
+**First Appearance:** Marvel's Voices Infinity Comic #98 (4/24/2024)
 
-[Character Details](https://comicvine.gamespot.com/edward/4005-42877/)
+[Character Details](https://comicvine.gamespot.com/squid-kid/4005-190805/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
