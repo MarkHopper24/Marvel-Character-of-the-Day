@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Squid Kid
+## Alexander Flynn
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/9460301-screenshot_20240829-203157.png" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/2801723-alexander_flynn.jpg" width="600" height="auto"/>
 </p>
 
-Calvin attended the Young Minds Science Expo, Sponsored by Stark-Tech, which was intended to introduce the next brilliant minds in science to the corporate world. Calvin brought his carbonadium synthesizer and was set up in the booth next to Moon Girl, who was preaching against "planned obsolescence." Calvin tried to make friends with her, but he had ulterior motives. He set his squid-themed harnesses to snatch up the other child geniuses for AIM, announcing himself as "Squid Kid." He was foiled by Moon Girl. During his escape, he offered Luna the chance to join him at AIM, but she refused.
+Alexander Flynn was created by Ann Nocenti and Don Perlin in 1985 and first appeared in Beauty and the Beast # 1. A flashback shows Victor Von Doom dispatching a young child and his mother, who looks vaguely like Valeria, Von Doom's long-time "love," in a carriage. Flynn believes that Von Doom is his father, the throne of Latveria his birthright. To claim his birthright, he assumes control of the Gladiators, an underground "fight club" of mutants whom he is secretly seeding to be his army in retaking Latveria. However, through the intercession of Dazzler and the Beast, Flynn is thwarted, and Von Doom arrives on hand to address the situation.
 
-**First Appearance:** Marvel's Voices Infinity Comic #98 (4/24/2024)
+**First Appearance:** Beauty and the Beast #1 (12/31/1984)
 
-[Character Details](https://comicvine.gamespot.com/squid-kid/4005-190805/)
+[Character Details](https://comicvine.gamespot.com/alexander-flynn/4005-31249/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
