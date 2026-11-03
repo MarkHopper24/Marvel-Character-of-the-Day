@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Satrina
+## Black Swan
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/5226/198863-16123-satrina.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/3/31666/2787777-newavn2013004_var.jpg" width="600" height="auto"/>
 </p>
 
-Satrina was the lover of Kartag, the giant who was commanded by the Norns to guard the Twilight Well. Apparently their relationship lacked a bit of communication, because Satrina was unaware of her lover's special duty to the Norns. When she could not prevent Thor and his friends from advancing on the well, she led them directly to Kartag, hoping that he would finish them off.
+Black Swan, originally Yabbot Ummon Tarru, was born a princess on an alternate earth. When her earth experienced an Universal Incursion the Black Priest massacred everyone leaving her the lone survivor. The Black Swans discovered Yabbat and raised her to become one of them and to serve Rabum Alal, the "Great Destroyer."
 
-**First Appearance:** Thor #196 (2/29/1972)
+**First Appearance:** New Avengers #1 (3/13/2013)
 
-[Character Details](https://comicvine.gamespot.com/satrina/4005-37463/)
+[Character Details](https://comicvine.gamespot.com/black-swan/4005-86984/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
