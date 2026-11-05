@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Walter Barrett
+## White Tiger
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/5344/1223538-walter_barrett_01.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/595199-tiger07.jpg" width="600" height="auto"/>
 </p>
 
-Walter Barrett acquired custody of the daughter he never met following the tragic death of her mother. He was ashamed of his daughter's mutant nature and demanded she not use her mutant abilities following her move from Venezuela to the United States. Barrett never afforded time for his daughter and instead his butler Derek Newton tended to her needs. When her father did not even take notice of her birthday, Sofia stormed one of his businesses and began to create an intense tornado within the complex, causing intense damage.
+Originally a white tigress, High Evolutionary needed someone able to track down and kill Man-Beast, so he created White Tiger and gifted her with immunity to mental attacks of Man-Beast. White Tiger was created by Roger Stern and Pascual Ferry for use in Marvel Comics. White Tiger's first appearance is in Heroes for Hire #1 which was released in July of 1997.
 
-**First Appearance:** New Mutants #1 (7/31/2003)
+**First Appearance:** Heroes for Hire #1 (7/31/1997)
 
-[Character Details](https://comicvine.gamespot.com/walter-barrett/4005-54126/)
+[Character Details](https://comicvine.gamespot.com/white-tiger/4005-64450/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
