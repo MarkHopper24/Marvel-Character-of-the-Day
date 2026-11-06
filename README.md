@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## White Tiger
+## Baldur Gallows
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/595199-tiger07.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/10/107849/3552802-baldur_gallows_%28earth-928%29.png" width="600" height="auto"/>
 </p>
 
-Originally a white tigress, High Evolutionary needed someone able to track down and kill Man-Beast, so he created White Tiger and gifted her with immunity to mental attacks of Man-Beast. White Tiger was created by Roger Stern and Pascual Ferry for use in Marvel Comics. White Tiger's first appearance is in Heroes for Hire #1 which was released in July of 1997.
+Baldur Gallows was raised a Thorite and became a member of the Public Eye Police Force and of the Church of Thor, as his older brother Jake was. His father was a cop too, in an unknown service, and died on unknown circumstances. Having his studies paid by Jake's sold, Baldur intended to go into the top of the Public Eye instead of keeping on field work. He was also married to Astra, and they were going to qualify for a child test.
 
-**First Appearance:** Heroes for Hire #1 (7/31/1997)
+**First Appearance:** Pummeler $2099 #1 (1/1/1993)
 
-[Character Details](https://comicvine.gamespot.com/white-tiger/4005-64450/)
+[Character Details](https://comicvine.gamespot.com/baldur-gallows/4005-96286/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
