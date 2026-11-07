@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Baldur Gallows
+## White Dwarf
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/10/107849/3552802-baldur_gallows_%28earth-928%29.png" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/4/46984/7333445-white%20dwarf1.jpg" width="600" height="auto"/>
 </p>
 
-Baldur Gallows was raised a Thorite and became a member of the Public Eye Police Force and of the Church of Thor, as his older brother Jake was. His father was a cop too, in an unknown service, and died on unknown circumstances. Having his studies paid by Jake's sold, Baldur intended to go into the top of the Public Eye instead of keeping on field work. He was also married to Astra, and they were going to qualify for a child test.
+White Dwarf hails from Earth-1010, an alternate reality in which Nightcrawler and Rogue are the only surviving members of the X-Men. Recruited into the X-Men three months prior to his eleventh birthday, White Dwarf is considered to be a pre-adoloescent powerhouse. The young mutant is super-strong and super-dense and possesses a high-level intellect geared towards problem-solving.
 
-**First Appearance:** Pummeler $2099 #1 (1/1/1993)
+**First Appearance:** X-Men: Millennial Visions #1 (8/1/2000)
 
-[Character Details](https://comicvine.gamespot.com/baldur-gallows/4005-96286/)
+[Character Details](https://comicvine.gamespot.com/white-dwarf/4005-162070/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
