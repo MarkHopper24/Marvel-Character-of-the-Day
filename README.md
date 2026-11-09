@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Paint
+## Executor
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11158/111583675/8464299-paintvs.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/9941034-rco010_1762294930.jpg" width="600" height="auto"/>
 </p>
 
-When Paint's powers activated she was happy and treated them as a gift. However her parents hated her for it and she gave into feelings of self-loathing. It was only when she came to Valle Soleada did she start accepting who she was, fell in love and married a fellow mutant called Jack Freestone.
+The Executor is a New York City firefighter. While on duty, he witnessed a possessed Wrecker killing a number of civilians. While Wrecker was eventually stopped by Doctor Strange, the firefighter was already traumatized. When therapy didn't help, he turned to magic. He started acquiring spellbooks and studied them voraciously, until he was able to command the dead.
 
-**First Appearance:** X-Treme X-Pose #1 (1/1/2003)
+**First Appearance:** Moon Knight: Fist of Khonshu #13 (12/1/2025)
 
-[Character Details](https://comicvine.gamespot.com/paint/4005-176591/)
+[Character Details](https://comicvine.gamespot.com/executor/4005-196128/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
