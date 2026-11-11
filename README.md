@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Nemesis
+## Sliver
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/77/190015-41248-nemesis.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11/110802/3902033-sliver.jpg" width="600" height="auto"/>
 </p>
 
-There have been 3 characters named Nemesis with the same outfit and powers. For the first Nemesis, go to Isabel St. Ives. For the second Nemesis, go to Jane Thorne. The third Nemesis, Amelia Weatherly, originally lived in the 19th century where she was the mistress of Centennial. She was killed but later revived by the promethium soulsword, Scell. Technically still dead, if Scell is removed from her proximity, Nemesis' body ceases to function.
+Before becoming a member of the new Euroforce, Franco Fibbri was a famous soccer player, stated as "the most paid soccer player in the world". When he retire, he spent all his money on a dangerous project to imbue himself with strange and unidentified alien substance which transformed him into the golden compound being. He take the battle name of Sliver.
 
-**First Appearance:** Marvel Previews #7 (5/1/2004)
+**First Appearance:** Avengers World #8 (8/31/2014)
 
-[Character Details](https://comicvine.gamespot.com/nemesis/4005-9367/)
+[Character Details](https://comicvine.gamespot.com/sliver/4005-104051/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
