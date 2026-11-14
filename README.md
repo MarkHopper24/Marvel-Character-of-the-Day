@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Sal
+## Liberty
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/13/132256/4026717-sal.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11161/111612243/9710324-4031164869-latest.jpg" width="600" height="auto"/>
 </p>
 
-After the Punisher burned the Bar With No Name during Stilt-Man 's wake, Sal re-opened it and with a group of small time criminals, managed to acquire Stilt-Man's suit thanks to the Tinkerer. The want to form a Stilt-Man crew. Sal acquired the bar on the logical basis that the Punisher would not burn the place to the ground twice in a row and that no criminals would dare coming back in here after Castle's last visit.
+Liberty was a preteen science prodigy who got attention after winning a prestigious award for her light-bending flight harness. At some point, she was taken in by Hydra, to help them appeal to a younger demographic and represent a Hydra new world order. As a member of The Assembly, she would have a run in with Spider-Woman, who helped reveal the truth to her and her teammates.
 
-**First Appearance:** Punisher War Journal #26 (2/1/2009)
+**First Appearance:** Web of Spider-Man #1 (5/1/2024)
 
-[Character Details](https://comicvine.gamespot.com/sal/4005-106504/)
+[Character Details](https://comicvine.gamespot.com/liberty/4005-189375/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
