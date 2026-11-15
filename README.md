@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Liberty
+## Laraina
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11161/111612243/9710324-4031164869-latest.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/8472950-laraina4.jpg" width="600" height="auto"/>
 </p>
 
-Liberty was a preteen science prodigy who got attention after winning a prestigious award for her light-bending flight harness. At some point, she was taken in by Hydra, to help them appeal to a younger demographic and represent a Hydra new world order. As a member of The Assembly, she would have a run in with Spider-Woman, who helped reveal the truth to her and her teammates.
+Laraina was Queen of Martian Zoranthus (whatever that is) until deposed by her enemy Golak. She escaped and started recruiting an army of rebels to reclaim her throne. Her activities remained largely secret to escape Golak's watchful eye. She kept an eye for the activities of handsome racer Comet Pierce and fell in love with him from afar. At some point Pierce crash-landed on an isolated asteroid and left for dead. Laraina rushed to rescue him and slew the erpentine Horror" with her heat gun. She nursed Pierce back to health and then confronted him with a kiss, a confession of love and a present: a rocket engine able to travel at high speeds.
 
-**First Appearance:** Web of Spider-Man #1 (5/1/2024)
+**First Appearance:** Red Raven Comics #1 (8/1/1940)
 
-[Character Details](https://comicvine.gamespot.com/liberty/4005-189375/)
+[Character Details](https://comicvine.gamespot.com/laraina/4005-78678/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
