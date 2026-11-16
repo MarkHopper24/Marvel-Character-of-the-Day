@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Laraina
+## Blackout
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/8472950-laraina4.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/10125574-blackout.jpg" width="600" height="auto"/>
 </p>
 
-Laraina was Queen of Martian Zoranthus (whatever that is) until deposed by her enemy Golak. She escaped and started recruiting an army of rebels to reclaim her throne. Her activities remained largely secret to escape Golak's watchful eye. She kept an eye for the activities of handsome racer Comet Pierce and fell in love with him from afar. At some point Pierce crash-landed on an isolated asteroid and left for dead. Laraina rushed to rescue him and slew the erpentine Horror" with her heat gun. She nursed Pierce back to health and then confronted him with a kiss, a confession of love and a present: a rocket engine able to travel at high speeds.
+A petty criminal with a good education, Marcus Daniels managed to evade any serious punishment from the law when a generous scientist employed him as his lab assistant. Marcus helped build a machine to tap into other-dimensional energies but didn't much care for his new job. Marcus was caught in an explosion when the equipment failed and was granted the ability to access and control energy from the Darkforce Dimension. Deciding to use his new found powers to continue his life of crime, Marcus had a special suit designed to help him control the Darkforce and became the super-villain Blackout.
 
-**First Appearance:** Red Raven Comics #1 (8/1/1940)
+**First Appearance:** Nova #18 (3/31/1978)
 
-[Character Details](https://comicvine.gamespot.com/laraina/4005-78678/)
+[Character Details](https://comicvine.gamespot.com/blackout/4005-11839/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
