@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Blackout
+## Lineage
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/10125574-blackout.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15659/3768884-gordon_nobili-thunderbolts%2318-cover.jpg" width="600" height="auto"/>
 </p>
 
-A petty criminal with a good education, Marcus Daniels managed to evade any serious punishment from the law when a generous scientist employed him as his lab assistant. Marcus helped build a machine to tap into other-dimensional energies but didn't much care for his new job. Marcus was caught in an explosion when the equipment failed and was granted the ability to access and control energy from the Darkforce Dimension. Deciding to use his new found powers to continue his life of crime, Marcus had a special suit designed to help him control the Darkforce and became the super-villain Blackout.
+Gordon Nobili was part of a criminal organization that used his intellect to outsmart his rivals and enemies. When the Terrigen Mists came he transformed into a purple-skinned humanoid who gained the ability to talk to dead people in his Lineage. Lineage was created by Charles Soule and Jefte Palo and first appeared in Thunderbolts #14.
 
-**First Appearance:** Nova #18 (3/31/1978)
+**First Appearance:** Thunderbolts #14 (10/31/2013)
 
-[Character Details](https://comicvine.gamespot.com/blackout/4005-11839/)
+[Character Details](https://comicvine.gamespot.com/lineage/4005-93442/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
