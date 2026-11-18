@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Lineage
+## Father Phillip
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15659/3768884-gordon_nobili-thunderbolts%2318-cover.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11158/111583675/8472592-135.jpg" width="600" height="auto"/>
 </p>
 
-Gordon Nobili was part of a criminal organization that used his intellect to outsmart his rivals and enemies. When the Terrigen Mists came he transformed into a purple-skinned humanoid who gained the ability to talk to dead people in his Lineage. Lineage was created by Charles Soule and Jefte Palo and first appeared in Thunderbolts #14.
+Father Philip was the leader of the Children of Heaven, a cult of young impressionable mutants. He abused his position as the cult's leader to involve his wards in pornography and drugs. Archangel, following a lead, revealed what was happening and shut the operation down. One of Father Phillip's most abused wards, Beth took Father Phillip down with a psychic bolt in revenge. He was then arrested by the police.
 
-**First Appearance:** Thunderbolts #14 (10/31/2013)
+**First Appearance:** X-Factor #47 (11/1/1989)
 
-[Character Details](https://comicvine.gamespot.com/lineage/4005-93442/)
+[Character Details](https://comicvine.gamespot.com/father-phillip/4005-176808/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
