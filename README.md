@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Father Phillip
+## N'astirh
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11158/111583675/8472592-135.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11/117763/2886293-ohotmu_a_to_z__2___page_39.jpg" width="600" height="auto"/>
 </p>
 
-Father Philip was the leader of the Children of Heaven, a cult of young impressionable mutants. He abused his position as the cult's leader to involve his wards in pornography and drugs. Archangel, following a lead, revealed what was happening and shut the operation down. One of Father Phillip's most abused wards, Beth took Father Phillip down with a psychic bolt in revenge. He was then arrested by the police.
+N'Astirh was a demon that lived in Limbo. He has proven to be a master manipulator that enjoys the corruption of those he chooses as his targets. While Illyana Rasputin was trapped in Limbo, he pretended to help her by defending her against S'ym. All the while, manipulating her to further his own agendas. This eventually led to him and his demons to invade earth. During this time, N'astirh tried to wreck as much havok on earth as he could. He also made a pact with Cameron Hodge, promising him immortality. Besides that, he awoke the dark side of Madelyne Pryor through her dreams, causing her to become the evil Goblyn Queen. Then manipulated her further while posing as her servant.
 
-**First Appearance:** X-Factor #47 (11/1/1989)
+**First Appearance:** X-Factor #32 (9/1/1988)
 
-[Character Details](https://comicvine.gamespot.com/father-phillip/4005-176808/)
+[Character Details](https://comicvine.gamespot.com/nastirh/4005-42869/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
