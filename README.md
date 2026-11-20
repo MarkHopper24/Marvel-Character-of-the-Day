@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## N'astirh
+## Plantman (Paul)
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11/117763/2886293-ohotmu_a_to_z__2___page_39.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/6/67344/5185604-plantman_%28paul%29_%28earth-616%29_from_astonishing_ant-man_vol_1_7_002.jpg" width="600" height="auto"/>
 </p>
 
-N'Astirh was a demon that lived in Limbo. He has proven to be a master manipulator that enjoys the corruption of those he chooses as his targets. While Illyana Rasputin was trapped in Limbo, he pretended to help her by defending her against S'ym. All the while, manipulating her to further his own agendas. This eventually led to him and his demons to invade earth. During this time, N'astirh tried to wreck as much havok on earth as he could. He also made a pact with Cameron Hodge, promising him immortality. Besides that, he awoke the dark side of Madelyne Pryor through her dreams, causing her to become the evil Goblyn Queen. Then manipulated her further while posing as her servant.
+Paul was a young adult who worked in a comic book shop, he was fired after his boss discovered Paul was stealing issues with variant covers, which he was selling to sustain his gaming hobby. Paul took notice of the Hench X App, and decided he could work as a super-villain mercenary, which he believed would certainly pay more than a minimum wage job. He also decided to take the opportunity to impress a girl he knew.
 
-**First Appearance:** X-Factor #32 (9/1/1988)
+**First Appearance:** The Astonishing Ant-Man #7 (6/30/2016)
 
-[Character Details](https://comicvine.gamespot.com/nastirh/4005-42869/)
+[Character Details](https://comicvine.gamespot.com/plantman-paul/4005-129200/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
