@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Plantman (Paul)
+## Knull
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/6/67344/5185604-plantman_%28paul%29_%28earth-616%29_from_astonishing_ant-man_vol_1_7_002.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/9929765-large-8281856.jpg" width="600" height="auto"/>
 </p>
 
-Paul was a young adult who worked in a comic book shop, he was fired after his boss discovered Paul was stealing issues with variant covers, which he was selling to sustain his gaming hobby. Paul took notice of the Hench X App, and decided he could work as a super-villain mercenary, which he believed would certainly pay more than a minimum wage job. He also decided to take the opportunity to impress a girl he knew.
+Knull made his first appearance in Thor: God of Thunder #6, where he was unnamed and only seen in the aftermath of a cosmic struggle that led to him being rendered unconscious and his Necrosword finding its way into the hands of Gorr. He was first named in Venom #3, where he revealed himself to be the creator of the symbiotes.
 
-**First Appearance:** The Astonishing Ant-Man #7 (6/30/2016)
+**First Appearance:** Thor: God of Thunder #6 (5/31/2013)
 
-[Character Details](https://comicvine.gamespot.com/plantman-paul/4005-129200/)
+[Character Details](https://comicvine.gamespot.com/knull/4005-149552/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
