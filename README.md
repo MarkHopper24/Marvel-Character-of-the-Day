@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Knull
+## Satan the Wonderhorse
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/9929765-large-8281856.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/10/107504/6122047-satan%20the%20wonderhorse.jpg" width="600" height="auto"/>
 </p>
 
-Knull made his first appearance in Thor: God of Thunder #6, where he was unnamed and only seen in the aftermath of a cosmic struggle that led to him being rendered unconscious and his Necrosword finding its way into the hands of Gorr. He was first named in Venom #3, where he revealed himself to be the creator of the symbiotes.
+A furious beast, mount of the Black Rider. Like his owner, he also has a secret identity as an old and famelic horse named "Ichabod". Has feats of visible superstrength, teleportation, flying and high intelligence, having saved the Rider from many deadly situations.
 
-**First Appearance:** Thor: God of Thunder #6 (5/31/2013)
+**First Appearance:** All Western Winners #2 (12/1/1948)
 
-[Character Details](https://comicvine.gamespot.com/knull/4005-149552/)
+[Character Details](https://comicvine.gamespot.com/satan-the-wonderhorse/4005-143558/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
