@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Satan the Wonderhorse
+## Svip
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/10/107504/6122047-satan%20the%20wonderhorse.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/5/55328/2933323-svipp.jpg" width="600" height="auto"/>
 </p>
 
-A furious beast, mount of the Black Rider. Like his owner, he also has a secret identity as an old and famelic horse named "Ichabod". Has feats of visible superstrength, teleportation, flying and high intelligence, having saved the Rider from many deadly situations.
+Asgardian Berserkers Svip, and his associates Bodvar and Einhar persist in a strange foreign land to kill undesirables. They are Berserkers. Exiled by Odin in some time in the distant past, they spend their lives killing and fighting against giant creatures and surreal monsters. However one day they would find a new Berserker amongst their midst, the warrior Sif who had been transported their by her brother Heimdall.
 
-**First Appearance:** All Western Winners #2 (12/1/1948)
+**First Appearance:** Journey into Mystery #647 (2/1/2013)
 
-[Character Details](https://comicvine.gamespot.com/satan-the-wonderhorse/4005-143558/)
+[Character Details](https://comicvine.gamespot.com/svip/4005-88078/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
