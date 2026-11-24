@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Svip
+## Capricorn (Thanos' Zodiac)
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/5/55328/2933323-svipp.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/8/84205/2869260-capricorn__thanos__zodiac___earth_616__001.jpg" width="600" height="auto"/>
 </p>
 
-Asgardian Berserkers Svip, and his associates Bodvar and Einhar persist in a strange foreign land to kill undesirables. They are Berserkers. Exiled by Odin in some time in the distant past, they spend their lives killing and fighting against giant creatures and surreal monsters. However one day they would find a new Berserker amongst their midst, the warrior Sif who had been transported their by her brother Heimdall.
+The new Zodiac team, are a group of ambitious people who wanted to conquer the World using special suits supplied by Thanos which gives them super-powers. Thanos wanted them to steal different powerful items and take them out from Earth in order to bring balance to the planet and the cosmos.
 
-**First Appearance:** Journey into Mystery #647 (2/1/2013)
+**First Appearance:** Avengers Assemble #1 (5/1/2012)
 
-[Character Details](https://comicvine.gamespot.com/svip/4005-88078/)
+[Character Details](https://comicvine.gamespot.com/capricorn-thanos-zodiac/4005-87623/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
