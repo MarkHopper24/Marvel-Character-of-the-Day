@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Capricorn (Thanos' Zodiac)
+## Mort the Dead Teenager
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/8/84205/2869260-capricorn__thanos__zodiac___earth_616__001.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/77/1897047-mort.jpg" width="600" height="auto"/>
 </p>
 
-The new Zodiac team, are a group of ambitious people who wanted to conquer the World using special suits supplied by Thanos which gives them super-powers. Thanos wanted them to steal different powerful items and take them out from Earth in order to bring balance to the planet and the cosmos.
+Mort was raised in a dysfunctional family causing him to end up as a wimp. He was often bullied by Slick whose girlfriend Kimberley attracted Mort a lot. One day Mort took his father's old-fashioned car at the Konvenience Korner to race against Slick's sport car. Who crosses the railroad first would win. Slick won but the Babylon Express crashed into Mort and killing him. The car's brakes didn't work. He ended up in the Netherworld and met Teen Death who explained him what had happened and takes him back to Earth. His funeral Kimberley reveals her feelings and Mort is enraged. Teen Death teaches him to haunt people. Mort starts to scare all those who disliked and used him.
 
-**First Appearance:** Avengers Assemble #1 (5/1/2012)
+**First Appearance:** Marvel Age #130 (11/1/1993)
 
-[Character Details](https://comicvine.gamespot.com/capricorn-thanos-zodiac/4005-87623/)
+[Character Details](https://comicvine.gamespot.com/mort-the-dead-teenager/4005-1963/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
