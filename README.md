@@ -4,16 +4,16 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Marvel-Entertainment-Logo.png" alt="Marvel Logo" width="350" height="auto">
 </p>
 
-## Toma Zaslon
+## Raptor Prime
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/6479553-toma_zaslon_%28earth-616%29_from_weapon_x_vol_3_19_001.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11114/111141742/6985295-rco010%20%283%29.jpg" width="600" height="auto"/>
 </p>
 
-The Russian general known as Toma Zaslon is a publicly known mutant rights activist in a largely anti-mutant corner of her home nation. While secretly a powerful and influential mutant herself, having been operating under the noses of her racist superiors for years on end.
+The very first raptor born when ancient Shi'ar came in contact with drupe from the Tree of Shadows. Adapting both the civil identity of it's parent race coupled with the unique facilities of that belonging to primitive Skrulls gave rise to the universes most lethal entities imaginable.
 
-**First Appearance:** Weapon X #19 (8/1/2018)
+**First Appearance:** Infinity Countdown: Darkhawk #3 (8/1/2018)
 
-[Character Details](https://comicvine.gamespot.com/toma-zaslon/4005-148794/)
+[Character Details](https://comicvine.gamespot.com/raptor-prime/4005-157013/)
 
 <h2>What is this repository?</h2>
 Marvel Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different Marvel character each day. The repository picks a random character daily @ 5am UTC.
